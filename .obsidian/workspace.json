@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/random/Movies and Films.md",
+                "file": "screams.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/random/Movies and Films.md"
+                "file": "notebook/notebook/Things to take note of.md"
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/random/Movies and Films.md",
+                "file": "notebook/notebook/Things to take note of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/random/Movies and Films.md",
+                "file": "notebook/notebook/Things to take note of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,11 +208,12 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "50ae46defdfe18c8",
+  "active": "7d041172f0088ccf",
   "lastOpenFiles": [
+    "screams.md",
+    "notebook/random/Movies and Films.md",
     "notebook/notebook/People.md",
     "notebook/notebook/Music.md",
-    "notebook/random/Movies and Films.md",
     "Learning/Chinese.md",
     "notebook/random/Music Making.md",
     "notebook/notebook/Things to take note of.md",
@@ -220,7 +221,6 @@
     "notebook/random/Tlon Urbit.md",
     "notebook/notebook/기다리는 택배.md",
     "Date to do.md",
-    "screams.md",
     "Things to bring back from home.md",
     "quick note.md",
     "README.md",
