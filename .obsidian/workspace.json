@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/비번매니저.md",
+                "file": "notebook/random/Music Making.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/notebook/Things to take note of.md"
+                "file": "notebook/random/Music Making.md"
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/notebook/Things to take note of.md",
+                "file": "notebook/random/Music Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/notebook/Things to take note of.md",
+                "file": "notebook/random/Music Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,12 +208,13 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "7d041172f0088ccf",
+  "active": "50ae46defdfe18c8",
   "lastOpenFiles": [
-    "notebook/비번매니저.md",
-    "notebook/random/Movies and Films.md",
-    "screams.md",
+    "notebook/notebook/Movies and Films.md",
+    "notebook/notebook/Untitled.md",
     "notebook/notebook/Things to take note of.md",
+    "notebook/비번매니저.md",
+    "screams.md",
     "notebook/notebook/People.md",
     "notebook/notebook/Music.md",
     "Learning/Chinese.md",
@@ -250,7 +251,6 @@
     "School/z.Other/Jamie_Lee_Heartsaver_Online.pdf",
     "School/Spring2024/Spring 2024 Plan.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
-    "School/Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
     "School/Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School/Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School/Fall2023/NURS339/Notes/9.5 PreOp/image.png",
