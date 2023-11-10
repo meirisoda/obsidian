@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/OAuth.md",
+                "file": "CS/sigh.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/OAuth.md"
+                "file": "CS/sigh.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/OAuth.md",
+                "file": "CS/sigh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/OAuth.md",
+                "file": "CS/sigh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
   "lastOpenFiles": [
     "CS/Intro.md",
     "CS/JavaScript.md",
-    "CS/OAuth.md",
+    "CS/sigh.md",
     "School/Fall2023/ARTS302/Francis_D._K._Ching_-_Architecture__Form_Space_and_Order-Wiley_(2007)-1.pdf",
     "quick note.md",
     "notebook/일기 + 생각/우울하다.md",
