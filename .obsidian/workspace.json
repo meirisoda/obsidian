@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "50ae46defdfe18c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notebook/random/Chinese.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dc2aafe63ea1ee3a",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a0c7b4882469b1da",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/notebook/Things to take note of.md"
+                "file": "notebook/random/Chinese.md"
               }
             }
           }
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/notebook/Things to take note of.md",
+                "file": "notebook/random/Chinese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/notebook/Things to take note of.md",
+                "file": "notebook/random/Chinese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,13 +208,14 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "7d041172f0088ccf",
+  "active": "50ae46defdfe18c8",
   "lastOpenFiles": [
+    "notebook/random/Movies and Films.md",
+    "notebook/notebook/Music.md",
     "notebook/random/Music Making.md",
-    "notebook/random/NJCLASS.md",
     "notebook/notebook/Things to take note of.md",
+    "notebook/random/NJCLASS.md",
     "notebook/random/Tlon Urbit.md",
-    "notebook/notebook/sunvox patch.md",
     "notebook/notebook/기다리는 택배.md",
     "Date to do.md",
     "screams.md",
@@ -225,7 +238,6 @@
     "notebook/random/NJCLASS/Untitled.png",
     "notebook/random/Tlon Urbit",
     "notebook/random/NJCLASS",
-    "notebook/random/Movies and Films.md",
     "notebook/random/Chinese.md",
     "notebook/random",
     "notebook/notebook/People.md",
