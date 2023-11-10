@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to bring back from home.md",
+                "file": "notebook/Things to take note of.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to bring back from home.md"
+                "file": "notebook/Things to take note of.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to bring back from home.md",
+                "file": "notebook/Things to take note of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to bring back from home.md",
+                "file": "notebook/Things to take note of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,7 @@
   },
   "active": "dc2aafe63ea1ee3a",
   "lastOpenFiles": [
+    "Things to bring back from home.md",
     "Learning/Linux.md",
     "Pasted image 20231101225928.png.md",
     "notebook/Things to take note of.md",
@@ -177,7 +178,6 @@
     "screams.md",
     "notebook/notebook/기다리는 택배.md",
     "Date to do.md",
-    "Things to bring back from home.md",
     "quick note.md",
     "README.md",
     "CS/screams.md",
