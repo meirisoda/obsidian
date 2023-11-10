@@ -2,5 +2,5 @@
 
 secret: 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
 
-### Github P
+### Github Personal Token
 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

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "screams.md",
+                "file": "Date to do.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "screams.md"
+                "file": "Date to do.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screams.md",
+                "file": "Date to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screams.md",
+                "file": "Date to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,13 +169,14 @@
   "active": "602aa641d8b01a2b",
   "lastOpenFiles": [
     "screams.md",
+    "quick note.md",
+    "README.md",
     "CS/screams.md",
     "CS/Intro.md",
     "CS/sigh.md",
     "lu95542iv12.tmp",
     "CS/JavaScript.md",
     "School/Fall2023/ARTS302/Francis_D._K._Ching_-_Architecture__Form_Space_and_Order-Wiley_(2007)-1.pdf",
-    "quick note.md",
     "notebook/일기 + 생각/우울하다.md",
     "notebook/일기 + 생각/근황.md",
     "notebook/일기 + 생각/그림이란.md",
@@ -208,7 +209,6 @@
     "School/Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
-    "School/Fall2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
     "School/Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School/Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School/Fall2023/NURS339/Notes/9.5 PreOp/image.png",
