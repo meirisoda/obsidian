@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/sigh.md",
+                "file": "CS/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/sigh.md"
+                "file": "CS/Intro.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/sigh.md",
+                "file": "CS/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/sigh.md",
+                "file": "CS/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +159,10 @@
   },
   "active": "5f4da4ef7f484f25",
   "lastOpenFiles": [
+    "CS/sigh.md",
     "lu95542iv12.tmp",
     "CS/Intro.md",
     "CS/JavaScript.md",
-    "CS/sigh.md",
     "School/Fall2023/ARTS302/Francis_D._K._Ching_-_Architecture__Form_Space_and_Order-Wiley_(2007)-1.pdf",
     "quick note.md",
     "notebook/일기 + 생각/우울하다.md",
@@ -192,7 +192,6 @@
     "history-of-unix.avif",
     "Things to bring back from home.md",
     "School/z.Other/Jamie_Lee_Heartsaver_Online.pdf",
-    "School/z.Other",
     "School/Spring2024/Spring 2024 Plan.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
