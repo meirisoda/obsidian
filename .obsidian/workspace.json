@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/random/Chinese.md",
+                "file": "notebook/random/Movies and Films.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/random/Chinese.md"
+                "file": "notebook/random/Movies and Films.md"
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/random/Chinese.md",
+                "file": "notebook/random/Movies and Films.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/random/Chinese.md",
+                "file": "notebook/random/Movies and Films.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +210,10 @@
   },
   "active": "50ae46defdfe18c8",
   "lastOpenFiles": [
-    "notebook/random/Movies and Films.md",
+    "notebook/notebook/People.md",
     "notebook/notebook/Music.md",
+    "notebook/random/Movies and Films.md",
+    "Learning/Chinese.md",
     "notebook/random/Music Making.md",
     "notebook/notebook/Things to take note of.md",
     "notebook/random/NJCLASS.md",
@@ -238,9 +240,7 @@
     "notebook/random/NJCLASS/Untitled.png",
     "notebook/random/Tlon Urbit",
     "notebook/random/NJCLASS",
-    "notebook/random/Chinese.md",
     "notebook/random",
-    "notebook/notebook/People.md",
     "notebook/notebook/Gym.md",
     "notebook/notebook",
     "notebook/Images/Pasted image 20231103102801.png",
