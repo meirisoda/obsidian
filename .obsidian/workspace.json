@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to bring back from home.md",
+                "file": "notebook/notebook/sunvox patch.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to bring back from home.md"
+                "file": "notebook/notebook/sunvox patch.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to bring back from home.md",
+                "file": "notebook/notebook/sunvox patch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to bring back from home.md",
+                "file": "notebook/notebook/sunvox patch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +168,11 @@
   },
   "active": "602aa641d8b01a2b",
   "lastOpenFiles": [
+    "notebook/notebook/기다리는 택배.md",
+    "notebook/notebook/sunvox patch.md",
     "Date to do.md",
     "screams.md",
+    "Things to bring back from home.md",
     "quick note.md",
     "README.md",
     "CS/screams.md",
@@ -194,8 +197,6 @@
     "notebook/random/Movies and Films.md",
     "notebook/random/Chinese.md",
     "notebook/random",
-    "notebook/notebook/기다리는 택배.md",
-    "notebook/notebook/sunvox patch.md",
     "notebook/notebook/People.md",
     "notebook/notebook/Gym.md",
     "notebook/notebook",
@@ -203,7 +204,6 @@
     "notebook/Images/Pasted image 20231101225928.png",
     "notebook/Images",
     "history-of-unix.avif",
-    "Things to bring back from home.md",
     "School/z.Other/Jamie_Lee_Heartsaver_Online.pdf",
     "School/Spring2024/Spring 2024 Plan.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
