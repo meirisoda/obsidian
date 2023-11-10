@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f4da4ef7f484f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notebook/Movies and Films.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc2aafe63ea1ee3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/Things to take note of.md",
+                "file": "Learning/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/Movies and Films.md"
+                "file": "Learning/Linux.md"
               }
             }
           }
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/Movies and Films.md",
+                "file": "Learning/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/Movies and Films.md",
+                "file": "Learning/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,30 +175,32 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "5f4da4ef7f484f25",
+  "active": "dc2aafe63ea1ee3a",
   "lastOpenFiles": [
+    "notebook/Things to take note of.md",
+    "Pasted image 20231101225928.png.md",
+    "Learning/Linux.md",
+    "Learning/Chinese.md",
+    "Learning/JavaScript.md",
+    "notebook/Movies and Films.md",
+    "Learning/Intro.md",
     "notebook/People.md",
     "notebook/Gym.md",
-    "notebook/Movies and Films.md",
     "notebook/Music.md",
     "notebook/random/Tlon Urbit.md",
     "notebook/random/NJCLASS.md",
     "notebook/random/Music Making.md",
     "notebook/notebook/Untitled.md",
-    "notebook/Things to take note of.md",
     "notebook/비번매니저.md",
     "screams.md",
-    "Learning/Chinese.md",
     "notebook/notebook/기다리는 택배.md",
     "Date to do.md",
     "Things to bring back from home.md",
     "quick note.md",
     "README.md",
     "CS/screams.md",
-    "Learning/Intro.md",
     "CS/sigh.md",
     "lu95542iv12.tmp",
-    "Learning/JavaScript.md",
     "School/Fall2023/ARTS302/Francis_D._K._Ching_-_Architecture__Form_Space_and_Order-Wiley_(2007)-1.pdf",
     "notebook/일기 + 생각/우울하다.md",
     "notebook/일기 + 생각/근황.md",
@@ -228,8 +218,6 @@
     "notebook/Images",
     "history-of-unix.avif",
     "School/z.Other/Jamie_Lee_Heartsaver_Online.pdf",
-    "School/Spring2024/Spring 2024 Plan.md",
-    "School/Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School/Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School/Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School/Fall2023/NURS339/Notes/9.5 PreOp/image.png",

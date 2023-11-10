@@ -1,10 +1,5 @@
 # History
 BSD (Berkeley Software Distribution) --> FreeBSD, NetBSD, OpenBSD
-## Unix
-multitasking, multi-user operating system derived from the original AT&T Unix
-**Minix** is an OS created for Educational purposes 
-![[Pasted image 20231101225928.png]]
-
 # File Systems
 Methods and structures that the OS uses to manage how data is stored, organized and accessed. 
 Includes file naming, metadata, directories, folders, access rules, and privileges. 
