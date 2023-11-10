@@ -11,29 +11,9 @@
             "id": "5f4da4ef7f484f25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "602aa641d8b01a2b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/random/Music Making.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ae46defdfe18c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notebook/random/Music Making.md",
+                "file": "notebook/Movies and Films.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/notebook/Things to take note of.md",
+                "file": "notebook/Things to take note of.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a0c7b4882469b1da",
@@ -64,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/notebook/Things to take note of.md",
+                "file": "notebook/Things to take note of.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/random/Music Making.md"
+                "file": "notebook/Movies and Films.md"
               }
             }
           }
@@ -154,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/random/Music Making.md",
+                "file": "notebook/Movies and Films.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/random/Music Making.md",
+                "file": "notebook/Movies and Films.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,19 +187,20 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "50ae46defdfe18c8",
+  "active": "5f4da4ef7f484f25",
   "lastOpenFiles": [
-    "notebook/notebook/Movies and Films.md",
+    "notebook/People.md",
+    "notebook/Gym.md",
+    "notebook/Movies and Films.md",
+    "notebook/Music.md",
+    "notebook/random/Tlon Urbit.md",
+    "notebook/random/NJCLASS.md",
+    "notebook/random/Music Making.md",
     "notebook/notebook/Untitled.md",
-    "notebook/notebook/Things to take note of.md",
+    "notebook/Things to take note of.md",
     "notebook/비번매니저.md",
     "screams.md",
-    "notebook/notebook/People.md",
-    "notebook/notebook/Music.md",
     "Learning/Chinese.md",
-    "notebook/random/Music Making.md",
-    "notebook/random/NJCLASS.md",
-    "notebook/random/Tlon Urbit.md",
     "notebook/notebook/기다리는 택배.md",
     "Date to do.md",
     "Things to bring back from home.md",
@@ -242,7 +222,6 @@
     "notebook/random/Tlon Urbit",
     "notebook/random/NJCLASS",
     "notebook/random",
-    "notebook/notebook/Gym.md",
     "notebook/notebook",
     "notebook/Images/Pasted image 20231103102801.png",
     "notebook/Images/Pasted image 20231101225928.png",
