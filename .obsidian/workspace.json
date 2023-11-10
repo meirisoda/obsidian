@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux.md",
+                "file": "Things to bring back from home.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux.md"
+                "file": "Things to bring back from home.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux.md",
+                "file": "Things to bring back from home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux.md",
+                "file": "Things to bring back from home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,13 +153,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
   "active": "dc2aafe63ea1ee3a",
   "lastOpenFiles": [
-    "Pasted image 20231101225928.png.md",
     "Learning/Linux.md",
+    "Pasted image 20231101225928.png.md",
     "notebook/Things to take note of.md",
     "Learning/Chinese.md",
     "Learning/JavaScript.md",
