@@ -11,12 +11,8 @@
             "id": "5f4da4ef7f484f25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/screams.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/screams.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/screams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/screams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +151,8 @@
   },
   "active": "5f4da4ef7f484f25",
   "lastOpenFiles": [
-    "CS/Intro.md",
     "CS/screams.md",
+    "CS/Intro.md",
     "CS/sigh.md",
     "lu95542iv12.tmp",
     "CS/JavaScript.md",
