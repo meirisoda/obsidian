@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Intro.md",
+                "file": "CS/screams.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Intro.md"
+                "file": "CS/screams.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Intro.md",
+                "file": "CS/screams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Intro.md",
+                "file": "CS/screams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +159,10 @@
   },
   "active": "5f4da4ef7f484f25",
   "lastOpenFiles": [
+    "CS/Intro.md",
+    "CS/screams.md",
     "CS/sigh.md",
     "lu95542iv12.tmp",
-    "CS/Intro.md",
     "CS/JavaScript.md",
     "School/Fall2023/ARTS302/Francis_D._K._Ching_-_Architecture__Form_Space_and_Order-Wiley_(2007)-1.pdf",
     "quick note.md",
