@@ -1,5 +1,8 @@
 ## Tlon Urbit
 ~hilmec~disnux 
-hilmec-dis
+hilmec-disnux.tlon.network
+
 **Access Key:** sibrus-savpel-socbyl-sabbyn
-**Master Key:** patlyr-pasmyl-namsev-latnut
+**Master Ticket:** patlyr-pasmyl-namsev-latnut
+
+## NJCLASS
