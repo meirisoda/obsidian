@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a0c7b4882469b1da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d041172f0088ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notebook/Things to take note of.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
