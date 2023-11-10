@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/OAuth.md",
+                "file": "CS/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/OAuth.md"
+                "file": "CS/Intro.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/OAuth.md",
+                "file": "CS/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/OAuth.md",
+                "file": "CS/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,11 +153,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
   "active": "5f4da4ef7f484f25",
   "lastOpenFiles": [
+    "CS/OAuth.md",
     "School/Fall2023/ARTS302/Francis_D._K._Ching_-_Architecture__Form_Space_and_Order-Wiley_(2007)-1.pdf",
     "quick note.md",
     "notebook/일기 + 생각/우울하다.md",
@@ -189,7 +191,6 @@
     "School/z.Other/Jamie_Lee_Heartsaver_Online.pdf",
     "School/z.Other",
     "School/Spring2024/Spring 2024 Plan.md",
-    "School/Spring2024/ACEMAPP Practicum Survey.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
