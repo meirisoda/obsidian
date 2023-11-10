@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "602aa641d8b01a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "screams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "screams.md"
+              }
             }
           }
         ]
@@ -97,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "screams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "screams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +166,9 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "5f4da4ef7f484f25",
+  "active": "602aa641d8b01a2b",
   "lastOpenFiles": [
+    "screams.md",
     "CS/screams.md",
     "CS/Intro.md",
     "CS/sigh.md",
@@ -191,7 +209,6 @@
     "School/Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
-    "School/Fall2023/PSCL389/Writing Assignments/Untitled.md",
     "School/Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School/Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School/Fall2023/NURS339/Notes/9.5 PreOp/image.png",
