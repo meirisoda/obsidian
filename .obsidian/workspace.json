@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/Things to take note of.md",
+                "file": "Learning/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/Things to take note of.md"
+                "file": "Learning/Linux.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/Things to take note of.md",
+                "file": "Learning/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/Things to take note of.md",
+                "file": "Learning/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +159,10 @@
   },
   "active": "dc2aafe63ea1ee3a",
   "lastOpenFiles": [
+    "notebook/Things to take note of.md",
     "Things to bring back from home.md",
     "Learning/Linux.md",
     "Pasted image 20231101225928.png.md",
-    "notebook/Things to take note of.md",
     "Learning/Chinese.md",
     "Learning/JavaScript.md",
     "notebook/Movies and Films.md",
