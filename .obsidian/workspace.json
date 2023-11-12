@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88bad1b0e6ce8700",
+        "id": "0310bd6a3ae76ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "af537dc5c5b74226",
+            "id": "5489e364a2661ea3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,7 +149,7 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "af537dc5c5b74226",
+  "active": "5489e364a2661ea3",
   "lastOpenFiles": [
     "Learning/Linux.md",
     "notebook/Things to take note of.md",
