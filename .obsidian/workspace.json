@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.5 Text Editors.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.5 Text Editors.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.5 Text Editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.5 Text Editors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +210,11 @@
   },
   "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
-    "Learning/Linux.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/how_does_the_web_work.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.5 Text Editors.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/setting_up_git.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
+    "Learning/Linux.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "odin-cli-test/images",
     "odin-cli-test/style.css",
@@ -219,8 +222,6 @@
     "odin-cli-test",
     "The Odin Project Curriculum",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/how_does_the_web_work.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/text_editors.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.3 Installations.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.2 Installation Overview.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Computer Basics.md",
