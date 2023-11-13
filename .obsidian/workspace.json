@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.2 How this course will work.md",
+                "file": "Learning/The Odin Project Curriculum/LAYOUT_STYLE_GUIDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.2 How this course will work.md"
+                "file": "Learning/The Odin Project Curriculum/LAYOUT_STYLE_GUIDE.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.2 How this course will work.md",
+                "file": "Learning/The Odin Project Curriculum/LAYOUT_STYLE_GUIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.2 How this course will work.md",
+                "file": "Learning/The Odin Project Curriculum/LAYOUT_STYLE_GUIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +210,10 @@
   },
   "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
-    "Learning/with_curriculum.md",
+    "Learning/The Odin Project Curriculum/license.md",
+    "Learning/The Odin Project Curriculum/README.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.2 How this course will work.md",
+    "Learning/with_curriculum.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.5 Join the Odin Community.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.4 Asking for help.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.3 Motivation and Mindset.md",
@@ -238,8 +240,6 @@
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics/project_blog_app.md",
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics/deployment.md",
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics/controllers.md",
-    "Learning/The Odin Project Curriculum/ruby_on_rails/mailers_advanced_topics/websockets_and_actioncable.md",
-    "Learning/The Odin Project Curriculum/ruby_on_rails/mailers_advanced_topics/project_sending_confirmation_emails.md",
     "Learning/The Odin Project Curriculum/ruby_on_rails/testing",
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_sprinkles",
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics",
