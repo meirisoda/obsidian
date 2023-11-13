@@ -18,7 +18,7 @@ RDA: 900 microg (남) 700 microg (녀)
 - Liver
 - Fortified milk and breakfast cereals
 - Dark leafy greens, sweet potatoes, carrots, cantaloupe, apricots 
-- can also be synthesized from plant pigments!! ()
+- can also be synthesized from plant pigments!! (beta-carotene to vitamin A)
 
 | Deficiency | Toxicity |
 | --- | --- |
@@ -27,6 +27,11 @@ RDA: 900 microg (남) 700 microg (녀)
 | Dry skin | Bone pain and fractures |
 | | **(upper limit is 3000 micrograms)** |
 ### Vitamin D
+**Functions** 
+
+
+**Sources**
+- can also be synthesized from skin in sunlight
 ### Vitamin E
 ### Vitamin K
 ## Water-Soluble Vitamins
