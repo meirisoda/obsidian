@@ -1,9 +1,7 @@
 # Vitamins 
 Carbon containing substances needed in small amounts by the body. (Essential: cannot be synthesized by the body.)
-
-**Criteria**
-1. Body cannot make enough to maintain health.
-2. Absence will lead to deficiency that can be cured with replenishment. 
+-  Body cannot make enough to maintain health.
+-  Absence will lead to deficiency that can be cured with replenishment. 
 ## Fat-Soluble Vitamins
 Absorbed and stored with dietary fat (so anything interfering with fat absorption will impair vitamin absorption).
 Not readily excreted from the body. 
@@ -28,7 +26,7 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 | Poor growth | Hair loss and skin changes |
 | Dry skin | Bone pain and fractures |
 | | **(upper limit is 3000 micrograms)** |
-| | <mark class="hltr-yellow">toxicity is frequently observed </mark> due to supplements| 
+| | <mark class="hltr-yellow">toxicity is frequently observed </mark>  due to supplements| 
 ### Vitamin D
 **Functions** 
 
@@ -47,7 +45,7 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 ## Water-Soluble Vitamins
 Absorbed primarily in the small intestine. 
 Transported to the liver via portal vein & distributed to body tissues, in which later they are stored. 
-Excreted via urine 
+Excreted via urine. 
 ### Vitamin C
 ### Vitamin B Complex
 #### Thiamine
