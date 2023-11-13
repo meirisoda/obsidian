@@ -44,3 +44,4 @@ RDA: 900 microg (남) 700 microg (녀)
 ## Water-Soluble Vitamins
 ### Vitamin C
 ### Vitamin B Complex
+### Choline
