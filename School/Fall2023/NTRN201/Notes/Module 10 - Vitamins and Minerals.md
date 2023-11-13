@@ -6,6 +6,7 @@ Carbon containing substances needed in small amounts by the body. (Essential: ca
 2. Absence will lead to deficiency that can be cured with replenishment. 
 ## Fat-Soluble Vitamins
 ### Vitamin A
+RDA: 900 microg (남) 700 microg (녀)
 **Functions** 
 - promote vision, night and color
 - promotes growth
