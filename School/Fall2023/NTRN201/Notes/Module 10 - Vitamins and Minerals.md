@@ -45,6 +45,7 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 ## Water-Soluble Vitamins
 Absorbed primarily in the small intestine. 
 Transported to the liver via portal vein & distributed to body tissues, in which later they are stored. 
+Particularly susceptible to destruction by heat, light, air exposure, cooking in water and alkalinity. 
 Excreted via urine. 
 ### Vitamin C
 ### Vitamin B Complex
