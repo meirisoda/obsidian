@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall2023/NTRN201/MIDTERM/MIDTERM Study Guide.md",
+                "file": "School/Fall2023/NTRN201/Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall2023/NTRN201/MIDTERM/MIDTERM Study Guide.md"
+                "file": "School/Fall2023/NTRN201/Notes/Untitled.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall2023/NTRN201/MIDTERM/MIDTERM Study Guide.md",
+                "file": "School/Fall2023/NTRN201/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall2023/NTRN201/MIDTERM/MIDTERM Study Guide.md",
+                "file": "School/Fall2023/NTRN201/Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,8 @@
   },
   "active": "5489e364a2661ea3",
   "lastOpenFiles": [
+    "School/Fall2023/NTRN201/MIDTERM/MIDTERM Study Guide.md",
+    "School/Fall2023/NTRN201/FINAL",
     "Learning/Linux.md",
     "notebook/Things to take note of.md",
     "Things to bring back from home.md",
@@ -186,7 +188,6 @@
     "School/Fall2023/ARTS302/Francis_D._K._Ching_-_Architecture__Form_Space_and_Order-Wiley_(2007)-1.pdf",
     "notebook/일기 + 생각/우울하다.md",
     "notebook/일기 + 생각/근황.md",
-    "notebook/일기 + 생각/그림이란.md",
     "notebook/일기 + 생각",
     "notebook/random/Tlon Urbit/Untitled.png",
     "notebook/random/Tlon Urbit/Untitled 1.png",
@@ -199,7 +200,6 @@
     "notebook/Images/Pasted image 20231101225928.png",
     "notebook/Images",
     "history-of-unix.avif",
-    "School/z.Other/Jamie_Lee_Heartsaver_Online.pdf",
     "School/Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School/Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School/Fall2023/NURS339/Notes/9.5 PreOp/image.png",
