@@ -17,7 +17,9 @@ RDA: 900 microg (남) 700 microg (녀)
 **Sources**
 - Liver
 - Fortified milk and breakfast cereals
-- Dark leafy greens, swe
+- Dark leafy greens, sweet potatoes, carrots, cantaloupe, apricots 
+| Deficiency | Toxicity | 
+| Night blinene
 ### Vitamin D
 ### Vitamin E
 ### Vitamin K
