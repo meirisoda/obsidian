@@ -46,7 +46,7 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 ## Water-Soluble Vitamins
 Absorbed primarily in the small intestine. 
 Transported to the liver via portal vein & distributed to body tissues, in which later they are stored. 
-Excreted via urine (E)
+Excreted via urine 
 ### Vitamin C
 ### Vitamin B Complex
 #### Thiamine
@@ -55,6 +55,8 @@ Excreted via urine (E)
 #### Pantothenic acid
 #### Biotin
 #### Vitamin B6
+Stored in the liver. 
 #### Folate (folic acid)
 #### Vitamin B12 
+Stored in the liver. 
 ### Choline
