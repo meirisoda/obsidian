@@ -48,5 +48,11 @@ Transported to the liver via portal vein & distributed to body tissues, in which
 ### Vitamin C
 ### Vitamin B Complex
 #### Thiamin
-####
+#### Riboflavin
+#### Niacin
+#### Pantothenic acid
+#### Biotin
+#### Vitamin B6
+#### Folate (folic acid)
+#### Vitamin B12 
 ### Choline
