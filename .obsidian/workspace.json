@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.6 How does the web work?.md"
               }
             }
           }
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.6 How does the web work?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.6 How does the web work?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,20 +208,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "28b5cd0ed9579c31",
+  "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
+    "Learning/Linux.md",
+    "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.6 How does the web work?.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/setting_up_git.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.5 Text Editors.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
-    "Learning/Linux.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "odin-cli-test/images",
     "odin-cli-test/style.css",
     "odin-cli-test/index.html",
     "odin-cli-test",
     "The Odin Project Curriculum",
-    "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.3 Installations.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.2 Installation Overview.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Computer Basics.md",
