@@ -126,6 +126,7 @@ Never run `fsck`on a mounted partition, make sure to <mark class="hltr-yellow">u
 (Double dsh -- each word means something )
 
 # Terminal 
+good resource https://swcarpentry.github.io/shell-novice/03-create.html 
 `ctrl+alt+T`
 `ctrl-c` means cancel
 `ctrl-shift-c` copy
