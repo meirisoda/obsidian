@@ -66,3 +66,4 @@ Essential when you have dietary inadequacies causing physiological or structural
 **Major:** need >100mg per day
 **Minor:** need <100mg per day
 **Ultratrace:** trace amounts in diet, not essential to human health
+
