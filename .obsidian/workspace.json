@@ -44,8 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55be1c62046c9b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/curriculum/foundations/introduction/introduction_to_web_development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md"
+                "file": "Learning/curriculum/foundations/introduction/introduction_to_web_development.md"
               }
             }
           }
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "Learning/curriculum/foundations/introduction/introduction_to_web_development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "Learning/curriculum/foundations/introduction/introduction_to_web_development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +196,9 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "28b5cd0ed9579c31",
+  "active": "55be1c62046c9b21",
   "lastOpenFiles": [
+    "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "Learning/curriculum/templates/project-template.md",
     "Learning/curriculum/templates/project-example.md",
     "Learning/curriculum/templates/lesson-template.md",
@@ -213,7 +227,6 @@
     "Learning/curriculum/ruby_on_rails/mailers_advanced_topics/advanced_topics.md",
     "Learning/curriculum/ruby_on_rails/mailers_advanced_topics/actioncable_lesson.md",
     "Learning/curriculum/ruby_on_rails/introduction/web_refresher.md",
-    "Learning/curriculum/ruby_on_rails/introduction/project_installing_rails.md",
     "Learning/curriculum/ruby_on_rails/testing",
     "Learning/curriculum/ruby_on_rails/rails_sprinkles",
     "Learning/curriculum/ruby_on_rails/rails_basics",
