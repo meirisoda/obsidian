@@ -64,4 +64,5 @@ Stored in the liver.
 Individual chemical elements; cannot be broken down further.
 Essential when you have dietary inadequacies causing physiological or structural abnormalities. 
 **Major:** need >100mg per day
-**Mino**
+**Minor:** need <100mg per day
+**Ultratrace:** trace amounts in diet, not essential to human health
