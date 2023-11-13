@@ -4,3 +4,6 @@ Carbon containing substances needed in small amounts by the body. (Essential: ca
 **Criteria**
 1. Body cannot make enough to maintain health.
 2. Absence will lead to deficiency that can be cured with replenishment. 
+
+## Vitamin A
+**Function**
