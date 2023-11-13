@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.7 Setting up Git (rip).md",
+                "file": "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.7 Setting up Git (rip).md"
+                "file": "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.7 Setting up Git (rip).md",
+                "file": "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.7 Setting up Git (rip).md",
+                "file": "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,12 +208,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce2130b912ad81f4",
+  "active": "4b9202fd502981f0",
   "lastOpenFiles": [
+    "Learning/The Odin Project Curriculum/databases/databases/databases_and_sql.md",
+    "Learning/The Odin Project Curriculum/databases/databases/databases.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.7 Setting up Git (rip).md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.6 How does the web work?.md",
     "Learning/Linux.md",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.7 Setting up Git (rip).md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.5 Text Editors.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
@@ -242,10 +244,8 @@
     "Learning/The Odin Project Curriculum/templates/lesson-example.md",
     "Learning/The Odin Project Curriculum/templates",
     "Learning/The Odin Project Curriculum/shared/the_back_end/introduction_to_the_backend_lesson.md",
-    "Learning/The Odin Project Curriculum/shared/the_back_end/introduction_to_frameworks.md",
     "Learning/The Odin Project Curriculum/shared/the_back_end",
     "Learning/The Odin Project Curriculum/shared",
-    "Learning/The Odin Project Curriculum/ruby_on_rails/testing/unit_testing.md",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
     "Learning/The Odin Project Curriculum/ruby/basic_ruby_projects/bubble_sort/imgs/00.gif",
