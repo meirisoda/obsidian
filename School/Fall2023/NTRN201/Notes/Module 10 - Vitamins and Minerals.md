@@ -60,3 +60,6 @@ Stored in the liver.
 #### Vitamin B12 
 Stored in the liver. 
 ### Choline
+# Minerals 
+Individual chemical elements; cannot be broken down further.
+Essential 
