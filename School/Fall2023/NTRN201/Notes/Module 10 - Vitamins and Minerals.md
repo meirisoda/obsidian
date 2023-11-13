@@ -28,6 +28,7 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 | Poor growth | Hair loss and skin changes |
 | Dry skin | Bone pain and fractures |
 | | **(upper limit is 3000 micrograms)** |
+| | <mark class="hltr-yellow">toxicity is frequently observed </mark> due to supplements| 
 ### Vitamin D
 **Functions** 
 
