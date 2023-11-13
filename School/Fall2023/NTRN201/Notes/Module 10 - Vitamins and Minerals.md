@@ -18,13 +18,14 @@ RDA: 900 microg (남) 700 microg (녀)
 - Liver
 - Fortified milk and breakfast cereals
 - Dark leafy greens, sweet potatoes, carrots, cantaloupe, apricots 
+- can also be synthesized from plant pigments!! ()
 
 | Deficiency | Toxicity |
 | --- | --- |
 | Night blindness | Fetal malformations|
 | Poor growth | Hair loss and skin changes |
 | Dry skin | Bone pain and fractures |
-| | (upper limit is 3)
+| | **(upper limit is 3000 micrograms)** |
 ### Vitamin D
 ### Vitamin E
 ### Vitamin K
