@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Linux.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Linux.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Linux.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "70c0f08dc20e9ee8",
+  "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
+    "Learning/Linux.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "odin-cli-test/images",
@@ -217,7 +218,6 @@
     "odin-cli-test/index.html",
     "odin-cli-test",
     "The Odin Project Curriculum",
-    "Learning/Linux.md",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/how_does_the_web_work.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/text_editors.md",
