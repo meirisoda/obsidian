@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
+    "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md",
     "Learning/The Odin Project Curriculum/databases/databases/databases_and_sql.md",
     "Learning/The Odin Project Curriculum/databases/databases/databases.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.7 Setting up Git (rip).md",
@@ -243,7 +244,6 @@
     "Learning/The Odin Project Curriculum/templates/lesson-template.md",
     "Learning/The Odin Project Curriculum/templates/lesson-example.md",
     "Learning/The Odin Project Curriculum/templates",
-    "Learning/The Odin Project Curriculum/shared/the_back_end/introduction_to_the_backend_lesson.md",
     "Learning/The Odin Project Curriculum/shared/the_back_end",
     "Learning/The Odin Project Curriculum/shared",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
