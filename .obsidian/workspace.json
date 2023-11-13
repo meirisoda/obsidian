@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/curriculum/foundations/introduction/how_this_course_will_work.md",
+                "file": "Learning/curriculum/1_foundations/1.1_introduction/how_this_course_will_work.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/curriculum/foundations/introduction/how_this_course_will_work.md"
+                "file": "Learning/curriculum/1_foundations/1.1_introduction/how_this_course_will_work.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/curriculum/foundations/introduction/how_this_course_will_work.md",
+                "file": "Learning/curriculum/1_foundations/1.1_introduction/how_this_course_will_work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/curriculum/foundations/introduction/how_this_course_will_work.md",
+                "file": "Learning/curriculum/1_foundations/1.1_introduction/how_this_course_will_work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,11 +209,11 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "ce2130b912ad81f4",
+  "active": "4b9202fd502981f0",
   "lastOpenFiles": [
-    "Learning/curriculum/foundations/introduction/join_the_odin_community.md",
-    "Learning/curriculum/foundations/introduction/introduction_to_web_development.md",
-    "Learning/curriculum/foundations/introduction/motivation_and_mindset.md",
+    "Learning/curriculum/1_foundations/1.1_introduction/join_the_odin_community.md",
+    "Learning/curriculum/1_foundations/1.1_introduction/introduction_to_web_development.md",
+    "Learning/curriculum/1_foundations/1.1_introduction/motivation_and_mindset.md",
     "Learning/with_curriculum.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
