@@ -22,7 +22,9 @@ RDA: 900 microg (남) 700 microg (녀)
 | Deficiency | Toxicity |
 | --- | --- |
 | Night blindness | Fetal malformations|
-
+| Poor growth | Hair loss and skin changes |
+| Dry skin | Bone pain and fractures |
+| | (upper limit is 3)
 ### Vitamin D
 ### Vitamin E
 ### Vitamin K
