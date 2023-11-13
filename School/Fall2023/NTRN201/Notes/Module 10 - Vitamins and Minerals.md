@@ -5,6 +5,7 @@ Carbon containing substances needed in small amounts by the body. (Essential: ca
 1. Body cannot make enough to maintain health.
 2. Absence will lead to deficiency that can be cured with replenishment. 
 ## Fat-Soluble Vitamins
+Absorbed with dietary fat (so anything interfering with fat absorption will impair vitamin absorp)
 ### Vitamin A
 RDA: 900 microg (남) 700 microg (녀)
 
