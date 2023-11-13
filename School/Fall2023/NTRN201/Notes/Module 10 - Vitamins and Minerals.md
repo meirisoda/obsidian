@@ -33,7 +33,16 @@ RDA: 900 microg (남) 700 microg (녀)
 **Sources**
 - can also be synthesized from skin in sunlight
 ### Vitamin E
+**Functions** 
+
+
+**Sources**
+- can also be synthesized from the amino acid tryptophan
 ### Vitamin K
+**Functions** 
+
+**Sources**
+- can also be synthesized from plant pigments!! (beta-carotene to vitamin A)
 ## Water-Soluble Vitamins
 ### Vitamin C
 ### Vitamin B Complex
