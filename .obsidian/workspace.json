@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/2 Installations/1.2.1 Computer Basics.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Computer Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/2 Installations/1.2.1 Computer Basics.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Computer Basics.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/2 Installations/1.2.1 Computer Basics.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Computer Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/2 Installations/1.2.1 Computer Basics.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Computer Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,11 +197,11 @@
   },
   "active": "4b9202fd502981f0",
   "lastOpenFiles": [
-    "Learning/The Odin Project Curriculum/1 Foundations/2 Installations/how_does_the_web_work.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/2 Installations/installations.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/2 Installations/1.2.1 Computer Basics.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/how_does_the_web_work.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/installations.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Computer Basics.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.2 How this course will work.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/5 Tying it all together/conclusion.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.5 Tying it all together/conclusion.md",
     "Learning/with_curriculum.md",
     "Learning/The Odin Project Curriculum/LAYOUT_STYLE_GUIDE.md",
     "Learning/The Odin Project Curriculum/license.md",
