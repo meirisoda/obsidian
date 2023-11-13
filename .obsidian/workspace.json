@@ -47,8 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e80da92c70990e8e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md"
+                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf"
               }
             }
           }
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +197,10 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "28b5cd0ed9579c31",
+  "active": "e80da92c70990e8e",
   "lastOpenFiles": [
-    "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+    "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School/Fall2023/NTRN201/Notes/Module 14 - Life Cycle Nutrition.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf",
