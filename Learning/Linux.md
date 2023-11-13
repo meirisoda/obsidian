@@ -142,6 +142,7 @@ good resource https://swcarpentry.github.io/shell-novice/03-create.html
 `mv` move/rename
 `mkdir` make a directory and everything above it
 `touch` adds a new file in current directory
+`rm -r `
 
 `sudo systemctl re`
 `pacman -Q` lists all user installed packages

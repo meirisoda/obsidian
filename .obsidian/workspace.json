@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md"
+                "file": "Learning/Linux.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
+                "file": "Learning/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
+                "file": "Learning/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce2130b912ad81f4",
+  "active": "70c0f08dc20e9ee8",
   "lastOpenFiles": [
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "odin-cli-test/images",
     "odin-cli-test/style.css",
@@ -218,7 +219,6 @@
     "The Odin Project Curriculum",
     "Learning/Linux.md",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/how_does_the_web_work.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/text_editors.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.3 Installations.md",
@@ -245,7 +245,6 @@
     "Learning/The Odin Project Curriculum/shared/the_back_end",
     "Learning/The Odin Project Curriculum/shared",
     "Learning/The Odin Project Curriculum/ruby_on_rails/testing/unit_testing.md",
-    "Learning/The Odin Project Curriculum/ruby_on_rails/testing",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
     "Learning/The Odin Project Curriculum/ruby/basic_ruby_projects/bubble_sort/imgs/00.gif",
