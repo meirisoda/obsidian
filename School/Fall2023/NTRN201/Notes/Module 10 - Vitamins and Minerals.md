@@ -7,11 +7,17 @@ Carbon containing substances needed in small amounts by the body. (Essential: ca
 ## Fat-Soluble Vitamins
 ### Vitamin A
 RDA: 900 microg (남) 700 microg (녀)
+
 **Functions** 
 - promote vision, night and color
 - promotes growth
 - prevents drying of the skin and eyes
 - promotes resistance to bacterial infection and overall immune system function.
+
+**Sources**
+- Liver
+- Fortified milk and breakfast cereals
+- Dark leafy greens, swe
 ### Vitamin D
 ### Vitamin E
 ### Vitamin K
