@@ -6,9 +6,9 @@ Carbon containing substances needed in small amounts by the body. (Essential: ca
 2. Absence will lead to deficiency that can be cured with replenishment. 
 ## Fat-Soluble Vitamins
 Absorbed and stored with dietary fat (so anything interfering with fat absorption will impair vitamin absorption).
-Not readily excreted from the body
+Not readily excreted from the body. 
 ### Vitamin A
-RDA: 900 microg (남) 700 microg (녀)
+RDA: 900 micrograms (남) 700 micrograms (녀)
 
 **Functions** 
 - promote vision, night and color
@@ -46,6 +46,7 @@ RDA: 900 microg (남) 700 microg (녀)
 ## Water-Soluble Vitamins
 Absorbed primarily in the small intestine. 
 Transported to the liver via portal vein & distributed to body tissues, in which later they are stored. 
+Excreted via urine (E)
 ### Vitamin C
 ### Vitamin B Complex
 #### Thiamine
