@@ -32,6 +32,11 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 - Maintenance of calcium and phosphorus 
 - Immune system function
 - Cell cycle regulation
+- ````ah
+- ```what
+- 
+```
+```
 
 **Sources**
 - can also be synthesized from skin in sunlight.
