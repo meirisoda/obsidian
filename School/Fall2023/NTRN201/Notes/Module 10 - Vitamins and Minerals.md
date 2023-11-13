@@ -47,7 +47,7 @@ Absorbed primarily in the small intestine.
 Transported to the liver via portal vein & distributed to body tissues, in which later they are stored. 
 ### Vitamin C
 ### Vitamin B Complex
-#### Thiamin
+#### Thiamine
 #### Riboflavin
 #### Niacin
 #### Pantothenic acid
