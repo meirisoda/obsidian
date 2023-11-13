@@ -18,8 +18,11 @@ RDA: 900 microg (남) 700 microg (녀)
 - Liver
 - Fortified milk and breakfast cereals
 - Dark leafy greens, sweet potatoes, carrots, cantaloupe, apricots 
-| Deficiency | Toxicity | 
-| Night blinene
+
+| Deficiency | Toxicity |
+| --- | --- |
+| Night blindness | Fetal malformations|
+
 ### Vitamin D
 ### Vitamin E
 ### Vitamin K
