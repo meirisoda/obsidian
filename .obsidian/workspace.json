@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Installation Overview.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/installations.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Installation Overview.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/installations.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Installation Overview.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/installations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Installation Overview.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/installations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,10 +195,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
-    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/how_does_the_web_work.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/command_line_basics.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.2 Computer Basics.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Installation Overview.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/how_does_the_web_work.md",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/installations.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.2 How this course will work.md",
@@ -225,8 +227,6 @@
     "Learning/The Odin Project Curriculum/ruby_on_rails/testing/model_testing.md",
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_sprinkles/turbo.md",
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_sprinkles/stimulus_js.md",
-    "Learning/The Odin Project Curriculum/ruby_on_rails/rails_sprinkles/js_bundling.md",
-    "Learning/The Odin Project Curriculum/ruby_on_rails/rails_sprinkles/css_bundling.md",
     "Learning/The Odin Project Curriculum/ruby_on_rails/testing",
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_sprinkles",
     "Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics",
