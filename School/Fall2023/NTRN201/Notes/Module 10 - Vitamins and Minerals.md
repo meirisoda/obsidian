@@ -5,7 +5,7 @@ Carbon containing substances needed in small amounts by the body. (Essential: ca
 1. Body cannot make enough to maintain health.
 2. Absence will lead to deficiency that can be cured with replenishment. 
 ## Fat-Soluble Vitamins
-Absorbed with dietary fat (so anything interfering with fat absorption will impair vitamin absorp)
+Absorbed and stored with dietary fat (so anything interfering with fat absorption will impair vitamin absorption).
 ### Vitamin A
 RDA: 900 microg (남) 700 microg (녀)
 
@@ -43,6 +43,8 @@ RDA: 900 microg (남) 700 microg (녀)
 **Sources**
 - can also be synthesized by the gut bacteria to some extent. 
 ## Water-Soluble Vitamins
+Absorbed primarily in the small intestine. 
+Transported to the liver via portal vein & distributed to body tissues.
 ### Vitamin C
 ### Vitamin B Complex
 ### Choline
