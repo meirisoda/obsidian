@@ -12,5 +12,9 @@ Carbon containing substances needed in small amounts by the body. (Essential: ca
 - promotes growth
 - prevents drying of the skin and eyes
 - promotes resistance to bacterial infection and overall immune system function.
-
-### Vitamin 
+### Vitamin D
+### Vitamin E
+### Vitamin K
+## Water-Soluble Vitamins
+### Vitamin C
+### Vitamin D
