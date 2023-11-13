@@ -44,7 +44,9 @@ RDA: 900 microg (남) 700 microg (녀)
 - can also be synthesized by the gut bacteria to some extent. 
 ## Water-Soluble Vitamins
 Absorbed primarily in the small intestine. 
-Transported to the liver via portal vein & distributed to body tissues.
+Transported to the liver via portal vein & distributed to body tissues, in which later they are stored. 
 ### Vitamin C
 ### Vitamin B Complex
+#### Thiamin
+####
 ### Choline
