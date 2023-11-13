@@ -30,6 +30,8 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 ### Vitamin D
 **Functions** 
 - Maintenance of calcium and phosphorus 
+- Immune system function
+- Cell cycle regulation
 
 **Sources**
 - can also be synthesized from skin in sunlight.
