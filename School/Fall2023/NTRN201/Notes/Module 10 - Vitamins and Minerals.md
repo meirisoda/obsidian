@@ -29,7 +29,7 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 | | <mark class="hltr-yellow">toxicity is frequently observed </mark>  due to supplements| 
 ### Vitamin D
 **Functions** 
-- Maintenance of 
+- Maintenance of calcium and phosphorus 
 
 **Sources**
 - can also be synthesized from skin in sunlight.
