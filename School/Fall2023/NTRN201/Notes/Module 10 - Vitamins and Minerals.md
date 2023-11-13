@@ -6,4 +6,4 @@ Carbon containing substances needed in small amounts by the body. (Essential: ca
 2. Absence will lead to deficiency that can be cured with replenishment. 
 
 ## Vitamin A
-**Function**
+**Functions** 
