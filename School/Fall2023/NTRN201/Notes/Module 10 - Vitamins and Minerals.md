@@ -62,4 +62,6 @@ Stored in the liver.
 ### Choline
 # Minerals 
 Individual chemical elements; cannot be broken down further.
-Essential 
+Essential when you have dietary inadequacies causing physiological or structural abnormalities. 
+**Major:** need >100mg per day
+**Mino**
