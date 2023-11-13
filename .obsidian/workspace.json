@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
+    "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "odin-cli-test/images",
     "odin-cli-test/style.css",
     "odin-cli-test/index.html",
@@ -245,7 +246,6 @@
     "Learning/The Odin Project Curriculum/shared",
     "Learning/The Odin Project Curriculum/ruby_on_rails/testing/unit_testing.md",
     "Learning/The Odin Project Curriculum/ruby_on_rails/testing",
-    "Learning/The Odin Project Curriculum/ruby_on_rails/rails_sprinkles",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
     "Learning/The Odin Project Curriculum/ruby/basic_ruby_projects/bubble_sort/imgs/00.gif",
