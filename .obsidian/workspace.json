@@ -8,14 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5489e364a2661ea3",
+            "id": "e32674c7f0d6b8aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Fall2023/NTRN201/Notes/필기.pdf"
+              }
+            }
+          },
+          {
+            "id": "be02654cdebb131d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School/Fall2023/NTRN201/Notes/필기.pdf"
               }
             }
           },
@@ -118,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
+                "file": "School/Fall2023/NTRN201/Notes/필기.pdf"
               }
             }
           }
@@ -142,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
+                "file": "School/Fall2023/NTRN201/Notes/필기.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
+                "file": "School/Fall2023/NTRN201/Notes/필기.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,12 +204,12 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "17550e7a99f52c09",
+  "active": "be02654cdebb131d",
   "lastOpenFiles": [
+    "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School/Fall2023/NTRN201/Notes/필기.pdf",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
-    "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School/Fall2023/NTRN201/Notes/Module 14 - Life Cycle Nutrition.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf",
