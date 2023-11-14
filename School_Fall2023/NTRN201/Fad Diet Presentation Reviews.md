@@ -14,4 +14,4 @@ However, overall there isn't enough substantial evidence about the benefits of t
 ### Is it dangerous? 
 It isn't necessarily dangerous. 
 ### Would you recommend? 
-I wouldn't necessarily recommend either, it 
+I wouldn't necessarily recommend either, it does sound like it has some benefits but it's not a scientifically valid diet to be superior to others or to be recommended. 
