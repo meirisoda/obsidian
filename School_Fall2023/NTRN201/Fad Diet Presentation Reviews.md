@@ -5,8 +5,9 @@ There are different variations but typically follow either:
 Flexible - 100-150g/day
 Moderate: 50-100g/day
 Strict: 0-50g/day
+Focus on high quality carbs even if you eat it. 
 ### Who is it for? 
-For people who want to lose weight, and improve specific health markers. 
+For people who want to lose weight, and improve specific health markers. Not recommended for pregant individuals and athletes. 
 ### Is it backed by scientific research? 
 
 ### Is it dangerous? 
