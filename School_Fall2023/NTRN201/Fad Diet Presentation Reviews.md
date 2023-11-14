@@ -8,5 +8,6 @@ Recommended for those who ahve type 2 diabetes, have heart disease and are obese
 ### Is it backed by scientific research? 
 It is loosely backed by scientific research - the body uses fat (converted to ketones inthe liver) instead of carbs as an energy source. However, it is not guaranteed that the body will burn the fat during ketosis. 
 ### Is it dangerous? 
-It may not be healthy for pregnant women, those with risk factors for health disease and other medical conditions. It may lead to some nutritional deficiencies and may also have side effects during the initial stages. 
+It may not be healthy for pregnant women, those with risk factors for health disease and other medical conditions. 
+It will cause a deficiency of both macro and micronutrients. (Due to restricted whole grains, beans, fruits and starchy vegetables, as well as dairy.)
 ### Would you recommend? 
