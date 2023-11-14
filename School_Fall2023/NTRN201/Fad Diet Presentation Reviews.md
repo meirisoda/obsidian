@@ -7,5 +7,5 @@ For highly health-conscious people who believe that cooking food is harmful as w
 ### Is it backed by scientific research? 
 It has some scientific evidence that shows that it may help reduce blood sugar and lower risks for obesity, diabetes and heart disease.
 ### Is it dangerous? 
-It is associated with low vitamin and mineral levels. It poses an increased risk of f
+It is associated with low vitamin and mineral levels. It poses an increased risk of food-borne illnesses due to the nature of raw food. It may also cause an unhealthy relationship with food. 
 ### Would you recommend? 
