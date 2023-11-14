@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Linux.md",
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md"
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,18 +208,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce2130b912ad81f4",
+  "active": "70c0f08dc20e9ee8",
   "lastOpenFiles": [
+    "Learning/Linux.md",
+    "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/elements-and-tags.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/links-and-images.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/html-boilerplate.md",
     "Learning/The Odin Project Curriculum/databases/databases/project_sql_zoo.md",
     "Learning/The Odin Project Curriculum/databases/databases/databases_and_sql.md",
     "Learning/The Odin Project Curriculum/databases/databases/databases.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.7 Setting up Git (rip).md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.6 How does the web work?.md",
-    "Learning/Linux.md",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.5 Text Editors.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.4 Command Line Basics.md",
@@ -241,7 +242,6 @@
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.5 Join the Odin Community.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.4 Asking for help.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.3 Motivation and Mindset.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.1 Introduction to web development.md",
     "School/Fall2023/NTRN201/Notes/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
     "Learning/The Odin Project Curriculum/templates",
     "Learning/The Odin Project Curriculum/shared/the_back_end",
