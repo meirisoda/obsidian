@@ -8,4 +8,5 @@ Recommended for those who ahve type 2 diabetes, have heart disease and are obese
 ### Is it backed by scientific research? 
 
 ### Is it dangerous? 
+It may not be healthy for pregnant women, those with risk factors for health disease and other medical conditions. It may lead to some nutritional deficiencies and may also have sid
 ### Would you recommend? 
