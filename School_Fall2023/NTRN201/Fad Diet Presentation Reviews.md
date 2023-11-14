@@ -13,3 +13,4 @@ Scientific research supporting this diet are mostly focused around ketosis. Ther
 ### Is it dangerous? 
 May cause some neurological and cognitive symptoms due to lack of energy stores able to be used by the brain. 
 ### Would you recommend? 
+I would not recommend this d
