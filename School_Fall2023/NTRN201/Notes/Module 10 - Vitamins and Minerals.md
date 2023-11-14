@@ -70,3 +70,6 @@ Essential when you have dietary inadequacies causing physiological or structural
 **Minor:** need <100mg per day
 **Ultratrace:** trace amounts in diet, not essential to human health
 
+#### Absorption
+Majority absorbed in small intestine
+
