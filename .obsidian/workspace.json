@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d78aa519aaaaab16",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cfbddf796d61319b",
@@ -47,8 +57,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5523ea7a6f75a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.3 The Box Model (여기서 부터 시작하기).md"
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md"
               }
             }
           }
@@ -132,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.3 The Box Model (여기서 부터 시작하기).md",
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.3 The Box Model (여기서 부터 시작하기).md",
+                "file": "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,19 +208,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "f5523ea7a6f75a6f",
   "lastOpenFiles": [
+    "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+    "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.3 The Box Model (여기서 부터 시작하기).md",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Sheldon et al. 1999 JPSP.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Layous et al. 2018 JPP.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf",
-    "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Old/Lerner-et-al.-2003.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Old/Gable-et-al.-2008.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Old/Cohen-2005.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Old/Clore--26-Huntsinger-2C-2007.pdf",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10",
-    "School/Fall2023/PSCL389/Writing Assignments/Readings/Old",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/block-and-inline.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.1 Inspecting HTML and CSS.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.2 Intro to CSS.md",
@@ -206,7 +230,6 @@
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.5 Lists.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.3 Elements and Tags.md",
-    "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.2 Working with Text.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
@@ -222,7 +245,6 @@
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.2 Installation Overview.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.2 Installations/1.2.1 Computer Basics.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.2 How this course will work.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.5 Tying it all together/conclusion.md",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
     "Learning/The Odin Project Curriculum/ruby/basic_ruby_projects/bubble_sort/imgs/00.gif",
