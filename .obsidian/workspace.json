@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/intro-to-css.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.1 Intro to CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/intro-to-css.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.1 Intro to CSS.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/intro-to-css.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.1 Intro to CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/intro-to-css.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.1 Intro to CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.7 Project Recipes.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.6 HTML Boilerplate.md",
