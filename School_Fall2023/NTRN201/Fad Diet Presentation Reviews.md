@@ -11,5 +11,5 @@ For people who want to lose weight, and improve specific health markers. Not rec
 ### Is it backed by scientific research? 
 Scientific research supporting this diet are mostly focused around ketosis. There is some evidence that fat may be oxidized, thus losing fat, but again, this evidence and results are not exclusive to the low carb diet. 
 ### Is it dangerous? 
-
+May cause some neurological and cognitive symptoms due to lack of energy stores able to be used by the brain. 
 ### Would you recommend? 
