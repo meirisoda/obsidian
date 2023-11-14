@@ -71,5 +71,8 @@ Essential when you have dietary inadequacies causing physiological or structural
 **Ultratrace:** trace amounts in diet, not essential to human health
 
 #### Absorption
-Majority absorbed in small intestine
+Majority absorbed in small intestine. 
+Interacts with fiber: phytic acid and oxalic may decrease some mineral absorption
+**Vitamin C** increases iron absorption
+**Vi**
 
