@@ -4,11 +4,11 @@ Involves only consuming juices from fruits and vegetables. Claims to remove toxi
 Preparation stage (3-5 days): gradually eliminate non-fruits and vegetables.
 Juice cleanse (1-3 days): drink only fruit and vegetable juices
 Post cleanse transition (2-3 days): gradually add foods back into diet. 
-Vegetables, fruits,
+Vegetables, fruits, nut milks and gluten free whole foods are allowed. 
 ### Who is it for? 
 
 ### Is it backed by scientific research? 
-
+It may lower blood pressure and cholesterol levels. 
 ### Is it dangerous? 
 
 ### Would you recommend? 
