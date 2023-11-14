@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md"
               }
             }
           }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,13 +218,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "aef287143e09907f",
+  "active": "31e66c302d591864",
   "lastOpenFiles": [
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
+    "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "School_Fall2023/PSCL389/Presentation_Groups-3.pdf",
     "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
-    "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
     "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
