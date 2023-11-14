@@ -1,7 +1,10 @@
 # Juice Cleanse
 ### What's involved with following this diet? 
 Involves only consuming juices from fruits and vegetables. Claims to remove toxins from the body and aid in weight loss. 
-Preparation stage (3-5 days): gradually eliminate non-fruits
+Preparation stage (3-5 days): gradually eliminate non-fruits and vegetables.
+Juice cleanse (1-3 days): drink only fruit and vegetable juices
+Post cleanse transition (2-3 days): gradually add foods back into diet. 
+Vegetables, fruits,
 ### Who is it for? 
 
 ### Is it backed by scientific research? 
