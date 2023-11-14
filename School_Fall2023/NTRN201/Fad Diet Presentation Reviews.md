@@ -13,4 +13,4 @@ It may lower blood pressure and cholesterol levels.
 It may cause nutrient deficiencies, unpasteurized/untreated juices can contain harmful bacteria, may increase sugar intake. 
 It is harmful for those with GI diseases, diabetes and kidney diseases. May also cause dehydration and electrolyte imbalances. 
 ### Would you recommend? 
-I would not recommend this diet. It is very unbalanced and even
+I would not recommend this diet. It is very unbalanced and even though it is short-term, there are many people who follow it long-term to maintain the results gained from the juice cleanse. It also causes a very unheathy relationship with food. 
