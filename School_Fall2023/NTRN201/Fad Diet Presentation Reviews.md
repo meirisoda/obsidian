@@ -10,5 +10,5 @@ For people who want to avoid searching external sources of health benefits. But 
 ### Is it backed by scientific research? 
 Not really, because this is based off a naturopathic perspective on health, which is the notion that the body heals itself instead of turning to external sources first. 
 ### Is it dangerous? 
-
+It isn't necessarily dangerous. 
 ### Would you recommend? 
