@@ -9,5 +9,6 @@ Recommended for those who ahve type 2 diabetes, have heart disease and are obese
 It is loosely backed by scientific research - the body uses fat (converted to ketones inthe liver) instead of carbs as an energy source. However, it is not guaranteed that the body will burn the fat during ketosis. 
 ### Is it dangerous? 
 It may not be healthy for pregnant women, those with risk factors for health disease and other medical conditions. 
-It will cause a deficiency of both macro and micronutrients. (Due to restricted whole grains, beans, fruits and starchy vegetables, as well as dairy.) Deficiencies in vitamins A, E, K, calcium ,amgnesium, iron, potassium, linolenic acids, and all water-soluble vitamin
+It will cause a deficiency of both macro and micronutrients. (Due to restricted whole grains, beans, fruits and starchy vegetables, as well as dairy.) Deficiencies in vitamins A, E, K, calcium , magnesium, iron, potassium, linolenic acids, and all water-soluble vitamins excluding vitamin B12.
+Calcium deficiency is common from a lack of dairy products and may cause fatigue, muscle pain, cognitive issues and tinging in the extremities.
 ### Would you recommend? 
