@@ -8,7 +8,7 @@ Vegetables, fruits, nut milks and gluten free whole foods are allowed.
 ### Who is it for? 
 For people who want to lose weight. 
 ### Is it backed by scientific research? 
-It may lower blood pressure and cholesterol levels. However, the evidence supporting juice cleans
+It may lower blood pressure and cholesterol levels. However, the evidence supporting juice cleanse benefits are limited and biased. 
 ### Is it dangerous? 
 It may cause nutrient deficiencies, unpasteurized/untreated juices can contain harmful bacteria, may increase sugar intake. 
 It is harmful for those with GI diseases, diabetes and kidney diseases. May also cause dehydration and electrolyte imbalances due to diarrhea from fluid imbalances. 
