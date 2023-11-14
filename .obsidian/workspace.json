@@ -28,9 +28,19 @@
                 "file": "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf"
               }
             }
+          },
+          {
+            "id": "ce14f0f8dd2c1003",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -54,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf"
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md"
               }
             }
           }
@@ -145,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +208,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0ccf2d6d81367bd2",
+  "active": "4b9202fd502981f0",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
     "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
+    "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
     "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "Learning/Linux.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md",
@@ -211,7 +222,6 @@
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/the-cascade.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.3 The Box Model (여기서 부터 시작하기).md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Spring2024/Spring 2024 Plan.md",
     "School_Spring2024/NURS380_Practicum",
     "School_Spring2024/NURS343_Ethics",
