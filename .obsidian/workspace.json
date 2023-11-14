@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "597ecf4aff68176e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Date to do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cdef8f1076e38a66",
@@ -110,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Date to do.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md"
               }
             }
           }
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Date to do.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Date to do.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +174,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "597ecf4aff68176e",
+  "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
-    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md",
     "Date to do.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/block-and-inline.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/the-cascade.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.3 The Box Model (여기서 부터 시작하기).md",
