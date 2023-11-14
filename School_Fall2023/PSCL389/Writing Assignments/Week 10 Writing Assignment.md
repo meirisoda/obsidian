@@ -6,3 +6,5 @@ I even very recently tweeted about this, I wrote:
 "It's frustrating knowing where you want to be and seeing where you are right now
 and not knowing the exact path to get to where you want to be."
 "What I want for myself has slowly become clearer over the course of the past couple years, but during those past couple years I am moving further away from that goal because of the path I am currently on. And I regret not using that time to move forward in my vision."
+"It just feels like wasted time and I am constantly holding myself back."
+"I am slowly rediscovering myself but it's just lost time and I know there is no point in looking back and regretting the things I haven't done - just look forward and see what I can do now but it's just a shame."
