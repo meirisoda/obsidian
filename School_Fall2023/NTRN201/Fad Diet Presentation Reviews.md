@@ -1,4 +1,4 @@
-# 
+# Juice Cleanse
 ### What's involved with following this diet? 
 
 ### Who is it for? 
