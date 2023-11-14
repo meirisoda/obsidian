@@ -13,4 +13,4 @@ Scientific research supporting this diet are mostly focused around ketosis. Ther
 ### Is it dangerous? 
 May cause some neurological and cognitive symptoms due to lack of energy stores able to be used by the brain. 
 ### Would you recommend? 
-I would not recommend this diet because it is not sustainable long-term. Although it may provide some health benefits, it is not enough 
+I would not recommend this diet because it is not sustainable long-term. Although it may provide some health benefits, it is not enough to separate the low carb diet as special compared to some other dietary modifications. However, the low carb diet does do better compared to the Atkins diet. 
