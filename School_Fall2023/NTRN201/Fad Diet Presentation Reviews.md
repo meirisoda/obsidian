@@ -6,5 +6,6 @@ Avoid high carb food and consume foods that are high in fat. IT should be follow
 ### Who is it for? 
 Recommended for those who ahve type 2 diabetes, have heart disease and are obese. It is avoided by individuals who have liver or kidney diseases or are pregnant. 
 ### Is it backed by scientific research? 
+
 ### Is it dangerous? 
 ### Would you recommend? 
