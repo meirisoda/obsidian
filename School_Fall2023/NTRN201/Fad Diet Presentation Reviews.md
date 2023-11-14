@@ -10,5 +10,6 @@ Vegetables, fruits, nut milks and gluten free whole foods are allowed.
 ### Is it backed by scientific research? 
 It may lower blood pressure and cholesterol levels. 
 ### Is it dangerous? 
+It may cause nutrient deficiencies, unpasteurized/untreated juices can contain harmful bact
 
 ### Would you recommend? 
