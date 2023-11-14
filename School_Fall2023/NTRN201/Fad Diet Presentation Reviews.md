@@ -8,7 +8,7 @@ Type O: low carb, high protein diet. Avoid grains, beans and legumes, corn, whea
 ### Who is it for? 
 For people who want to avoid searching external sources of health benefits. But also everyone! 
 ### Is it backed by scientific research? 
-Not really, because the body heals itself instead of turning to external sources first. 
+Not really, because this is based off a naturopathic perspective on health, which is the notion that the body heals itself instead of turning to external sources first. 
 ### Is it dangerous? 
 
 ### Would you recommend? 
