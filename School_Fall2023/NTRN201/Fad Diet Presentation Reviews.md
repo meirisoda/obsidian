@@ -6,7 +6,7 @@ Avoid high carb foods and consume foods that are high in fat. It should be follo
 ### Who is it for? 
 Recommended for those who ahve type 2 diabetes, have heart disease and are obese. It is avoided by individuals who have liver or kidney diseases or are pregnant. 
 ### Is it backed by scientific research? 
-It is loosely backed by scientific research - the body uses fat (ketones) instead of carbs as an energy source. However, it is not guaranteed that the body will burn the fat during ketosis. 
+It is loosely backed by scientific research - the body uses fat (converted to ketones inthe liver) instead of carbs as an energy source. However, it is not guaranteed that the body will burn the fat during ketosis. 
 ### Is it dangerous? 
 It may not be healthy for pregnant women, those with risk factors for health disease and other medical conditions. It may lead to some nutritional deficiencies and may also have side effects during the initial stages. 
 ### Would you recommend? 
