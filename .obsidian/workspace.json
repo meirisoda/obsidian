@@ -18,13 +18,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "cfbddf796d61319b",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "28b5cd0ed9579c31",
             "type": "leaf",
@@ -36,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13a99e45bf0183d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md"
+                "file": "Learning/Linux.md"
               }
             }
           }
@@ -121,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
+                "file": "Learning/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
+                "file": "Learning/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,51 +181,50 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "28b5cd0ed9579c31",
+  "active": "13a99e45bf0183d0",
   "lastOpenFiles": [
-    "Spring2024/Spring 2024 Plan.md",
-    "Spring2024/NURS380_Practicum",
-    "Spring2024/NURS343_Ethics",
-    "Spring2024/NURS341_Leadership",
-    "Spring2024/ARTS286",
-    "Spring2024/ACEMAPP Practicum Survey.pdf",
-    "Spring2024",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.3 The Box Model (여기서 부터 시작하기).md",
+    "School_Spring2024/Spring 2024 Plan.md",
+    "School_Spring2024/NURS380_Practicum",
+    "School_Spring2024/NURS343_Ethics",
+    "School_Spring2024/NURS341_Leadership",
+    "School_Spring2024/ARTS286",
+    "School_Spring2024/ACEMAPP Practicum Survey.pdf",
+    "School_Spring2024",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
-    "Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Sheldon et al. 1999 JPSP.pdf",
-    "Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Layous et al. 2018 JPP.pdf",
-    "Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
-    "Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
-    "Fall2023/NURS339/Notes/9.5 PreOp/image.png",
-    "Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled.png",
-    "Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled 1.png",
-    "Fall2023/NTRN201/Files/PDE/PDE Assignment Part 1.md",
-    "Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
-    "Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Blue Zone Quiz.md",
-    "Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
-    "Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
-    "Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
-    "Fall2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
-    "Fall2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
-    "Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
-    "Fall2023/PSCL389/Writing Assignments/Untitled.md",
-    "Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
-    "Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
-    "Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
-    "Fall2023/PSCL389/EXAM1/EXAM 1.md",
-    "Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 3 Discussion Board Questions.md",
-    "Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 2 Discussion Board Questions.md",
-    "Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 1 Discussion Board Questions.md",
-    "Fall2023/NURS339/Notes/Intraop.md",
-    "Fall2023/NURS339/Notes/9.5 Preop Notes.md",
-    "Fall2023/NURS339/Notes/8.29 Asepsis and Aseptic Technique.md",
-    "Fall2023/NTRN201/Notes/Module 5 - Lipids.md",
-    "Fall2023/NTRN201/Notes/Module 4 - Carbohydrates.md",
-    "Fall2023/NTRN201/Notes/Module 3 - Human Digestion and Absorption.md",
-    "Fall2023/NTRN201/Notes/Module 14 - Life Cycle Nutrition.md",
-    "Fall2023/NTRN201/Notes/Module 13 - Micronutrients, Bone Health, and Immunity.md",
-    "Fall2023/NTRN201/Notes/Module 12 - Micronutrients, Fluid Balance and Blood Health.md",
-    "Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
+    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Sheldon et al. 1999 JPSP.pdf",
+    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Layous et al. 2018 JPP.pdf",
+    "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
+    "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
+    "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled.png",
+    "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled 1.png",
+    "School_Fall2023/NTRN201/Files/PDE/PDE Assignment Part 1.md",
+    "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
+    "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Blue Zone Quiz.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Untitled.md",
+    "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
+    "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
+    "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
+    "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
+    "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 3 Discussion Board Questions.md",
+    "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 2 Discussion Board Questions.md",
+    "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 1 Discussion Board Questions.md",
+    "School_Fall2023/NURS339/Notes/Intraop.md",
+    "School_Fall2023/NURS339/Notes/9.5 Preop Notes.md",
+    "School_Fall2023/NURS339/Notes/8.29 Asepsis and Aseptic Technique.md",
+    "School_Fall2023/NTRN201/Notes/Module 5 - Lipids.md",
+    "School_Fall2023/NTRN201/Notes/Module 4 - Carbohydrates.md",
+    "School_Fall2023/NTRN201/Notes/Module 3 - Human Digestion and Absorption.md",
+    "School_Fall2023/NTRN201/Notes/Module 14 - Life Cycle Nutrition.md",
+    "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
     "Learning/The Odin Project Curriculum/ruby/basic_ruby_projects/bubble_sort/imgs/00.gif",
