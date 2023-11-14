@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "031e9c858b07c7ac",
+            "id": "0ccf2d6d81367bd2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
+                "file": "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf"
               }
             }
           }
@@ -59,9 +59,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84e4900fff20ed50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md"
+                "file": "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md"
               }
             }
           }
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,10 +210,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "31e66c302d591864",
+  "active": "84e4900fff20ed50",
   "lastOpenFiles": [
-    "Learning/Linux.md",
+    "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
+    "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
+    "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
+    "Learning/Linux.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md",
     "Date to do.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/block-and-inline.md",
@@ -217,7 +232,6 @@
     "School_Spring2024/ACEMAPP Practicum Survey.pdf",
     "School_Spring2024",
     "School/Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Sheldon et al. 1999 JPSP.pdf",
     "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
     "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled.png",
@@ -239,8 +253,6 @@
     "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 3 Discussion Board Questions.md",
     "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 2 Discussion Board Questions.md",
     "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 1 Discussion Board Questions.md",
-    "School_Fall2023/NURS339/Notes/Intraop.md",
-    "School_Fall2023/NURS339/Notes/9.5 Preop Notes.md",
     "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
