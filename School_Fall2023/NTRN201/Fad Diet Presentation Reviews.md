@@ -9,7 +9,7 @@ Focus on high quality carbs even if you eat it. Limit grains, starchy, vegetable
 ### Who is it for? 
 For people who want to lose weight, and improve specific health markers. Not recommended for pregant individuals and athletes. 
 ### Is it backed by scientific research? 
-Scientific research supporting this diet are mostly focused around ketosis. There is 
+Scientific research supporting this diet are mostly focused around ketosis. There is some evidence that fat may be oxidized, thus losing fat, but again, this evidence and results are not exclusive to the low carb diet. 
 ### Is it dangerous? 
 
 ### Would you recommend? 
