@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.2 Working with Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.2 Working with Text.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.2 Working with Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.2 Working with Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,13 +210,13 @@
   },
   "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School/Spring2024/NURS343_Ethics",
     "School/Spring2024/NURS380_Practicum",
     "School/Spring2024/NURS341_Leadership",
     "School/Spring2024/ARTS286",
     "Learning/Linux.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/elements-and-tags.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/links-and-images.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/html-boilerplate.md",
