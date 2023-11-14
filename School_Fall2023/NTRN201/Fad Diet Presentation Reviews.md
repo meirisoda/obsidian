@@ -5,6 +5,7 @@ It is plant-based and also allows raw eggs and dairy. Raw fish and meat is also 
 ### Who is it for? 
 For highly health-conscious people who believe that cooking food is harmful as well as vegans and vegetarians. 
 ### Is it backed by scientific research? 
+It has some scientific evidence that shows that it 
 
 ### Is it dangerous? 
 
