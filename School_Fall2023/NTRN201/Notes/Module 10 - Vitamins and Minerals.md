@@ -69,10 +69,10 @@ Essential when you have dietary inadequacies causing physiological or structural
 **Major:** need >100mg per day
 **Minor:** need <100mg per day
 **Ultratrace:** trace amounts in diet, not essential to human health
-
 #### Absorption
 Majority absorbed in small intestine. 
 Interacts with fiber: phytic acid and oxalic may decrease some mineral absorption
 <mark class="hltr-yellow">Vitamin C increases iron absorption.
-Vitamin Dincreases calcium absorption.</mark>
-
+Vitamin D increases calcium absorption.</mark>
+#### Storage
+in the muscle tissue, organs and glands. 
