@@ -6,10 +6,11 @@ Juice cleanse (1-3 days): drink only fruit and vegetable juices
 Post cleanse transition (2-3 days): gradually add foods back into diet. 
 Vegetables, fruits, nut milks and gluten free whole foods are allowed. 
 ### Who is it for? 
-
+For people who want to lose weight. 
 ### Is it backed by scientific research? 
 It may lower blood pressure and cholesterol levels. 
 ### Is it dangerous? 
 It may cause nutrient deficiencies, unpasteurized/untreated juices can contain harmful bacteria, may increase sugar intake. 
 It is harmful for those with GI diseases, diabetes and kidney diseases. May also cause dehydration and electrolyte imbalances. 
 ### Would you recommend? 
+I would not recommend this diet. It is very unbalanced and even
