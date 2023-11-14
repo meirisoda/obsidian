@@ -12,4 +12,4 @@ It may not be healthy for pregnant women, those with risk factors for health dis
 It will cause a deficiency of both macro and micronutrients. (Due to restricted whole grains, beans, fruits and starchy vegetables, as well as dairy.) Deficiencies in vitamins A, E, K, calcium , magnesium, iron, potassium, linolenic acids, and all water-soluble vitamins excluding vitamin B12. Fiber deficiencies are also a symptom. 
 Calcium deficiency is common from a lack of dairy products and may cause fatigue, muscle pain, cognitive issues and tinging in the extremities.
 ### Would you recommend? 
-I would not personally recommend the keto diet as it is an extremely unbalanced diet and is not su
+I would not personally recommend the keto diet as it is an extremely unbalanced diet and is not sustainable long-term. 
