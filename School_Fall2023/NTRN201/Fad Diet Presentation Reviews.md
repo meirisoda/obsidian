@@ -11,3 +11,4 @@ Dr. Atkins conducted a trial on himself and 65 other colleagues and results were
 ### Is it dangerous? 
 It may lead to a higher risk of more dieseas and cancer (Astrup et al. 2004). It also needs to be constantly monitored.
 ### Would you recommend? 
+I would not recommend this diet because it is highly restrictive and may lead to an unhealthy relationship with certain food groups that are necessary for holistic health. 
