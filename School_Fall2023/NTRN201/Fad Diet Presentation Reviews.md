@@ -7,7 +7,7 @@ Stage 4 (Lifetime): Up to 120 grams/day.
 ### Who is it for? 
 People who want to lose weight. 
 ### Is it backed by scientific research? 
-Dr. Atkins conducted a trial on himself and 65 other colleagues and results were that overall, significant weight loss was achieved. 
+Dr. Atkins conducted a trial on himself and 65 other colleagues and results were that overall, significant weight loss was achieved. It shows to increase HDL and control blood sugar. 
 ### Is it dangerous? 
 
 ### Would you recommend? 
