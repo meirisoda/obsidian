@@ -73,6 +73,6 @@ Essential when you have dietary inadequacies causing physiological or structural
 #### Absorption
 Majority absorbed in small intestine. 
 Interacts with fiber: phytic acid and oxalic may decrease some mineral absorption
-**Vitamin C** increases iron absorption
-**Vi**
+<mark class="hltr-yellow">Vitamin C increases iron absorption.
+Vitamin Dincreases calcium absorption.</mark>
 
