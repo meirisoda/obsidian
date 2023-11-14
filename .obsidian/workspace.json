@@ -89,9 +89,21 @@
                 "file": "School_Fall2023/NTRN201/Files/Introduction_to_Nutrition_Syllabus_Fall_2023_-_Tagged.pdf"
               }
             }
+          },
+          {
+            "id": "a9608d087552f7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Files/Introduction_to_Nutrition_Syllabus_Fall_2023_-_Tagged.pdf"
+                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md"
               }
             }
           }
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Files/Introduction_to_Nutrition_Syllabus_Fall_2023_-_Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Files/Introduction_to_Nutrition_Syllabus_Fall_2023_-_Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +240,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7dd0a1b62f50bb06",
+  "active": "a9608d087552f7d1",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
+    "School_Fall2023/NTRN201/Files/Introduction_to_Nutrition_Syllabus_Fall_2023_-_Tagged.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
@@ -250,7 +264,6 @@
     "School_Spring2024/NURS343_Ethics",
     "School_Spring2024/NURS341_Leadership",
     "School_Spring2024/ARTS286",
-    "School_Spring2024/ACEMAPP Practicum Survey.pdf",
     "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
     "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled.png",
