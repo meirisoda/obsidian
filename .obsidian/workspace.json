@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.6 HTML Boilerplate.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.6 HTML Boilerplate.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.6 HTML Boilerplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.6 HTML Boilerplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,10 +197,12 @@
   },
   "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.7 Project Recipes.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.6 HTML Boilerplate.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.5 Lists.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.3 Elements and Tags.md",
     "School/Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/html-boilerplate.md",
     "School/Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.2 Working with Text.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.1 Intro to HTML & CSS.md",
@@ -231,8 +233,6 @@
     "Learning/The Odin Project Curriculum/LAYOUT_STYLE_GUIDE.md",
     "Learning/The Odin Project Curriculum/license.md",
     "Learning/The Odin Project Curriculum/README.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.5 Join the Odin Community.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.1 Introduction/1.1.4 Asking for help.md",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
     "Learning/The Odin Project Curriculum/ruby/basic_ruby_projects/bubble_sort/imgs/00.gif",
