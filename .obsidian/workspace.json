@@ -33,9 +33,11 @@
             "id": "ce14f0f8dd2c1003",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md"
               }
             }
           }
@@ -165,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,6 +222,10 @@
   },
   "active": "ce14f0f8dd2c1003",
   "lastOpenFiles": [
+    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/DOM_manipulation_and_events.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/problem_solving.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.2 Flexbox growing and shrinking.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/flexbox-axes.md",
@@ -235,7 +241,6 @@
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Raw Food Diet.pdf",
     "School_Fall2023/NTRN201/Files/Introduction_to_Nutrition_Syllabus_Fall_2023_-_Tagged.pdf",
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Blood Type Diet.pdf",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/PSCL389/Presentation_Groups-3.pdf",
     "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
@@ -258,9 +263,7 @@
     "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Untitled.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
-    "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
     "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
