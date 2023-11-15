@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/JavaScript.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/JavaScript.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/JavaScript.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +232,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0f2d1bcbef389870",
+  "active": "ce14f0f8dd2c1003",
   "lastOpenFiles": [
+    "Learning/JavaScript.md",
     "Learning/Linux.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.2 Fundamentals 1.md",
@@ -274,7 +275,6 @@
     "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled 1.png",
     "School_Fall2023/NTRN201/Files/PDE/PDE Assignment Part 1.md",
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
-    "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Blue Zone Quiz.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
