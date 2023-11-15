@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/problem_solving.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/problem_solving.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/problem_solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/problem_solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +222,12 @@
   },
   "active": "ce14f0f8dd2c1003",
   "lastOpenFiles": [
-    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/DOM_manipulation_and_events.md",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-1.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/installing_nodejs.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/javascript_developer_tools.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/problem_solving.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/project_etch_a_sketch.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Fundamentals 1.md",
+    "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/DOM_manipulation_and_events.md",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.2 Flexbox growing and shrinking.md",
@@ -260,9 +263,6 @@
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Blue Zone Quiz.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
