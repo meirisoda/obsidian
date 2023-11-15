@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cdef8f1076e38a66",
@@ -79,21 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a9608d087552f7d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md"
               }
             }
           }
@@ -177,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.1 Flexbox Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,11 +217,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a9608d087552f7d1",
+  "active": "ce2130b912ad81f4",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Low Carb Diet.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
+    "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Low Carb Diet.pdf",
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Keto Diet.pdf",
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Atkins Diet.pdf",
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Juice Cleanse.pdf",
@@ -244,7 +231,6 @@
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "School_Fall2023/PSCL389/Presentation_Groups-3.pdf",
-    "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
     "Learning/Linux.md",
