@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +232,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "aef287143e09907f",
+  "active": "31e66c302d591864",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "Notebook/Things to take note of.md",
     "Learning/JavaScript.md",
@@ -246,7 +247,6 @@
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/project_etch_a_sketch.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/DOM_manipulation_and_events.md",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
-    "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.2 Flexbox growing and shrinking.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/flexbox-axes.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/flexbox-alignment.md",
@@ -269,7 +269,6 @@
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/the-cascade.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/1.3.2.3 The Box Model (여기서 부터 시작하기).md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.1 HTML Foundations/1.3.1.4 Links and Images.md",
-    "School_Spring2024/Spring 2024 Plan.md",
     "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
     "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled.png",
