@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "cdef8f1076e38a66",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md"
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,10 +232,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ce14f0f8dd2c1003",
+  "active": "aef287143e09907f",
   "lastOpenFiles": [
-    "Notebook/Things to take note of.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
+    "Notebook/Things to take note of.md",
     "Learning/JavaScript.md",
     "Learning/Linux.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.2 Fundamentals 1.md",
