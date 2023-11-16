@@ -42,18 +42,6 @@
             }
           },
           {
-            "id": "8bdb2d3cdd3f3fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notebook/Things to take note of.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aef287143e09907f",
             "type": "leaf",
             "state": {
@@ -64,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/Things to take note of.md"
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md"
               }
             }
           }
@@ -191,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/Things to take note of.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/Things to take note of.md",
+                "file": "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,8 +232,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8bdb2d3cdd3f3fb9",
+  "active": "ce14f0f8dd2c1003",
   "lastOpenFiles": [
+    "Notebook/Things to take note of.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "Learning/JavaScript.md",
     "Learning/Linux.md",
@@ -285,7 +274,6 @@
     "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
     "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled.png",
     "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled 1.png",
-    "School_Fall2023/NTRN201/Files/PDE/PDE Assignment Part 1.md",
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
