@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,10 +232,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "aef287143e09907f",
+  "active": "31e66c302d591864",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+    "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "Notebook/Things to take note of.md",
     "Learning/JavaScript.md",
