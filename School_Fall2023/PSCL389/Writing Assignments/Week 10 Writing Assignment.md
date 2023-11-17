@@ -17,4 +17,4 @@ While I value the education that I got here, I have always known that I had sepa
 
 I also injured myself and am unable to really do anything for myself. Maybe this isn't a good time for me to write a paper on my goals. 
 
-I think my life's meaning is on hold at the moment. I am somebody who is generally extremely positive, and was a good example of someone who would "exert less cognitive effort when making judgements and are subsequently more likely to use a simple 'feelings-as-information' heuristic compared to people in negative moods". 
+I think my life's meaning is on hold at the moment. I am somebody who is generally extremely positive, and was a good example of someone who would "exert less cognitive effort when making judgements and are subsequently more likely to use a simple 'feelings-as-information' heuristic compared to people in negative moods". The feeling is equal to my experience, which is equal to my life's meaning. However, since I'm not in a really good place at the moment, my feeling of negativity is also equ
