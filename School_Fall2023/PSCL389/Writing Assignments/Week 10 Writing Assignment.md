@@ -9,4 +9,4 @@ and not knowing the exact path to get to where you want to be."
 "It just feels like wasted time and I am constantly holding myself back."
 "I am slowly rediscovering myself but it's just lost time and I know there is no point in looking back and regretting the things I haven't done - just look forward and see what I can do now but it's just a shame."
 
-Which is extremely timely. I'm at a time in my life where I'm nearing graduation and my post-graduation plans will soon become a reality. But I don't even have a solid idea of what I want to do post graduation. I came to CWRU as a nursing student and I am still a nursing student. I was original
+Which is extremely timely. I'm at a time in my life where I'm nearing graduation and my post-graduation plans will soon become a reality. But I don't even have a solid idea of what I want to do post graduation. I came to CWRU as a nursing student and I am still a nursing student. I was originally planning on going to art school for illustration, and throughout the portfolio process, I became extremely discouraged and switched over to nursing. I didn't think I could r
