@@ -9,4 +9,6 @@ Usually stems from the perception of a positive personal outcome, not necessaril
 근데 이거는 문제가, 다른 사람에서 얻었던 거를 안다고해서 그게 꼭 gratitude 가 되는거는 아님. 
 
 Gratitude is an attribution-dependent state that results from a two-step cognitive process:
-1. 
+1. recognizing that one has obtained a positive outcome
+2. recognizing that there is an external source for this positive outcome. 
+Question: Is recognition necessarily gratitude? 
