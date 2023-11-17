@@ -20,11 +20,15 @@
             }
           },
           {
-            "id": "c8b1e323cb991de7",
+            "id": "47dd07c2a51908c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/PSCL389/Group Project/Notes on Readings.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -59,15 +63,11 @@
             }
           },
           {
-            "id": "47dd07c2a51908c2",
+            "id": "8c67b5bc458286e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Notes on Readings.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -130,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School_Fall2023/PSCL389/Group Project/Notes on Readings.md"
+              }
             }
           }
         ]
@@ -153,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Fall2023/PSCL389/Group Project/Notes on Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Fall2023/PSCL389/Group Project/Notes on Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +208,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c8b1e323cb991de7",
+  "active": "47dd07c2a51908c2",
   "lastOpenFiles": [
     "School_Fall2023/PSCL389/Group Project/Notes on Readings.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
