@@ -113,9 +113,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47dd07c2a51908c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,7 +205,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +221,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,10 +256,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "31e66c302d591864",
+  "active": "47dd07c2a51908c2",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
+    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
