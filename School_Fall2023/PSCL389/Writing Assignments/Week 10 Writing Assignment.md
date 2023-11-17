@@ -17,4 +17,4 @@ While I value the education that I got here, I have always known that I had sepa
 
 I also injured myself and am unable to really do anything for myself. Maybe this isn't a good time for me to write a paper on my goals. 
 
-I think my life's meaning is on a hold 
+I think my life's meaning is on hold at the moment. 
