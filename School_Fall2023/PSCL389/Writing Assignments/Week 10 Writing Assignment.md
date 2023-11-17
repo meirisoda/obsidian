@@ -1,4 +1,4 @@
-# Jamie Lee_Week 10 Writing Assignment 
+# Jamie Lee Week 10 Writing Assignment 
 I want to take this week's writing assignments to talk about my goals. 
 
 I've found these weeks readings to be extremely relevant to where I currently am in life. I am 2 semesters away from graduating from a program that is extremely strict and inflexible, nursing. I came into college unsure of what direction I wanted to go in life and I believed the nursing was a safe route that would ensure stability in the future. But as time would go on, my interests became clearer and clearer. 
@@ -15,4 +15,4 @@ And now I am nearing the end of my nursing school career. Throughout this time, 
 But I'm not.
 While I value the education that I got here, I have always known that I had separate personal interests. I never saw myself as a nurse. I don't see myself being a nurse for the rest of my life. I still have very strong interests in art, and recently (in the past couple of years) developed a strong interest in programming, web developement and art. I am also now dating somebody who has equal strong interests as me in the same fields, but at a later stage in their skill level. And while seeing that and being around him I am motivated, I am also sad about where I am. There are so many classes that I would like to be able to take at Case, because we have really great professors and great resources that allow students to pursue interests further, I am locked into a program with no leeway. I have no room in my schedule to take classes that I would like to take. And with that comes my current perspective on my life's meaning. 
 
-I also injured myself and am unable to really do anything for myself. 
+I also injured myself and am unable to really do anything for myself. Maybe this isn't a good time for me to write a pape
