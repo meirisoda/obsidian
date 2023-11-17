@@ -13,4 +13,4 @@ Which is extremely timely. I'm at a time in my life where I'm nearing graduation
 And now I am nearing the end of my nursing school career. Throughout this time, I've gone through a lot. I've had a lot of mental health issues (still do!), took a year off from school, and gone through a lot of financial issues. And having gone through everything and still being in the program, you would think that I would be ever more grateful to be here. 
 
 But I'm not.
-While I value the education that I got here, 
+While I value the education that I got here, I have always known that I had separate personal interests. I never saw myself as a nurse. I don't see myself being a nurse for the rest of my life. I 
