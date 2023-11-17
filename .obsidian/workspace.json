@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "0ccf2d6d81367bd2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Notes/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf"
-              }
-            }
-          },
-          {
             "id": "ce14f0f8dd2c1003",
             "type": "leaf",
             "state": {
@@ -42,37 +32,15 @@
             }
           },
           {
-            "id": "fd5daa02db85a811",
+            "id": "ebed778beada811e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf"
-              }
-            }
-          },
-          {
-            "id": "8b7c229497f938b1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf"
-              }
-            }
-          },
-          {
-            "id": "ee8e34a6cd9f49e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -103,18 +71,6 @@
             }
           },
           {
-            "id": "31e66c302d591864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "47dd07c2a51908c2",
             "type": "leaf",
             "state": {
@@ -123,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,8 +212,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "47dd07c2a51908c2",
+  "active": "ebed778beada811e",
   "lastOpenFiles": [
+    "Learning/JavaScript.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf",
@@ -265,7 +222,6 @@
     "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "Notebook/Things to take note of.md",
-    "Learning/JavaScript.md",
     "Learning/Linux.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.2 Fundamentals 1.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-2.md",
