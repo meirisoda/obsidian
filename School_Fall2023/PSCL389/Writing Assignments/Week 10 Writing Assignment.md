@@ -16,3 +16,5 @@ But I'm not.
 While I value the education that I got here, I have always known that I had separate personal interests. I never saw myself as a nurse. I don't see myself being a nurse for the rest of my life. I still have very strong interests in art, and recently (in the past couple of years) developed a strong interest in programming, web developement and art. I am also now dating somebody who has equal strong interests as me in the same fields, but at a later stage in their skill level. And while seeing that and being around him I am motivated, I am also sad about where I am. There are so many classes that I would like to be able to take at Case, because we have really great professors and great resources that allow students to pursue interests further, I am locked into a program with no leeway. I have no room in my schedule to take classes that I would like to take. And with that comes my current perspective on my life's meaning. 
 
 I also injured myself and am unable to really do anything for myself. Maybe this isn't a good time for me to write a paper on my goals. 
+
+I think my life's meaning is on a hold 
