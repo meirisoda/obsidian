@@ -5,4 +5,9 @@ Connect graphics and music. But that might be difficult.
 
 I want to make things for people and represent their ideas in a way that is simultaenously abstract and concrete. An immortalization of their thoughts. 
 
-Heavy reliance on je
+Heavy reliance on javascript I guess. And other js frameworks, mainly:
+p5js
+touchscript
+react.js 
+p3
+processing
