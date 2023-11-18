@@ -7,7 +7,7 @@ I want to make things for people and represent their ideas in a way that is simu
 
 Heavy reliance on javascript I guess. And other js frameworks, mainly:
 p5js
+3js
 touchscript
 react.js 
-p3
 processing
