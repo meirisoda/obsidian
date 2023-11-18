@@ -1,3 +1,4 @@
+# From the beginning
 Define variables with
 `var [DATA TYPE] = '[EXPRESSION]'`;
 **but** use 
