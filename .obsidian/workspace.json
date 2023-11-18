@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/What do I want to do?.md"
+                "file": "Learning/JavaScript.md"
               }
             }
           }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/What do I want to do?.md",
+                "file": "Learning/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/What do I want to do?.md",
+                "file": "Learning/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8c67b5bc458286e3",
+  "active": "0f2d1bcbef389870",
   "lastOpenFiles": [
     "Notebook/What do I want to do?.md",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
