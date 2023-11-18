@@ -12,4 +12,4 @@ touchscript
 react.js 
 processing
 
-interactions between the natural world and the digital world. Not making the digital world my natural world, but bringing in natural and organic-ness as much as possible into the digital 
+interactions between the natural world and the digital world. Not making the digital world my natural world, but bringing in natural and organic-ness as much as possible into the digital world. 
