@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/JavaScript.md",
+                "file": "Learning/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/JavaScript.md"
+                "file": "Learning/Linux.md"
               }
             }
           }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/JavaScript.md",
+                "file": "Learning/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/JavaScript.md",
+                "file": "Learning/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,11 +215,11 @@
   },
   "active": "0f2d1bcbef389870",
   "lastOpenFiles": [
+    "Learning/JavaScript.md",
+    "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "Learning/Linux.md",
     "Learning/with_curriculum.md",
-    "Learning/JavaScript.md",
     "Notebook/What do I want to do?.md",
-    "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.2 Flexbox growing and shrinking.md",
     "School_Fall2023/PSCL389/Group Project",
