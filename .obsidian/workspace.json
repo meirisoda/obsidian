@@ -209,7 +209,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "0f2d1bcbef389870",
