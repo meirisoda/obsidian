@@ -20,4 +20,4 @@ I also injured myself and am unable to really do anything for myself. Maybe this
 
 The weather is also affecting how I view my happiness and the things that make me happy. 
 
-Update: I am feeling a bit better but regarding my goals and the feeling of separation between me currently and my goals is quite depressing. I know 
+Update: I am feeling a bit better but regarding my goals and the feeling of separation between me currently and my goals is quite depressing. I know that I am not necessarily thinking the clearest I can
