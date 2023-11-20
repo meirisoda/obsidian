@@ -7,7 +7,7 @@
 5. Banish procrastination. If you wait more than a week to get an idea done, abandon it.
 6. The point of being done is not to finish but to get other things done.
 7. Once you’re done you can throw it away.
-8. ==Laugh at perfection. It’s boring and keeps you from being done.==
+8. Laugh at perfection. It’s boring and keeps you from being done.
 9. People without dirty hands are wrong. Doing something makes you right.
 10. Failure counts as done. So do mistakes.
 11. Destruction is a variant of done.
