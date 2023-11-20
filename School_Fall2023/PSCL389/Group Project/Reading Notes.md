@@ -25,4 +25,4 @@ Inducing people to: dwell on the favorable, to appreciate the benefits that othe
 
 > [!col] 
 > **Hypothesis**: people in the gratitude-focused group would show enhanced psychosocial functioning relative to people in the 
-(1) 
+> (1) Hassles and life events groups

@@ -73,9 +73,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc3fb28883aa3085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +225,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "47dd07c2a51908c2",
+  "active": "bc3fb28883aa3085",
   "lastOpenFiles": [
     "Learning and Self-Improvement/DONE.md",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
