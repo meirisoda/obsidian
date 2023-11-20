@@ -1,4 +1,4 @@
-## Gratitude
+# Gratitude
 emotion, attitude, moral virtue, habit, personality trait, coping response
 Typically of positive valence. -- typically interpolated with admiration, respect, trust and regard. 
 
@@ -28,4 +28,5 @@ Inducing people to: dwell on the favorable, to appreciate the benefits that othe
 > (2) Hassles and downward social comparison groups
 > (3) True control group
 
-The negati
+## The negative aspects of gratitude
+To be grateful means to allow oneself to be placed in the position of a reci
