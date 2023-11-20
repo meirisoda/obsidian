@@ -23,5 +23,6 @@ Keep daily or weekly records of positive and negative affect, coping and health 
 
 Inducing people to: dwell on the favorable, to appreciate the benefits that others provide, and hence reflect on the benevolence of others. 
 
-**Hypothesis**: people in the gratitude-focused group would show enhanced psychosocial functioning relative to people in the 
+> [!col] 
+> **Hypothesis**: people in the gratitude-focused group would show enhanced psychosocial functioning relative to people in the 
 (1) 
