@@ -12,4 +12,4 @@ Gratitude is an attribution-dependent state that results from a two-step cogniti
 2. recognizing that there is an external source for this positive outcome. 
 Question: Is recognition necessarily gratitude? 
 
-A grateful response to life circum
+A grateful response to life circumstances may be an adaptive psychological strategy and an important process by which people positively interpret everyday experiences. 
