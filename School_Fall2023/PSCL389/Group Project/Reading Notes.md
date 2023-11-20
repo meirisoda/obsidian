@@ -29,4 +29,5 @@ Inducing people to: dwell on the favorable, to appreciate the benefits that othe
 > (3) True control group
 
 ## The negative aspects of gratitude
-To be grateful means to allow oneself to be placed in the position of a reci
+To be grateful means to allow oneself to be placed in the position of a recipient - to feel indebted and aware of one's dependence on others. 
+Has an obligatory aspect and people are generally expected to repay kindnesses. 
