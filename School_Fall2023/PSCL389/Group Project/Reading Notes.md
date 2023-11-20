@@ -33,4 +33,5 @@ Has an obligatory aspect and people are generally expected to repay kindnesses.
 
 People being aware of the things in their lives to be grateful for might increase their recogniziton of the need to reciprocate, and people may resnet these obligations and even report strong negative feelings towards their benefactors (Elster, 1999). 
 #### Set-point theory
-States they people's long-term levels of happiness are relatively stable and vary only slightly around genetically endowed levels. (Diener )
+States they people's long-term levels of happiness are relatively stable and vary only slightly around genetically endowed levels. (Diener & Diener, 1996; Lykken, 1999).
+
