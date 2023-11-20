@@ -22,4 +22,4 @@ Randomly assign participants to different experimental conditions.
 Keep daily or weekly records of positive and negative affect, coping and health behaviours, physical symptoms and overall life appraisals. 
 
 Inducing people to: dwell on the favorable, to appreciate the benefits that others provide, and hence reflect on the benevolence of others. 
---> 
+**Hypothesis**: people in the gratitude0focused group would show enhance
