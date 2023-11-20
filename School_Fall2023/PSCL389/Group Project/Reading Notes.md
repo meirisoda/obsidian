@@ -27,3 +27,5 @@ Inducing people to: dwell on the favorable, to appreciate the benefits that othe
 > (1) Hassles and life events groups
 > (2) Hassles and downward social comparison groups
 > (3) True control group
+
+The negati
