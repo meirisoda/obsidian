@@ -19,3 +19,5 @@ I think my life's meaning is on hold at the moment. I am somebody who is general
 I also injured myself and am unable to really do anything for myself. Maybe this isn't a good time for me to write a paper on my goals. Because I'm not in a really good place physically (unable to move, unable to walk, unable to do all of the activities that made me happy but also the things that helped me survive, ie. money) and I am also not in a good place mentally (due to the physical injury, having unsure feelings about my future and what I want to do for myself, my mother) - I am not thinking properly. I don't think I'll be able to think properly for quite some time. 
 
 The weather is also affecting how I view my happiness and the things that make me happy. 
+
+Update: I am feeling a bit bet
