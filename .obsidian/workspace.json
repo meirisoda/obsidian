@@ -29,7 +29,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "5e62262431c6cbe9"
           }
         ],
         "currentTab": 1
@@ -84,7 +85,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "5e62262431c6cbe9"
           }
         ],
         "currentTab": 3
@@ -225,7 +227,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bc3fb28883aa3085",
+  "active": "4b9202fd502981f0",
   "lastOpenFiles": [
     "Learning and Self-Improvement/DONE.md",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
