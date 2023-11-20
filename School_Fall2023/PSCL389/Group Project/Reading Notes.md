@@ -18,4 +18,5 @@ Being aware of how fortunate you are and what it could have been may increase sa
 	하지만 지금 내 상황에 apply를 하면, 지금 보다 더 안좋을 상황이 잘 상상이 안가니까 고맙기가 힘들다 but that might just be my lack of maturity and inability to recognize gratitude in the smaller things in my life.
 
 ## Emmon's Study
-Randomly assign participants to different experimental conditions
+Randomly assign participants to different experimental conditions. 
+Keep daily or weekly records of positive and negative affect, co
