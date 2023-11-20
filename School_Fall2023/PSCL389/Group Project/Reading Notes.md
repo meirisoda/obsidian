@@ -19,4 +19,6 @@ Being aware of how fortunate you are and what it could have been may increase sa
 
 ## Emmon's Study
 Randomly assign participants to different experimental conditions. 
-Keep daily or weekly records of positive and negative affect, co
+Keep daily or weekly records of positive and negative affect, coping and health behaviours, physical symptoms and overall life appraisals. 
+
+Inducing people to: dwell on the
