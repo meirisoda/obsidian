@@ -73,21 +73,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "603b782786b3e79e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md"
+                "file": "Notebook/What do I want to do?.md"
               }
             }
           }
@@ -171,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
+                "file": "Notebook/What do I want to do?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
+                "file": "Notebook/What do I want to do?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +213,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "603b782786b3e79e",
+  "active": "8c67b5bc458286e3",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "PDF Exports/Week 10 Writing Assignment.pdf",
     "Notebook/What do I want to do?.md",
     "Learning/JavaScript.md",
@@ -236,7 +225,6 @@
     "Learning/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.2 Flexbox growing and shrinking.md",
     "School_Fall2023/PSCL389/Group Project",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
@@ -258,7 +246,6 @@
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Keto Diet.pdf",
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Atkins Diet.pdf",
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Juice Cleanse.pdf",
-    "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews_Raw Food Diet.pdf",
     "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
     "Date to do.md",
