@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning and Self-Improvement/DONE.md"
+                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md"
               }
             }
           }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning and Self-Improvement/DONE.md",
+                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning and Self-Improvement/DONE.md",
+                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,10 +213,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8c67b5bc458286e3",
+  "active": "47dd07c2a51908c2",
   "lastOpenFiles": [
-    "Notebook/What do I want to do?.md",
     "Learning and Self-Improvement/DONE.md",
+    "Notebook/What do I want to do?.md",
     "Learning and Self-Improvement/CS",
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "PDF Exports/Week 10 Writing Assignment.pdf",
