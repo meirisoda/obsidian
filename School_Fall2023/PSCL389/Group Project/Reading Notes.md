@@ -121,4 +121,5 @@ Can be attributed to the adaptation level analysis of a single extremely positiv
 Accident victims seem less supportive of adaptation level theory; they do not take more pleasure in ordinary events and rated themselves significantly less happy in general than the control groups. 
 Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happier than the controls. 
 
-Alternatively (instead of adaptation level theory), it could be explained that the decreased satisfaction of the lottery winners is that goo
+Alternatively (instead of adaptation level theory), it could be explained that the decreased satisfaction of the lottery winners is that good luck in a lottery may actually be more painful than pleasurable. 
+Sudden changes or extremem outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; )
