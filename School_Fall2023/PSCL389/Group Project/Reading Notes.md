@@ -108,4 +108,5 @@ Another reason for the differences in lottery winners and the control group coul
 ==Adaptation theory== and social comparison (Brickman & Campbell, 1971;  Thibaut & Kelley, 1959) predicted that the lottery context should cause people to attach less importance to mundane pleasures than the every-life context. 
 	aka. changed the reference point. 
 #### Results
-Buyers and nonbuyers were quite similar in how happy they felt. 
+Buyers and nonbuyers were quite similar in their present happines but there were significant differences in past and future happiness. 
+Lottery winnters
