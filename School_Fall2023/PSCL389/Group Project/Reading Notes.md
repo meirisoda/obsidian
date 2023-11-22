@@ -129,4 +129,4 @@ However, the dissatisfaction and lowered happiness in lottery winners is not due
 It is also entirely possible that lottery winners could just have a changed perspective on ordinary events than the actual impact of these important events (cognitive appraisal vs subjective effect). 
 The lower pleasure ratings of winners and nostalgia effect of the paraplegics may be due to their contrast with previous extreme experiences *rather* than alterations in their subjective scales. (Their happiness scales and perception remains objective and is just relative) -- going back to adaptation level. 
 #### Implications 
-Happiness is
+Happiness is relative. 
