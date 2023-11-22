@@ -38,7 +38,9 @@ States they people's long-term levels of happiness are relatively stable and var
 If there are chronic baseline levels of affect, then raising the level of affect might be difficult.            
 # Brickman et al.
 **Is happiness relative?**
-## Adaptation Level Theory
+## Adaptation Level Theory 
+(Brickman & Campbell, 1971)
 People's judgements of current levels of stimulation depend on whether this stimulation exceeds or falls short of the level of stimulation to which their previous history has accustomed them. 
 Reasons for why people who have been given more happiness won't necessarily be more happy than those with misfortune: 
 #### Contrast & Habituation
+Experiences that are 
