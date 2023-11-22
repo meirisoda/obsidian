@@ -109,4 +109,6 @@ Another reason for the differences in lottery winners and the control group coul
 	aka. changed the reference point. 
 #### Results
 Buyers and nonbuyers were quite similar in their present happines but there were significant differences in past and future happiness. 
-Lottery winnters
+Lottery winners: future > past
+Control: past > future 
+
