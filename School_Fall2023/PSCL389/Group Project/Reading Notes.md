@@ -132,3 +132,5 @@ The lower pleasure ratings of winners and nostalgia effect of the paraplegics ma
 Happiness is relative. (wow really)
 There is no consistent relationship between economic impovement and increased happiness (Gallup, 1977). 
 Sex, race, age, income, education, family life-cycle stage and other demographic classification variables account for very little of variance in general happiness. 
+
+We tend to overs
