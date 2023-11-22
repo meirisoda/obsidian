@@ -64,3 +64,5 @@ Lottery winners and control group was interviewed by two-person teams of student
 Letters sent differed between different groups of people: 
 Winners were informed that the research was a study of lotteries. Was mentioned that other lottery winners because these respondents were keenly aware of their special status. 
 Control group was told that the research was a study of everyday life. Did not mention the lottery winners to avoid instituting an unfavorable comparison for the controls. 
+#### Measures
+General background questions (age, occupation, rac)
