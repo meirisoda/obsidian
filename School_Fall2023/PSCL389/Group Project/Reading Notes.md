@@ -95,3 +95,5 @@ Although 64% of the lottery winners gave examples of how their lives have change
 
 In general, lottery winners rated their winnings as a highly positive event, and paraplegis rated their accident as a highly negative event. (0 worst thing, 5 best thing) -- lottery 3.78 and victims 1.28. 
 It is interesting to note that although the difference between the lottery and victim group is large, it is roughly symmetric around the mean (2.5). 
+
+Winners found daily activities less enjoyable
