@@ -70,4 +70,6 @@ General background questions (age, occupation, race, religion, level of educatio
 Lottery winners and accident victims were asked several open-ended quetions such as: 
 "Has your lifestyle changed in any way wince you won? How?"
 "Do you feel you in any way deserved what happened?"
-"Do you ask yourself, "
+"Do you ask yourself, 'Why me?' How do you answer?"
+
+They were also asked to rate how much credit or blame they assigned to themselves for their outcome and divide the responsibility amo
