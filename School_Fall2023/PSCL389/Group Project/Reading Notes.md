@@ -62,4 +62,5 @@ Paraplegic groups were nterviewed in person face-to-face by a female graduate st
 Lottery winners and control group was interviewed by two-person teams of students. -- check p919 of paper
 #### Procedure
 Letters sent differed between different groups of people: 
-Winn
+Winners were informed that the research was a study of lotteries.
+Control group was told that the research was a study of everyday life. 
