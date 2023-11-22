@@ -116,4 +116,6 @@ Control: past > future
 Although lottery winners felt good about winning the lottery, they took less pleasure than controls in a variety of ordinary and mundane events. They were not generally happier than the control group. 
 Can be attributed to the adaptation level analysis of a single extremely positive event. Winning the lottery reamins vivid enough to contrast with more ordinary events but not enough to evelate general happiness. 
 > [!highlight]
-> A longitudian
+> A longitudinal study might be good to determine how adaptation level effects change over time for lottery winners. 
+
+Accident victims seem less supportive of adapta
