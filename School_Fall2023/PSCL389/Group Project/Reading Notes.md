@@ -53,4 +53,7 @@ Becoming habituated to this level of happiness means that further pleasures are 
 > Lessens the pleasure found in mndane events and in the long run by a process of habituation that **erodes the impact of good fortune itself**.
 ## Studies 
 ### Study 1
-Interviewed accident victims (11 paraplegic, 18 guadraplegics; 85% response rate) as well as lottery winners (197 major winners; 52% response rate; winning amounts range f. 
+#### Sample 
+Interviewed accident victims (11 paraplegic, 18 guadraplegics; 85% response rate) as well as lottery winners (197 major winners; 52% response rate; winning amounts range from 5만 to 1million USD).
+#### Controls
+88 people who lived in approx
