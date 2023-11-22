@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md"
+                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
+                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
+                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +226,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "47dd07c2a51908c2",
   "lastOpenFiles": [
+    "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Witvliet-et-al.-2001-PS.pdf",
     "School_Fall2023/PSCL389/Group Project/Readings/McCullough-2001-CDPS.pdf",
     "School_Fall2023/PSCL389/Group Project/Readings/Emmons-et-al.-2003-JPSP.pdf",
@@ -245,10 +245,8 @@
     "Learning and Self-Improvement/CS/JavaScript.md",
     "Learning and Self-Improvement/CS/Linux.md",
     "Learning and Self-Improvement/CS/with_curriculum.md",
-    "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.2 Flexbox growing and shrinking.md",
     "School_Fall2023/PSCL389/Group Project",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
     "Notebook/Things to take note of.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.2 Fundamentals 1.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-2.md",
