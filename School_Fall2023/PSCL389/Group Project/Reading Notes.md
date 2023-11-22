@@ -125,3 +125,5 @@ Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happ
 Sudden changes or extreme outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; Rahe, 1972; Vinokur & Selzer, 1975). Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved. 
 
 However, the dissatisfaction and lowered happiness in lottery winners is not due to the misfortune or negative effects of a great life event (ie. in the sense that winning the lottery was an unpleasant experience or a mixed blessing) - more so that the peak experience with the lottery makes more ordinary joys pale in comparison.
+
+It is also entirely possible that lottery winners could just have a changed perspective on ordinary events than the actual impact of these important events (cognitive appraisal vs )
