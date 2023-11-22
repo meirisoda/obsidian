@@ -22,7 +22,7 @@ Randomly assign participants to different experimental conditions.
 Keep daily or weekly records of positive and negative affect, coping and health behaviours, physical symptoms and overall life appraisals. 
 
 Inducing people to: dwell on the favorable, to appreciate the benefits that others provide, and hence reflect on the benevolence of others. 
-> [!col] 
+
 > **Hypothesis**: people in the gratitude-focused group would show enhanced psychosocial functioning relative to people in the 
 > (1) Hassles and life events groups
 > (2) Hassles and downward social comparison groups
