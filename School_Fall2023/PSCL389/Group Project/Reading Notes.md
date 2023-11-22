@@ -61,3 +61,4 @@ Interviewed accident victims (11 paraplegic, 18 guadraplegics; 85% response rate
 Paraplegic groups were nterviewed in person face-to-face by a female graduate student. 
 Lottery winners and control group was interviewed by two-person teams of students. -- check p919 of paper
 #### Procedure
+Letters sent to winners and control
