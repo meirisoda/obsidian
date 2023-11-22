@@ -91,4 +91,4 @@ General happiness measure:
 	- Reading a magazine
 	- Buying clothes (only for the lottery winners and control group)
 #### Results
-Although 64% of the lottery winners gave examples of how their lives have changed from the accident, only 23% were willing to say that 
+Although 64% of the lottery winners gave examples of how their lives have changed from the accident, only 23% were willing to say that their ifestyles in general have changed. Changes mentioned included: financial security, increased leisure time, easier retirement and general celebrity status. 
