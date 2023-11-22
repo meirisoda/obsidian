@@ -4,8 +4,9 @@ Typically of positive valence. -- typically interpolated with admiration, respec
 
 derived from the word <mark class="hltr-yellow">gratia</mark> meaning grace, graciousness or gratefullness - "have to do with kindness, generousness, gifts, the beauty of giving and receiving, or getting something for nothing". 
 Usually stems from the perception of a positive personal outcome, not necessarily deserved or earned, that is due to the actions of another person. 
-#### The willingness to recognize the unearned increments of value in one's experience. 
-#### An estimate of gain coupled with the judgement that someone else is responsible for that gain
+
+> [!colThe willingness to recognize the unearned increments of value in one's experience. 
+>An estimate of gain coupled with the judgement that someone else is responsible for that gain
 
 Gratitude is an attribution-dependent state that results from a two-step cognitive process:
 1. recognizing that one has obtained a positive outcome
@@ -32,7 +33,7 @@ To be grateful means to allow oneself to be placed in the position of a recipien
 Has an obligatory aspect and people are generally expected to repay kindnesses. 
 
 People being aware of the things in their lives to be grateful for might increase their recogniziton of the need to reciprocate, and people may resnet these obligations and even report strong negative feelings towards their benefactors (Elster, 1999). 
-#### Set-point theory
+### Set-point theory
 States they people's long-term levels of happiness are relatively stable and vary only slightly around genetically endowed levels. (Diener & Diener, 1996; Lykken, 1999).
 If there are chronic baseline levels of affect, then raising the level of affect might be difficult.            
 # Brickman et al.
