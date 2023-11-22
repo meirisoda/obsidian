@@ -82,4 +82,11 @@ General happiness measure:
 - How happy were you before the accident (victims)
 - How happy were you 6 months ago (control)
 - How happy do you expect to be in a couple years?
-- How pleasant do you find these activi
+- How pleasant do you find these activities:
+	- Talking with a friend
+	- Watching television
+	- Eating breakfast
+	- Hearing a funny joke
+	- Getting a compliment
+	- Reading a magazine
+	- Buying clothes (on)
