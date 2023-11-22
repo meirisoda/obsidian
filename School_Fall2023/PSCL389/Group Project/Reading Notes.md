@@ -105,7 +105,7 @@ The accident victims recall their past as being happier than did controls (nosta
 Explanations for the differences in lottery winners and controls:
 General tendency for people who buy lottery tickets to find life less pleasurable than people who do not buy lottery tickets. A degree of dissatisfaction could be the reason why people buy lottery tickets. 
 Another reason for the differences in lottery winners and the control group could be the way that study 1 was set up - lottery winners were clearly aware of the study's focus on the lottery, whereas controls were only told that the study dealt with everyday life. Merely introducing the lottery as context for the interview may induce people to take lottery winners as a reference group. 
-==Adaptation theory== and social comparison (Brickman & Campbell, 1971; Thibaut & Kelley, 1959) predicted that the lottery context should cause people to attach less importance to mundane pleasures than the every-life context. 
+==Adaptation theory== and social comparison (Brickman & Campbell, 1971;  Thibaut & Kelley, 1959) predicted that the lottery context should cause people to attach less importance to mundane pleasures than the every-life context. 
 	aka. changed the reference point. 
 #### Results
 Buyers and nonbuyers were quite similar in how happy they felt. 
