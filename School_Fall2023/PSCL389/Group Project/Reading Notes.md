@@ -127,4 +127,4 @@ Sudden changes or extreme outcomes, even though positive, may be stress inducint
 However, the dissatisfaction and lowered happiness in lottery winners is not due to the misfortune or negative effects of a great life event (ie. in the sense that winning the lottery was an unpleasant experience or a mixed blessing) - more so that the peak experience with the lottery makes more ordinary joys pale in comparison.
 ##### Perspective Theory
 It is also entirely possible that lottery winners could just have a changed perspective on ordinary events than the actual impact of these important events (cognitive appraisal vs subjective effect). 
-The lower pleasure ratings of winners and nostalgia effect of the paraplegics may be due to their contrast with previous extreme experiences 
+The lower pleasure ratings of winners and nostalgia effect of the paraplegics may be due to their contrast with previous extreme experiences *rather* than alterations in their subjective scales. (Their happiness scales and perception remains objective and is just relative) -- going back to adaptation level. 
