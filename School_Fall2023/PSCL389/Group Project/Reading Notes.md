@@ -98,4 +98,5 @@ It is interesting to note that although the difference between the lottery and v
 
 Both winners and accident victims found daily activities less enjoyable than controls, but accident victims' difference between control was not that significant. (Winners were significantly different)
 
-Lottery winners and controls were not sign
+Lottery winners and controls were not significantly differnet in their ratings of how happy tey were now, how happy they were before winning and how happy they expected to be in a couple of years. 
+The accident victims recall their past as being happier than did contro
