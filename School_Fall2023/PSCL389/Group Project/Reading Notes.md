@@ -74,3 +74,4 @@ Lottery winners and accident victims were asked several open-ended quetions such
 
 They were also asked to rate how much credit or blame they assigned to themselves for their outcome and divide the responsibility among four potentially causal factors: 
 themselves, others, the environment and chance. 
+Asked to place their accident on a scale of "best and worst things that can happen in your life".
