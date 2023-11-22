@@ -79,4 +79,7 @@ Asked to place their accident on a scale of "best and worst things that can happ
 General happiness measure: 
 - How happy are you in your current stage of life? 
 - How happy were you before winning (lottery)
-- How happy were you b
+- How happy were you before the accident (victims)
+- How happy were you 6 months ago (control)
+- How happy do you expect to be in a couple years?
+- How pleasant do you find these activi
