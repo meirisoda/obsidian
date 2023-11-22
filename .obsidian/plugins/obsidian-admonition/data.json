@@ -1,5 +1,18 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "highlight": {
+      "type": "highlight",
+      "color": "150, 150, 150",
+      "icon": {
+        "name": "sun",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Highlight",
+      "injectColor": true,
+      "noTitle": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.1.1",

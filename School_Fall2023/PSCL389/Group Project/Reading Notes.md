@@ -4,7 +4,7 @@ Typically of positive valence. -- typically interpolated with admiration, respec
 
 derived from the word <mark class="hltr-yellow">gratia</mark> meaning grace, graciousness or gratefullness - "have to do with kindness, generousness, gifts, the beauty of giving and receiving, or getting something for nothing". 
 Usually stems from the perception of a positive personal outcome, not necessarily deserved or earned, that is due to the actions of another person. 
-> [!col] 
+> [!highlight] 
 > The willingness to recognize the unearned increments of value in one's experience. 
 >An estimate of gain coupled with the judgement that someone else is responsible for that gain
 
