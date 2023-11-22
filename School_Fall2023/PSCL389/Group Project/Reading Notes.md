@@ -119,4 +119,4 @@ Can be attributed to the adaptation level analysis of a single extremely positiv
 > A longitudinal study might be good to determine how adaptation level effects change over time for lottery winners. 
 
 Accident victims seem less supportive of adaptation level theory; they do not take more pleasure in ordinary events and rated themselves significantly less happy in general than the control groups. 
-The things that 
+Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happier than the controls. 
