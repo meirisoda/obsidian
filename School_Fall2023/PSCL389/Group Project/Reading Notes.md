@@ -38,3 +38,4 @@ If there are chronic baseline levels of affect, then raising the level of affect
 # Brickman et al.
 **Is happiness relative?**
 
+## Adaptation Level Theory
