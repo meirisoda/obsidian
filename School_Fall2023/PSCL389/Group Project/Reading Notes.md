@@ -110,6 +110,6 @@ Another reason for the differences in lottery winners and the control group coul
 #### Results
 Buyers and nonbuyers were quite similar in their present happines but there were significant differences in past and future happiness. 
 Lottery winners: future > past
-	Because in contrast to their big winner's life, their past seems unhappy. 
+	Because in contrast to their big winner's life, their past seems unhappy in comparison. 
 Control: past > future 
 
