@@ -40,3 +40,4 @@ If there are chronic baseline levels of affect, then raising the level of affect
 **Is happiness relative?**
 ## Adaptation Level Theory
 People's judgements of current levels of stimulation depend on whether this stimulation exceeds or falls short of the level of stimulation to which their previous history has accustomed them. 
+Reasons for why people who have been given more happiness won't neces
