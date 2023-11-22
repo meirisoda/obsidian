@@ -53,3 +53,4 @@ Becoming habituated to this level of happiness means that further pleasures are 
 > Lessens the pleasure found in mndane events and in the long run by a process of habituation that **erodes the impact of good fortune itself**.
 ## Studies 
 ### Study 1
+Interviewed accident victims as well as lottery winners. 
