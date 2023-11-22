@@ -208,11 +208,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +227,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "47dd07c2a51908c2",
+  "active": "5ab2ff3f2e14bdfb",
   "lastOpenFiles": [
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Witvliet-et-al.-2001-PS.pdf",
