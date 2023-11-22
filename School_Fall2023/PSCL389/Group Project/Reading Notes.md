@@ -122,6 +122,6 @@ Accident victims seem less supportive of adaptation level theory; they do not ta
 Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happier than the controls. 
 
 **Alternatively** (instead of adaptation level theory), it could be explained that the decreased satisfaction of the lottery winners is that good luck in a lottery may actually be more painful than pleasurable. 
-Sudden changes or extremem outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; Rahe, 1972; Vinokur & Selzer, 1975). 
+Sudden changes or extreme outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; Rahe, 1972; Vinokur & Selzer, 1975). Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved. 
 
-Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved. 
+However, the dissatisfaction and lowered happiness in lottery winners is not due to the 
