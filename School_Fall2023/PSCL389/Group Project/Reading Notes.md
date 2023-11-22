@@ -4,6 +4,7 @@ Typically of positive valence. -- typically interpolated with admiration, respec
 
 derived from the word <mark class="hltr-yellow">gratia</mark> meaning grace, graciousness or gratefullness - "have to do with kindness, generousness, gifts, the beauty of giving and receiving, or getting something for nothing". 
 Usually stems from the perception of a positive personal outcome, not necessarily deserved or earned, that is due to the actions of another person. 
+
 > [!highlight] 
 > The willingness to recognize the unearned increments of value in one's experience. 
 >An estimate of gain coupled with the judgement that someone else is responsible for that gain
@@ -23,7 +24,7 @@ Randomly assign participants to different experimental conditions.
 Keep daily or weekly records of positive and negative affect, coping and health behaviours, physical symptoms and overall life appraisals. 
 
 Inducing people to: dwell on the favorable, to appreciate the benefits that others provide, and hence reflect on the benevolence of others. 
-> [!col] 
+> [!highlight] 
 > **Hypothesis**: people in the gratitude-focused group would show enhanced psychosocial functioning relative to people in the 
 > (1) Hassles and life events groups
 > (2) Hassles and downward social comparison groups
