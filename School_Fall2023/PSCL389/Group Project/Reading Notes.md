@@ -124,4 +124,4 @@ Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happ
 **Alternatively** (instead of adaptation level theory), it could be explained that the decreased satisfaction of the lottery winners is that good luck in a lottery may actually be more painful than pleasurable. 
 Sudden changes or extremem outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; Rahe, 1972; Vinokur & Selzer, 1975). 
 
-Stories 
+Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved. 
