@@ -103,4 +103,4 @@ The accident victims recall their past as being happier than did controls (nosta
 ### Study 2 
 Explanations for the differences in lottery winners and controls:
 General tendency for people who buy lottery tickets to find life less pleasurable than people who do not buy lottery tickets. A degree of dissatisfaction could be the reason why people buy lottery tickets. 
-Another reason for the difference
+Another reason for the differences in lottery winners and the control group could be the way that study 1 was set up 
