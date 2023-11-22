@@ -58,3 +58,5 @@ Interviewed accident victims (11 paraplegic, 18 guadraplegics; 85% response rate
 #### Controls
 88 people who lived in approximately the same areas of the city as the lottery book. Response rate was 41% with 22 participants total. 
 #### Interviewers
+Paraplegic groups were nterviewed in person face-to-face by a female graduate student. 
+Lottery winners and 
