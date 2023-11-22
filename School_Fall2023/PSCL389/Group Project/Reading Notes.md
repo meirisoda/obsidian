@@ -72,4 +72,5 @@ Lottery winners and accident victims were asked several open-ended quetions such
 "Do you feel you in any way deserved what happened?"
 "Do you ask yourself, 'Why me?' How do you answer?"
 
-They were also asked to rate how much credit or blame they assigned to themselves for their outcome and divide the responsibility amo
+They were also asked to rate how much credit or blame they assigned to themselves for their outcome and divide the responsibility among four potentially causal factors: 
+themselves, others, the environment and chance. 
