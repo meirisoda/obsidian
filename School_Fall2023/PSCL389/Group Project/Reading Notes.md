@@ -89,4 +89,5 @@ General happiness measure:
 	- Hearing a funny joke
 	- Getting a compliment
 	- Reading a magazine
-	- Buying clothes (on)
+	- Buying clothes (only for the lottery winners and control group)
+#### Results
