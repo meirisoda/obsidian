@@ -51,4 +51,4 @@ If all things are judged by the extent to which they depart from a baseline of p
 Becoming habituated to this level of happiness means that further pleasures are experienced as less intense and should no longer contribute very much to their general level of happiness. 
 > [!col]
 > Lessens the pleasure found in mndane events and in the long run by a process of habituation that **erodes the impact of good fortune itself**.
-
+## Studies 
