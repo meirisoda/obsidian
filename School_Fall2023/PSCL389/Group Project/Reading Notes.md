@@ -94,4 +94,4 @@ General happiness measure:
 Although 64% of the lottery winners gave examples of how their lives have changed from the accident, only 23% were willing to say that their ifestyles in general have changed. Changes were generally positive and included: financial security, increased leisure time, easier retirement and general celebrity status. 
 
 In general, lottery winners rated their winnings as a highly positive event, and paraplegis rated their accident as a highly negative event. (0 worst thing, 5 best thing) -- lottery 3.78 and victims 1.28. 
-It is interesting to note that although 
+It is interesting to note that although the difference between the lottery and victim group is large, it is roughly symmetric around the mean (2.5). 
