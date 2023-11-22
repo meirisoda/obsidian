@@ -102,3 +102,4 @@ Lottery winners and controls were not significantly differnet in their ratings o
 The accident victims recall their past as being happier than did controls (nostalgia effect) and also report their present as being less happy than thier controls. However, the victim rating of present happiness is still above the midpoint of the scale and did not appear to be as unhappy as expected. 
 ### Study 2 
 Explanations for the differences in lottery winners and controls:
+General tendency for people who buy lottery tickets to find life less pleasurable than people who do not buy lottery tickets. 
