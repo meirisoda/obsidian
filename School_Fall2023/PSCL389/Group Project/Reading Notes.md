@@ -36,3 +36,5 @@ People being aware of the things in their lives to be grateful for might increas
 States they people's long-term levels of happiness are relatively stable and vary only slightly around genetically endowed levels. (Diener & Diener, 1996; Lykken, 1999).
 If there are chronic baseline levels of affect, then raising the level of affect might be difficult.            
 # Brickman et al.
+**Is happiness relative?**
+
