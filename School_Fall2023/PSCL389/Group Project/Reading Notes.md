@@ -68,4 +68,6 @@ Control group was told that the research was a study of everyday life. Did not m
 General background questions (age, occupation, race, religion, level of education). 
 
 Lottery winners and accident victims were asked several open-ended quetions such as: 
-"H"
+"Has your lifestyle changed in any way wince you won? How?"
+"Do you feel you in any way deserved what happened?"
+"Do you ask yourself, "
