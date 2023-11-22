@@ -56,4 +56,4 @@ Becoming habituated to this level of happiness means that further pleasures are 
 #### Sample 
 Interviewed accident victims (11 paraplegic, 18 guadraplegics; 85% response rate) as well as lottery winners (197 major winners; 52% response rate; winning amounts range from 5만 to 1million USD).
 #### Controls
-88 people who lived in approx
+88 people who lived in approximately the same areas of the city as the lottery book. Response rate was 41% with 22 participants total. 
