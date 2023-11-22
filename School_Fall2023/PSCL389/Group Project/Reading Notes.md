@@ -114,3 +114,4 @@ Lottery winners: future > past
 Control: past > future 
 #### Discussion
 Although lottery winners felt good about winning the lottery, they took less pleasure than controls in a variety of ordinary and mundane events. They were not generally happier than the control group. 
+Can b
