@@ -45,7 +45,7 @@ People's judgements of current levels of stimulation depend on whether this stim
 Reasons for why people who have been given more happiness won't necessarily be more happy than those with misfortune: 
 #### Contrast
 Experiences that are salient or extreme and simultaneously relevant to other experiences serve as heavily weighted inputs for adaptation level (Eiser & Stroebe, 1972; Helson, 1964).
-Example: winning a million dollars should be a distinctive event and consitutes an extremely positive comparison point - it should shift adaptation level to that happiness side. 
+Example: winning a million dollars should be a distinctive event and constitutes an extremely positive comparison point - it should shift adaptation level to that happiness side. 
 However, it can also make other experiences less enjoyable in comparison. 
 #### Habituation
 If all things are judged by the extent to which they depart from a baseline of past experience, gradually even the most positive events will cease to have an impact as they tehmselves are absorbed into the *new* baseline. Further events are judged based off of that baseline (again, comparison). 
