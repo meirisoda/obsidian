@@ -96,7 +96,7 @@ It is interesting to note that although the difference between the lottery and v
 
 Both winners and accident victims found daily activities less enjoyable than controls, but accident victims' difference between control was not that significant. (Winners were significantly different)
 
-Lottery winners and controls were not significantly different in their ratings of how happy tey were now, how happy they were before winning and how happy they expected to be in a couple of years. 
+Lottery winners and controls were not significantly different in their ratings of how happy they were now, how happy they were before winning and how happy they expected to be in a couple of years. 
 The accident victims recall their past as being happier than did controls (nostalgia effect) and also report their present as being less happy than thier controls. However, the victim rating of present happiness is still above the midpoint of the scale and did not appear to be as unhappy as expected. 
 ### Study 2 
 Explanations for the differences in lottery winners and controls:
