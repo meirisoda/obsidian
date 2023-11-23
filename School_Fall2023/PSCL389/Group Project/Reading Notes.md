@@ -44,7 +44,7 @@ If there are chronic baseline levels of affect, then raising the level of affect
 People's judgements of current levels of stimulation depend on whether this stimulation exceeds or falls short of the level of stimulation to which their previous history has accustomed them. 
 Reasons for why people who have been given more happiness won't necessarily be more happy than those with misfortune: 
 #### Contrast
-Experiences that are salient or extreme and simultaneously relevant to other experiences serve as heavily weighted inputs for adaptation level (Eiser &Stroebe, 1972; Helson, 1964).
+Experiences that are salient or extreme and simultaneously relevant to other experiences serve as heavily weighted inputs for adaptation level (Eiser & Stroebe, 1972; Helson, 1964).
 Example: winning a million dollars should be a distinctive event and consitutes an extremely positive comparison point - it should shift adaptation level to that happiness side. 
 However, it can also make other experiences less enjoyable in comparison. 
 #### Habituation
