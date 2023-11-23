@@ -58,9 +58,6 @@ Becoming habituated to this level of happiness means that further pleasures are 
 Interviewed accident victims (11 paraplegic, 18 quadriplegics; 85% response rate) as well as lottery winners (197 major winners; 52% response rate; winning amounts range from 5만 to 1million USD).
 #### Controls
 88 people who lived in approximately the same areas of the city as the lottery winners. Response rate was 41% with 22 participants total. 
-#### Interviewers
-Paraplegic groups were nterviewed in person face-to-face by a female graduate student. 
-Lottery winners and control group was interviewed by two-person teams of students. -- check p919 of paper
 #### Procedure
 Letters sent differed between different groups of people: 
 Winners were informed that the research was a study of lotteries. Was mentioned that other lottery winners because these respondents were keenly aware of their special status. 
