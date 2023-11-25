@@ -75,9 +75,19 @@
               }
             },
             "group": "5e62262431c6cbe9"
+          },
+          {
+            "id": "8448b09c7fc56548",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md"
+                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf"
               }
             }
           }
@@ -161,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
+                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
+                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,18 +225,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "47dd07c2a51908c2",
+  "active": "8448b09c7fc56548",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
+    "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Witvliet-et-al.-2001-PS.pdf",
     "School_Fall2023/PSCL389/Group Project/Readings/McCullough-2001-CDPS.pdf",
     "School_Fall2023/PSCL389/Group Project/Readings/Emmons-et-al.-2003-JPSP.pdf",
     "School_Fall2023/PSCL389/Group Project/Readings/Csikszentmihalyi-1999-AP.pdf",
-    "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
     "School_Fall2023/PSCL389/Group Project/Readings/Armenta-et-al.-2017-ER.pdf",
     "School_Fall2023/PSCL389/Group Project/Readings",
     "Learning and Self-Improvement/DONE.md",
-    "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "Notebook/What do I want to do?.md",
     "Learning and Self-Improvement/CS",
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
