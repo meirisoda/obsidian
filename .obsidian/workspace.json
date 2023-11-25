@@ -80,9 +80,11 @@
             "id": "8448b09c7fc56548",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf"
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf"
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md"
               }
             }
           }
@@ -171,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +229,9 @@
   },
   "active": "8448b09c7fc56548",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
+    "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+    "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Witvliet-et-al.-2001-PS.pdf",
     "School_Fall2023/PSCL389/Group Project/Readings/McCullough-2001-CDPS.pdf",
@@ -261,7 +264,6 @@
     "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
     "School_Fall2023/NTRN201/Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
-    "Date to do.md",
     "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
     "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled.png",
