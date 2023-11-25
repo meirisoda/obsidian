@@ -12,7 +12,7 @@ Alkaline ash is produced by fruits and vegetables (with the exception of cranber
 Alkaline water is another component of this group of diets. 
 ### Health Claims
 As you can probably deduce, this diet and belief falls more closely under alternative medicine rather than a pure diet. 
-The notion of alkaline ash being more beneficial to the human body originates from osteoporosis research. The idea is that 
+The notion of alkaline ash being more beneficial to the human body originates from osteoporosis research. The idea is that with excessive acid intake or a shift in bodily pH to a more acidic side, is that 
 The diet claims to prevent osteoporosis, heart disease, treat low energy levels, and cure cancer. 
 
 Although some of the beliefs may have originated from scientific research and may have some validity, it is largely not recommended by dieticians and medical professionals.
