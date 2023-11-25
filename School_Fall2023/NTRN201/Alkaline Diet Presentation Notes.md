@@ -1,7 +1,5 @@
-The alkaline diet is a diet (or group of diets) based off the belief that our diet can alter the pH of our body. 
-
-
--- What is the acid ash hypothesis? 
+The alkaline diet is a diet (or group of diets) based off the belief that our diet can alter the pH of our body. It originates from the acid ash hypothesis 
+### What is the acid ash hypothesis? 
 It originates from the acid ash hypothesis, which states that when your body metabolizes and breaks down food, the food can leave behind metabolic waste, known as ash. 
 
 If the food leaves behind acidic ash, it makes your blood more acidic. If you eat foods that leave behind alkaline ash, it makes your blood more alkaline. 
