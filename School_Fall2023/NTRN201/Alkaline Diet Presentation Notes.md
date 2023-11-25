@@ -14,7 +14,8 @@ Alkaline water is another component of this group of diets.
 As you can probably deduce, this diet and belief falls more closely under alternative medicine rather than a pure diet. 
 The notion of alkaline ash being more beneficial to the human body originates from osteoporosis research. The idea is that with excessive acid intake or a shift in bodily pH to a more acidic side, is that the kidneys (that try to filter it all out and maintain bodily pH levels) will use the bone's alkaline mineral reserves to balance it out. 
 Causing our bones to become weaker. 
-So the idea is by consuming higher alkaline foods that you increase the amount of alkaline mineral reserves in the body to give your bones strength and maintain a 
+So the idea is by consuming higher alkaline foods that you increase the amount of alkaline mineral reserves in the body to give your bones strength and maintain a reserve for pH regulation in the case of acid imbalance. 
+
 The diet claims to prevent osteoporosis, heart disease, treat low energy levels, and cure cancer. 
 
 Although some of the beliefs may have originated from scientific research and may have some validity, it is largely not recommended by dieticians and medical professionals.
