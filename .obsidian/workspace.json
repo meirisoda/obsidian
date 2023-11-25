@@ -64,18 +64,6 @@
             }
           },
           {
-            "id": "8c67b5bc458286e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning and Self-Improvement/DONE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bc3fb28883aa3085",
             "type": "leaf",
             "state": {
@@ -89,7 +77,7 @@
             "group": "5e62262431c6cbe9"
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
