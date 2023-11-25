@@ -10,7 +10,6 @@ Foods that leave behind acidic ash and should be avoided are: meat, poultry, egg
 #### Alkaline Ash 
 Alkaline ash is produced by fruits and vegetables (with the exception of cranberries, prunes and plums). 
 Alkaline water is another component of this group of diets. 
-
 ### Health Claims
 As you can probably deduce, this diet and belief falls more closely under alternative medicine rather than a pure diet. The diet claims to prevent osteoporosis, heart disease, treat low energy levels, and cure cancer. 
 

@@ -87,9 +87,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5cd6bf972bc2829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md"
+                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md"
               }
             }
           }
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+                "file": "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,10 +239,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8448b09c7fc56548",
+  "active": "e5cd6bf972bc2829",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
     "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+    "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Witvliet-et-al.-2001-PS.pdf",
