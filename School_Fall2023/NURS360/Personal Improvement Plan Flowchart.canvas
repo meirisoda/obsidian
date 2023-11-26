@@ -8,7 +8,8 @@
 		{"id":"1a446532702b9f42","x":-290,"y":270,"width":250,"height":75,"type":"text","text":"Do you carry around that journal? "},
 		{"id":"9fd90e2e1250e33f","type":"text","text":"Yes","x":-130,"y":405,"width":250,"height":60},
 		{"id":"6083948c02c72f3a","type":"text","text":"No","x":-420,"y":405,"width":250,"height":60},
-		{"id":"d3f6248149b4d19f","x":-420,"y":505,"width":250,"height":60,"type":"text","text":"Start carrying it around. "}
+		{"id":"d3f6248149b4d19f","x":-420,"y":505,"width":250,"height":60,"type":"text","text":"Start carrying it around. "},
+		{"id":"66cdd66bd7c71eda","x":-130,"y":505,"width":250,"height":158,"type":"text","text":"Have you written something in the journal today? \n(Assume that it is the end of the day.)"}
 	],
 	"edges":[
 		{"id":"91c694f7d64151e5","fromNode":"efb24c9b4f3be5fc","fromSide":"bottom","toNode":"67f9544b0c03fc35","toSide":"top"},
@@ -18,6 +19,7 @@
 		{"id":"0fa21b6d3101bc2c","fromNode":"817addae82492c02","fromSide":"bottom","toNode":"1a446532702b9f42","toSide":"top"},
 		{"id":"dca24a7d8dd253b6","fromNode":"1a446532702b9f42","fromSide":"bottom","toNode":"6083948c02c72f3a","toSide":"top"},
 		{"id":"bcd51f5fd2c23815","fromNode":"1a446532702b9f42","fromSide":"bottom","toNode":"9fd90e2e1250e33f","toSide":"top"},
-		{"id":"44f8c0460d06ebf5","fromNode":"6083948c02c72f3a","fromSide":"bottom","toNode":"d3f6248149b4d19f","toSide":"top"}
+		{"id":"44f8c0460d06ebf5","fromNode":"6083948c02c72f3a","fromSide":"bottom","toNode":"d3f6248149b4d19f","toSide":"top"},
+		{"id":"9e9bff794379b952","fromNode":"9fd90e2e1250e33f","fromSide":"bottom","toNode":"66cdd66bd7c71eda","toSide":"top"}
 	]
 }
