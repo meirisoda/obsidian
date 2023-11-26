@@ -89,17 +89,14 @@
             }
           },
           {
-            "id": "efba6e7de226597b",
+            "id": "bc0c4fbda9dae15f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
-                "viewState": {
-                  "x": -791.0292494083731,
-                  "y": 985.5798665643551,
-                  "zoom": -0.6637589183406432
-                }
+                "file": "School_Fall2023/NURS360/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -164,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas"
+                "file": "School_Fall2023/NURS360/Untitled.md"
               }
             }
           }
@@ -188,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
+                "file": "School_Fall2023/NURS360/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
+                "file": "School_Fall2023/NURS360/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +239,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "efba6e7de226597b",
+  "active": "bc0c4fbda9dae15f",
   "lastOpenFiles": [
+    "School_Fall2023/NURS360/Untitled.md",
+    "School_Fall2023/NURS360",
     "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+    "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
@@ -264,7 +264,6 @@
     "Learning and Self-Improvement/CS/Linux.md",
     "Learning and Self-Improvement/CS/with_curriculum.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.3 Flexbox/1.3.3.2 Flexbox growing and shrinking.md",
-    "School_Fall2023/PSCL389/Group Project",
     "Notebook/Things to take note of.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.2 Fundamentals 1.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/fundamentals-2.md",
@@ -285,7 +284,6 @@
     "School_Fall2023/NTRN201/Notes/Human Digestion and Absorption - Module 3/Untitled 1.png",
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
-    "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "Learning and Self-Improvement/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "Learning and Self-Improvement/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
     "Learning and Self-Improvement/The Odin Project Curriculum/ruby/basic_ruby_projects/bubble_sort/imgs/00.gif",
