@@ -2,13 +2,13 @@
 	"nodes":[
 		{"id":"efb24c9b4f3be5fc","x":-442,"y":-162,"width":250,"height":122,"type":"text","text":"Goal: \nIncorporate journaling into my life - thus helping me live more intentionally. "},
 		{"id":"67f9544b0c03fc35","x":-442,"y":20,"width":250,"height":60,"type":"text","text":"Did you get a journal? "},
-		{"id":"4363ad337b854400","x":-640,"y":160,"width":250,"height":60,"type":"text","text":"No"},
-		{"id":"817addae82492c02","x":-260,"y":160,"width":250,"height":60,"type":"text","text":"Yes"},
-		{"id":"576b0727bcd85892","x":-640,"y":260,"width":250,"height":60,"type":"text","text":"Get a journal."},
-		{"id":"1a446532702b9f42","x":-260,"y":265,"width":250,"height":75,"type":"text","text":"Do you carry around that journal? "},
-		{"id":"6083948c02c72f3a","type":"text","text":"No","x":-440,"y":400,"width":250,"height":60},
-		{"id":"9fd90e2e1250e33f","type":"text","text":"Yes","x":-60,"y":400,"width":250,"height":60},
-		{"id":"d3f6248149b4d19f","x":-440,"y":505,"width":250,"height":60,"type":"text","text":"Start carrying it around. "}
+		{"id":"4363ad337b854400","x":-600,"y":165,"width":250,"height":60,"type":"text","text":"No"},
+		{"id":"576b0727bcd85892","x":-600,"y":265,"width":250,"height":60,"type":"text","text":"Get a journal."},
+		{"id":"817addae82492c02","x":-290,"y":165,"width":250,"height":60,"type":"text","text":"Yes"},
+		{"id":"1a446532702b9f42","x":-290,"y":270,"width":250,"height":75,"type":"text","text":"Do you carry around that journal? "},
+		{"id":"9fd90e2e1250e33f","type":"text","text":"Yes","x":-130,"y":405,"width":250,"height":60},
+		{"id":"6083948c02c72f3a","type":"text","text":"No","x":-420,"y":405,"width":250,"height":60},
+		{"id":"d3f6248149b4d19f","x":-420,"y":505,"width":250,"height":60,"type":"text","text":"Start carrying it around. "}
 	],
 	"edges":[
 		{"id":"91c694f7d64151e5","fromNode":"efb24c9b4f3be5fc","fromSide":"bottom","toNode":"67f9544b0c03fc35","toSide":"top"},
