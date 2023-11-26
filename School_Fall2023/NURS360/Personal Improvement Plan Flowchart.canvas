@@ -5,13 +5,19 @@
 		{"id":"4363ad337b854400","x":-640,"y":160,"width":250,"height":60,"type":"text","text":"No"},
 		{"id":"817addae82492c02","x":-260,"y":160,"width":250,"height":60,"type":"text","text":"Yes"},
 		{"id":"576b0727bcd85892","x":-640,"y":260,"width":250,"height":60,"type":"text","text":"Get a journal."},
-		{"id":"1a446532702b9f42","x":-260,"y":265,"width":250,"height":50,"type":"text","text":""}
+		{"id":"1a446532702b9f42","x":-260,"y":265,"width":250,"height":75,"type":"text","text":"Do you carry around that journal? "},
+		{"id":"6083948c02c72f3a","type":"text","text":"No","x":-440,"y":400,"width":250,"height":60},
+		{"id":"9fd90e2e1250e33f","type":"text","text":"Yes","x":-60,"y":400,"width":250,"height":60},
+		{"id":"d3f6248149b4d19f","x":-440,"y":505,"width":250,"height":60,"type":"text","text":"Start carrying it around. "}
 	],
 	"edges":[
 		{"id":"91c694f7d64151e5","fromNode":"efb24c9b4f3be5fc","fromSide":"bottom","toNode":"67f9544b0c03fc35","toSide":"top"},
 		{"id":"a25d5fc084988d67","fromNode":"67f9544b0c03fc35","fromSide":"bottom","toNode":"817addae82492c02","toSide":"top"},
 		{"id":"6649cbb0870a2726","fromNode":"67f9544b0c03fc35","fromSide":"bottom","toNode":"4363ad337b854400","toSide":"top"},
 		{"id":"3ae7d8c32ae6ff6c","fromNode":"4363ad337b854400","fromSide":"bottom","toNode":"576b0727bcd85892","toSide":"top"},
-		{"id":"0fa21b6d3101bc2c","fromNode":"817addae82492c02","fromSide":"bottom","toNode":"1a446532702b9f42","toSide":"top"}
+		{"id":"0fa21b6d3101bc2c","fromNode":"817addae82492c02","fromSide":"bottom","toNode":"1a446532702b9f42","toSide":"top"},
+		{"id":"dca24a7d8dd253b6","fromNode":"1a446532702b9f42","fromSide":"bottom","toNode":"6083948c02c72f3a","toSide":"top"},
+		{"id":"bcd51f5fd2c23815","fromNode":"1a446532702b9f42","fromSide":"bottom","toNode":"9fd90e2e1250e33f","toSide":"top"},
+		{"id":"44f8c0460d06ebf5","fromNode":"6083948c02c72f3a","fromSide":"bottom","toNode":"d3f6248149b4d19f","toSide":"top"}
 	]
 }
