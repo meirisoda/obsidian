@@ -87,9 +87,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efba6e7de226597b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
+                "viewState": {
+                  "x": 290.5,
+                  "y": -630.7835816618913,
+                  "zoom": -1.1637589183406432
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md"
+                "file": "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas"
               }
             }
           }
@@ -173,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+                "file": "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+                "file": "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,10 +242,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8448b09c7fc56548",
+  "active": "efba6e7de226597b",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
     "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+    "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "Learning and Self-Improvement/The Odin Project Curriculum/1 Foundations/1.4 JavaScript/1.4.1 Problem Solving.md",
