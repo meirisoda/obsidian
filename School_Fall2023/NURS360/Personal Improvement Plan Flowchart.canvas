@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"efb24c9b4f3be5fc","x":-442,"y":-162,"width":250,"height":60,"type":"text","text":"Goal: \nIncorporate journaling into "}
+		{"id":"efb24c9b4f3be5fc","x":-442,"y":-162,"width":250,"height":122,"type":"text","text":"Goal: \nIncorporate journaling into my life - thus helping me live more intentionally. "},
+		{"id":"6fca8b1762ec4e0c","x":-270,"y":-149,"width":250,"height":60,"type":"text","text":"Step 1\n"}
 	],
 	"edges":[]
 }
