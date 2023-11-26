@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"efb24c9b4f3be5fc","x":-442,"y":-162,"width":250,"height":122,"type":"text","text":"Goal: \nIncorporate journaling into my life - thus helping me live more intentionally. "},
-		{"id":"6fca8b1762ec4e0c","x":-160,"y":-166,"width":250,"height":131,"type":"text","text":"Step 1\nGet a journal and start carrying it with me everywhere."}
+		{"id":"67f9544b0c03fc35","x":-442,"y":20,"width":250,"height":60,"type":"text","text":"Did you get a journal? "}
 	],
 	"edges":[
-		{"id":"2371f6dcd82fa897","fromNode":"efb24c9b4f3be5fc","fromSide":"right","toNode":"6fca8b1762ec4e0c","toSide":"left"}
+		{"id":"91c694f7d64151e5","fromNode":"efb24c9b4f3be5fc","fromSide":"bottom","toNode":"67f9544b0c03fc35","toSide":"top"}
 	]
 }
