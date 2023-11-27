@@ -47,7 +47,8 @@ At first, winning the lottery would make other events seem less pleasurable, by 
 The accident victims recall their past as being happier than did controls (nostalgia effect) and also report their present as being less happy than their controls. However, the victim rating of present happiness is still above the midpoint of the scale and did not appear to be as unhappy as expected.
 
 ## Why is there a difference? 
-  
+#### Second Study
+
 Lottery winners: future > past
 Because in contrast to their big winner's life, their past seems unhappy in comparison.
 Control: past > future
