@@ -59,9 +59,10 @@ Lottery winners: future > past
 Control: past > future
 ##### Again, adaptation level theory
 
-Although lottery winners felt good about winning the lottery, they took less pleasure than controls in a variety of ordinary and mundane events. They were not generally happier than the control group. 
+Although lottery winners felt good about winning the lottery, they took less pleasure than controls in a variety of ordinary and mundane events. They were not generally happier than the control group.
 #### Limitations 
-Limitation was that the data is obtained only at a single point in time and do not trace out the 
+Limitation was that the data is obtained only at a single point in time and do not trace out the the temporal course of adaptation. 
+A longitudinal study might be good to determine how adaptation level effects change over time for lottery winners. 
 ## Alternative Explanations
 Not found in this specific study but is important to note the strain that supposedly-positive experiences can cause. 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved.
