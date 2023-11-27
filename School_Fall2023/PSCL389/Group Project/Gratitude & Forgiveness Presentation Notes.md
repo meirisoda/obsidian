@@ -52,10 +52,12 @@ The two major explanations of why there were differences were that
 
 Lottery winners and the control group were asked more questions regarding satisfaction of their work and personal lives, and purchasing habits. 
 #### Results
+Buyers and nonbuyers were quite similar in their present happiness but there were significant differences in past and future happiness. 
+
 Lottery winners: future > past
 Because in contrast to their big winner's life, their past seems unhappy in comparison.
 Control: past > future
-
+#### Limitatio
 Limitation was that the data is obtained only at a single point in time and do not trace out the 
 ## Alternative Explanations
 Not found in this specific study but is important to note the strain that supposedly-positive experiences can cause. 
