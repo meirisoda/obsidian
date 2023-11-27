@@ -49,12 +49,8 @@ The accident victims recall their past as being happier than did controls (nosta
 ## Why is there a difference? 
   
 Lottery winners: future > past
-
 Because in contrast to their big winner's life, their past seems unhappy in comparison.
-
 Control: past > future
-
-  
 
 Adaptation theory and social comparison (Brickman & Campbell, 1971;  Thibaut & Kelley, 1959) predicted that the lottery context should cause people to attach less importance to mundane pleasures than the every-life context.
 aka. changed the reference point.
