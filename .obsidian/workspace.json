@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "7afa48dccd4922a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "881de3f7c4b8c1d0",
             "type": "leaf",
             "state": {
@@ -39,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
+                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md"
               }
             }
           }
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,13 +208,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9d1e1145f1b2c8fe",
+  "active": "7afa48dccd4922a8",
   "lastOpenFiles": [
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/NTRN 201 MIDTERM STUDY GUIDE.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 9_Energy Balance Full.pdf",
     "School_Fall2023/z.Other/Student_eCard.pdf",
