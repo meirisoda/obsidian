@@ -70,8 +70,8 @@ Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happ
 Not found in this specific study but is important to note the strain that supposedly-positive experiences can cause. 
 Sudden changes or extreme outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; Rahe, 1972; Vinokur & Selzer, 1975). 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved.
-
-Not found in this specific study as lottery winners did not mention anything negative about winning. Negative features of the win should have been mentioned if they were attempting to minimize the experience.
+##### Second point
+While they didn't reporNegative features of the win should have been mentioned if they were attempting to minimize the experience.
 #### Perspective Theory 
 Giving people a new and more extreme endpoint on their subjective pleasure scale
 It is also entirely possible that lottery winners could just have a changed perspective on ordinary events than the actual impact of these important events
