@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "7604acfa19e67354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94bbbdbb0f542de0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "cdef8f1076e38a66",
         "type": "tabs",
         "children": [
@@ -30,24 +46,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc0c4fbda9dae15f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
-                "viewState": {
-                  "x": -274.66680908203125,
-                  "y": 232.66671752929688,
-                  "zoom": 0
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas"
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md"
               }
             }
           }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,12 +186,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bc0c4fbda9dae15f",
+  "active": "8448b09c7fc56548",
   "lastOpenFiles": [
-    "School_Fall2023/NURS360/Untitled.md",
-    "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
-    "School_Fall2023/NURS360",
+    "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+    "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
+    "School_Fall2023/NURS360/Untitled.md",
+    "School_Fall2023/NURS360",
     "School_Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
     "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
@@ -206,7 +208,6 @@
     "Notebook/What do I want to do?.md",
     "Learning and Self-Improvement/CS",
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
-    "PDF Exports/Week 10 Writing Assignment.pdf",
     "Learning and Self-Improvement/CS/JavaScript.md",
     "Learning and Self-Improvement/CS/Linux.md",
     "Learning and Self-Improvement/CS/with_curriculum.md",
