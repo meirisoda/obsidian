@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9d1e1145f1b2c8fe",
+  "active": "057fbbf2689feddd",
   "lastOpenFiles": [
     "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
