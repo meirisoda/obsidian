@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md"
+                "file": "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
               }
             }
           }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
+                "file": "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
+                "file": "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +186,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8448b09c7fc56548",
+  "active": "94bbbdbb0f542de0",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
+    "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
     "School_Fall2023/NTRN201/FINAL/FINAL Study Guide.md",
     "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
