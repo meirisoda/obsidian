@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews/Fad Diet Presentation Reviews_Atkins Diet.pdf"
+                "file": "School_Fall2023/NTRN201/FINAL/FINAL Study Guide.md"
               }
             }
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews/Fad Diet Presentation Reviews_Atkins Diet.pdf",
+                "file": "School_Fall2023/NTRN201/FINAL/FINAL Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews/Fad Diet Presentation Reviews_Atkins Diet.pdf",
+                "file": "School_Fall2023/NTRN201/FINAL/FINAL Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,8 +199,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "290fa00842b7a652",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews/Fad Diet Presentation Reviews_Atkins Diet.pdf",
     "Learning/The Odin Project Curriculum/archive/old_lessons/foundations/the_front_end/project_html_css/imgs/00.png",
     "Learning/The Odin Project Curriculum/archive/old_lessons/foundations/JS101/oldFundamentalsLessons/fundamentals-3-project.md",
     "Learning/The Odin Project Curriculum/archive/old_lessons/foundations/JS101/oldFundamentalsLessons/fundamentals-3.md",
@@ -220,7 +221,6 @@
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/the-box-model/imgs/box-model.png",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/intro_to_css/imgs/00.jpg",
     "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/inspecting-html-and-css/imgs/03.png",
-    "Learning/The Odin Project Curriculum/1 Foundations/1.3 HTML CSS/1.3.2 CSS Foundations/inspecting-html-and-css/imgs/01.png",
     "Learning/The Odin Project Curriculum/archive/old_lessons/ruby/introduction/lesson_how_this_course_will_work.md",
     "Learning/The Odin Project Curriculum/archive/old_lessons/ruby/basic_ruby/ruby_project.md",
     "Learning/The Odin Project Curriculum/archive/old_lessons/ruby/basic_ruby/ruby_basics_lesson.md",
