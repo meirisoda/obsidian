@@ -41,7 +41,7 @@ Both lottery winners and accident victims found their happiness surrounding mund
 #### Adaptation Level Theory Justification
 General present happiness ratings between the two groups are similar but have significant differences in reports regarding past and future happiness.
 People who purchase lottery tickets may have a degree of dissatisfaction with their lives, which may affect ratings of happiness.
-Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
+==Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
 
 At first, winning the lottery would make other events seem less pleasurable, by contrast. Over time, this event may not seem to have any effect at all due to habituation.
 
