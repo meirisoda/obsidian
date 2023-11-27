@@ -28,6 +28,7 @@ General happiness measure:
 	- Buying clothes (only for the lottery winners and control group)
 
 ## Findings and Discussion
+==read this portion first!! ==
 Lottery winners generally reported their lives after lives after winning the lottery to be generally more positive, and accident victims reported their lives to be generally less positive.
 Both lottery winners and accident victims found their happiness surrounding mundane events to be less positive compared to the control group.
 
