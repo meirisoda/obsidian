@@ -49,7 +49,7 @@ The accident victims recall their past as being happier than did controls (nosta
 ## Why is there a difference? 
 #### Second Study
 Lottery winners and the control group were asked more questions.
-The two major explanations of 
+The two major explanations of why there were differences were that 
 Lottery winners: future > past
 Because in contrast to their big winner's life, their past seems unhappy in comparison.
 Control: past > future
