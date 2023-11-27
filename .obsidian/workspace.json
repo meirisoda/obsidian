@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "47fdf37149b7f0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "057fbbf2689feddd",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -39,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Exam Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Exam Study Guide.md"
+                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.md"
               }
             }
           }
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Exam Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Exam Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,10 +196,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9d1e1145f1b2c8fe",
+  "active": "47fdf37149b7f0d7",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Study Guide.md",
+    "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Exam Study Guide.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 9_Energy Balance Full.pdf",
@@ -226,7 +240,6 @@
     "School_Fall2023/NTRN201/My Notes/Module 5 - Lipids.md",
     "School_Fall2023/NTRN201/My Notes/Module 4 - Carbohydrates.md",
     "School_Fall2023/NTRN201/My Notes/Module 3 - Human Digestion and Absorption.md",
-    "School_Fall2023/NTRN201/My Notes/Module 14 - Life Cycle Nutrition.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "Fall2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled.png",
