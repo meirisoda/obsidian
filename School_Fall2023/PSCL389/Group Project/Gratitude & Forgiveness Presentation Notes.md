@@ -8,42 +8,23 @@ Interviewed accident victims (11 paraplegic, 18 quadriplegics; 85% response rate
 #### Study Method
 General background questions (age, occupation, race, religion, level of education).
 Lottery winners and accident victims were asked several open-ended questions such as:
-
 "Has your lifestyle changed in any way wince you won? How?"
-
 "Do you feel you in any way deserved what happened?"
-
 "Do you ask yourself, 'Why me?' How do you answer?"
-
-  
-
 General happiness measure:
-
 - How happy are you in your current stage of life?
-
 - How happy were you before winning (lottery)
-
 - How happy were you before the accident (victims)
-
 - How happy were you 6 months ago (control)
-
 - How happy do you expect to be in a couple years?
-
 - How pleasant do you find these activities:
-
-    - Talking with a friend
-
-    - Watching television
-
-    - Eating breakfast
-
-    - Hearing a funny joke
-
-    - Getting a compliment
-
-    - Reading a magazine
-
-    - Buying clothes (only for the lottery winners and control group)
+- Talking with a friend
+- Watching television
+- Eating breakfast
+- Hearing a funny joke
+- Getting a compliment
+ Reading a magazine
+- Buying clothes (only for the lottery winners and control group)
 
   
 
