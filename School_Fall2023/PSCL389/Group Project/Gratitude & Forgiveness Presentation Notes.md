@@ -64,6 +64,8 @@ Although lottery winners felt good about winning the lottery, they took less ple
 Limitation was that the data is obtained only at a single point in time and do not trace out the the temporal course of adaptation. 
 A longitudinal study might be good to determine how adaptation level effects change over time for lottery winners. 
 ##### Another exception for accident victims. 
+Accident victims seem less supportive of adaptation level theory; they do not take more pleasure in ordinary events and rated themselves significantly less happy in general than the control groups. 
+Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happier than the controls. 
 ## Alternative Explanations
 Not found in this specific study but is important to note the strain that supposedly-positive experiences can cause. 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved.
