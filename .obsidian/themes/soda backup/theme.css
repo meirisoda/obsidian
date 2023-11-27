@@ -1,0 +1,99 @@
+:root
+{
+    --dark0_x:  46,52,64; /* #2e3440 */
+    --dark0:    rgb(var(--dark0_x));
+    --dark1_x:  59,66,82; /* #3b4252 */
+    --dark1:    rgb(var(--dark1_x));
+    --dark2_x:  67,76,94; /* #434c5e */
+    --dark2:    rgb(var(--dark2_x));
+    --dark3_x:  76,86,106; /* #4c566a */
+    --dark3:    rgb(var(--dark3_x));
+
+    --light0_x: 216,222,233; /* #d8dee9 */
+    --light0:   rgb(var(--light0_x));
+    --light1_x: 229,233,240; /* #e5e9f0 */
+    --light1:   rgb(var(--light1_x));
+    --light2_x: 236,239,244; /* #eceff4 */
+    --light2:   rgb(var(--light2_x));
+    --light3_x: 255,255,255; /* #ffffff */
+    --light3:   rgb(var(--light3_x));
+
+    --frost0_x: 143,188,187; /* #8fbcbb */
+    --frost0:   rgb(var(--frost0_x));
+    --frost1_x: 136,192,208; /* #88c0d0 */
+    --frost1:   rgb(var(--frost1_x));
+    --frost2_x: 129,161,193; /* #81a1c1 */
+    --frost2:   rgb(var(--frost2_x));
+    --frost3_x: 94,129,172; /* #5e81ac */
+    --frost3:   rgb(var(--frost3_x));
+
+    --red_x:    191,97,106; /* #bf616a */
+    --red:      rgb(var(--red_x));
+    --orange_x: 208,135,112; /* #d08770 */
+    --orange:   rgb(var(--orange_x));
+    --yellow_x: 235,203,139; /* #ebcb8b */
+    --yellow:   rgb(var(--yellow_x));
+    --green_x:  163,190,140; /* #a3be8c */
+    --green:    rgb(var(--green_x));
+    --purple_x: 180,142,173; /* #b48ead */
+    --purple:   rgb(var(--purple_x));
+}
+body {
+	--font-text-theme: Arial, sans-serif; 
+	--radius-s: 0px;
+	--radius-m: 0px;
+	--radius-l: 0px;
+	--input-radius: 0px;
+	--tab-radius-active: 0px;
+	--checkbox-radius: 0px;
+	--toggle-radius: 0px;
+	--toggle-thumb-radius: 0px;
+	--slider-thumb-radius: 0px;
+  --h1-size: 2.0em;
+  --h2-size: 1.8em;
+  --h3-size: 1.7em;
+  --h4-size: 1.5em;
+  --h5: 1.00em;
+  --h6: 1.00em;
+}
+
+.theme-dark {
+	--background-primary: #1F1F1F;
+	--background-secondary: #1F1F1F;
+	--h1-color:                      var(--red);
+    --h2-color:                      var(--yellow);
+    --h3-color:                      var(--frost0);
+    --h4-color:                      var(--green);
+    --h5-color:                      var(--purple);
+    --h6-color:                      var(--frost2);
+  }
+  
+  .theme-light {
+	--background-primary: #ebebeb;
+	--background-secondary: #ebebeb;
+  }
+
+.workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
+	display: none;
+}
+
+
+svg * {
+	stroke-linecap: square;
+	stroke-linejoin: miter;
+	rx: 0;
+	ry: 0;
+}
+
+.menu {
+	padding: var(--size-2-1);
+}
+
+.menu-item {
+	padding: var(--size-4-1) var(--size-4-2);
+}
+
+.menu-separator {
+	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+}
+
