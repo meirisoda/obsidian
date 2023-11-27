@@ -65,15 +65,15 @@ A longitudinal study might be good to determine how adaptation level effects cha
 ##### Another exception for accident victims. 
 Accident victims seem less supportive of adaptation level theory; they do not take more pleasure in ordinary events and rated themselves significantly less happy in general than the control groups. 
 Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happier than the controls. 
-## Alternative Explanations
+# Alternative Explanations
 Not found in this specific study but is important to note the strain that supposedly-positive experiences can cause. 
 Sudden changes or extreme outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; Rahe, 1972; Vinokur & Selzer, 1975). 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved.
-##### Second point
+### Second point
 While they may have downplayed their happiness to appear modest, they also did not mention anything negative. Negative features of the win should have been mentioned if they were attempting to minimize the experience.
-#### Perspective Theory 
+## Perspective Theory 
 Giving people a new and more extreme endpoint on their subjective pleasure scale
 It is also entirely possible that lottery winners could just have a changed perspective on ordinary events than the actual impact of these important events
 
 The lower pleasure ratings of winners and nostalgia effect  of the paraplegics may be due to their contrast with previous extreme experiences *rather* than alterations in their subjective scales. (Their happiness scales and perception remains objective and is just relative) -- going back to adaptation level.
-## Implications 
+# Implications 
