@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67ff3940cd248063",
+            "id": "1ece0583b91ce038",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+              }
             }
           }
         ]
@@ -22,11 +24,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8448b09c7fc56548",
+            "id": "9d1e1145f1b2c8fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/FINAL/FINAL Study Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+              }
             }
           }
         ]
@@ -111,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +173,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "67ff3940cd248063",
+  "active": "1ece0583b91ce038",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/FINAL/FINAL Study Guide.md",
     "School_Fall2023/z.Other/Student_eCard.pdf",
     "School_Fall2023/z.Other/Jamie_Lee_Heartsaver_Online.pdf",
     "School_Fall2023/z.Other/Jamie_Lee_BLS.pdf",
@@ -175,7 +186,6 @@
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Old/Lerner-et-al.-2003.pdf",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Old/Cohen-2005.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
