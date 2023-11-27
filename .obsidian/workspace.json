@@ -47,8 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70dd41928f9f5e69",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md"
+                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf"
               }
             }
           }
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
+                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
+                "file": "School_Fall2023/PSCL389/Group Project/Readings/Brickman-et-al.-1978-JPSP.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +197,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8448b09c7fc56548",
+  "active": "70dd41928f9f5e69",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
+    "School_Fall2023/NTRN201/FINAL/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
     "School_Fall2023/NTRN201/FINAL/FINAL Study Guide.md",
     "School_Fall2023/NTRN201/Fad Diet Presentation Reviews.md",
