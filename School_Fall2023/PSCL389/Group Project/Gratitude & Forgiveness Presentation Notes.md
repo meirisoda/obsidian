@@ -38,15 +38,12 @@ Both lottery winners and accident victims found their happiness surrounding mund
 	Lottery 3.78 and victims 1.28
 	 it is roughly symmetric around the mean (2.5).
 
-#### Adaptation Level Theory Justification
 General present happiness ratings between the two groups are similar but have significant differences in reports regarding past and future happiness.
 People who purchase lottery tickets may have a degree of dissatisfaction with their lives, which may affect ratings of happiness.
-==Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
-
+Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
+#### Adaptation Level Theory Justification
 At first, winning the lottery would make other events seem less pleasurable, by contrast. Over time, this event may not seem to have any effect at all due to habituation.
-
-
-Nostalgia Effect
+#### Nostalgia Effect
 The accident victims recall their past as being happier than did controls (nostalgia effect) and also report their present as being less happy than their controls. However, the victim rating of present happiness is still above the midpoint of the scale and did not appear to be as unhappy as expected.
 
 ## Why is there a difference? 
