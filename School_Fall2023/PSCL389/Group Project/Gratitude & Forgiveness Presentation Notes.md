@@ -1,11 +1,10 @@
-## Studies
+# Studies
 Interviewed accident victims (11 paraplegic, 18 quadriplegics; 85% response rate) as well as lottery winners (197 major winners; 52% response rate; winning amounts range from 5만 to 1million USD).
 88 people who lived in approximately the same areas of the city as the lottery winners. Response rate was 41% with 22 participants total.
 
 **Winners** were informed that the research was a study of lotteries. Was mentioned that other lottery winners because these respondents were keenly aware of their special status.
 **Control group** was told that the research was a study of everyday life. Did not mention the lottery winners to avoid instituting an unfavorable comparison for the controls.
-
-#### Study Method
+## Study Method
 General background questions (age, occupation, race, religion, level of education).
 Lottery winners and accident victims were asked several open-ended questions such as:
 "Has your lifestyle changed in any way wince you won? How?"
@@ -27,7 +26,7 @@ General happiness measure:
 	- Reading a magazine
 	- Buying clothes (only for the lottery winners and control group)
 
-## Findings and Discussion
+# Findings and Discussion
 ==read this portion first!! ==
 Lottery winners generally reported their lives after lives after winning the lottery to be generally more positive, and accident victims reported their lives to be generally less positive.
 
@@ -39,28 +38,28 @@ Both lottery winners and accident victims found their happiness surrounding mund
 	 it is roughly symmetric around the mean (2.5).
 
 General present happiness ratings between the two groups are similar but have significant differences in reports regarding past and future happiness.
-#### Adaptation Level Theory Justification
+## Adaptation Level Theory Justification
 At first, winning the lottery would make other events seem less pleasurable, by contrast. Over time, this event may not seem to have any effect at all due to habituation.
-#### Nostalgia Effect
+## Nostalgia Effect
 The accident victims recall their past as being happier than did controls (nostalgia effect) and also report their present as being less happy than their controls. However, the victim rating of present happiness is still above the midpoint of the scale and did not appear to be as unhappy as expected.
 
-## Why is there a difference? 
-#### Second Study
+# Why is there a difference? 
+## Second Study
 The two major explanations of why there were differences were that
 1. The difference is not an effect of the lottery but a general tendency for people who buy lottery tickets to find less pleasure in their daily lives than people who don't buy tickets. ==difference in baseline==
 2. Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
 
 Lottery winners and the control group were asked more questions regarding satisfaction of their work and personal lives, and purchasing habits. 
-#### Results
+## Results
 Buyers and nonbuyers were quite similar in their present happiness but there were significant differences in past and future happiness. 
 
 Lottery winners: future > past
 	Because in contrast to their big winner's life, their past seems unhappy in comparison. 
 Control: past > future
-##### Again, adaptation level theory
+### Again, adaptation level theory
 
 Although lottery winners felt good about winning the lottery, they took less pleasure than controls in a variety of ordinary and mundane events. They were not generally happier than the control group.
-#### Limitations 
+## Limitations 
 Limitation was that the data is obtained only at a single point in time and do not trace out the the temporal course of adaptation. 
 A longitudinal study might be good to determine how adaptation level effects change over time for lottery winners. 
 ##### Another exception for accident victims. 
