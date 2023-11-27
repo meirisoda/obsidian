@@ -51,7 +51,7 @@ The two major explanations of why there were differences were that
 2. Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
 
 Lottery winners and the control group were asked more questions regarding satisfaction of their work and personal lives, and purchasing habits. 
-
+#### Results
 Lottery winners: future > past
 Because in contrast to their big winner's life, their past seems unhappy in comparison.
 Control: past > future
