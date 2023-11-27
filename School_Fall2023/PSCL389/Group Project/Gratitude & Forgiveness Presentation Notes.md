@@ -55,7 +55,7 @@ Lottery winners and the control group were asked more questions regarding satisf
 Lottery winners: future > past
 Because in contrast to their big winner's life, their past seems unhappy in comparison.
 Control: past > future
-
+## Alternative Explanations
 Not found in this specific study but is important to note the strain that supposedly-positive experiences can cause. 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved.
 
