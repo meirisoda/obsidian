@@ -34,12 +34,11 @@ Lottery winners generally reported their lives after lives after winning the lot
 Lottery winners took less pleasure than controls in a variety of ordinary events and WERE NOT in general happier than the controls.
 
 Both lottery winners and accident victims found their happiness surrounding mundane events to be less positive compared to the control group.
+	On a scale of 0-5 (0 the worst thing and 5 the best thing):
+	Lottery 3.78 and victims 1.28
+	 it is roughly symmetric around the mean (2.5).
 
-On a scale of 0-5 (0 the worst thing and 5 the best thing):
-Lottery 3.78 and victims 1.28
- it is roughly symmetric around the mean (2.5).
-
-
+#### Adaptation Level Theory Justification
 General present happiness ratings between the two groups are similar but have significant differences in reports regarding past and future happiness.
 People who purchase lottery tickets may have a degree of dissatisfaction with their lives, which may affect ratings of happiness.
 Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
