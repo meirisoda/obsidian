@@ -46,10 +46,11 @@ The accident victims recall their past as being happier than did controls (nosta
 
 ## Why is there a difference? 
 #### Second Study
-Lottery winners and the control group were asked more questions.
 The two major explanations of why there were differences were that
 1. The difference is not an effect of the lottery but a general tendency for people who buy lottery tickets to find less pleasure in their daily lives than people who don't buy tickets. ==difference in baseline==
 2. Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
+
+Lottery winners and the control group were asked more questions regarding satisfaction of their work and persona
 
 Lottery winners: future > past
 Because in contrast to their big winner's life, their past seems unhappy in comparison.
