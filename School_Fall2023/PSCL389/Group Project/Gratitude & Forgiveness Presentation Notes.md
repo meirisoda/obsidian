@@ -26,6 +26,25 @@ General happiness measure:
 	- Reading a magazine
 	- Buying clothes (only for the lottery winners and control group)
 
+## Findings and Discussion
+Lottery winners generally reported their lives after lives after winning the lottery to be generally more positive, and accident victims reported their lives to be generally less positive.
+Both lottery winners and accident victims found their happiness surrounding mundane events to be less positive compared to the control group.
+
+On a scale of 0-5 (0 the worst thing and 5 the best thing):
+Lottery 3.78 and victims 1.28
+ it is roughly symmetric around the mean (2.5).
+
+General present happiness ratings between the two groups are similar but have significant differences in reports regarding past and future happiness.
+People who purchase lottery tickets may have a degree of dissatisfaction with their lives, which may affect ratings of happiness.
+Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
+
+At first, winning the lottery would make other events seem less pleasurable, by contrast. Over time, this event may not seem to have any effect at all due to habituation.
+
+
+Nostalgia Effect
+The accident victims recall their past as being happier than did controls (nostalgia effect) and also report their present as being less happy than their controls. However, the victim rating of present happiness is still above the midpoint of the scale and did not appear to be as unhappy as expected.
+
+## Why is there a difference? 
   
 Lottery winners: future > past
 
