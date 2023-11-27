@@ -55,8 +55,9 @@ Lottery winners and the control group were asked more questions regarding satisf
 Buyers and nonbuyers were quite similar in their present happiness but there were significant differences in past and future happiness. 
 
 Lottery winners: future > past
-	Because in contrast to their big winner's life, their past seems unhappy in comparison.
+	Because in contrast to their big winner's life, their past seems unhappy in comparison. 
 Control: past > future
+##### Again, adaptation level theory
 
 Although lottery winners felt good about winning the lottery, they took less pleasure than controls in a variety of ordinary and mundane events. They were not generally happier than the control group. 
 #### Limitations 
