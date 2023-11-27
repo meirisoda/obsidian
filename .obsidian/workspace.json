@@ -16,8 +16,19 @@
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
               }
             }
+          },
+          {
+            "id": "cef7fdd498e064cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -95,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf"
               }
             }
           }
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +184,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1ece0583b91ce038",
+  "active": "cef7fdd498e064cd",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Exam Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 9_Energy Balance Full.pdf",
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Exam Study Guide.md",
     "School_Fall2023/z.Other/Student_eCard.pdf",
     "School_Fall2023/z.Other/Jamie_Lee_Heartsaver_Online.pdf",
     "School_Fall2023/z.Other/Jamie_Lee_BLS.pdf",
@@ -185,7 +198,6 @@
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Layous et al. 2018 JPP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Bryant et al. 2005 JHS.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
