@@ -18,24 +18,22 @@ General happiness measure:
 - How happy were you 6 months ago (control)
 - How happy do you expect to be in a couple years?
 - How pleasant do you find these activities:
-- Talking with a friend
-- Watching television
-- Eating breakfast
-- Hearing a funny joke
-- Getting a compliment
- Reading a magazine
-- Buying clothes (only for the lottery winners and control group)
+	- Talking with a friend
+	- Watching television
+	- Eating breakfast
+	- Hearing a funny joke
+	- Getting a compliment
+	- Reading a magazine
+	- Buying clothes (only for the lottery winners and control group)
 
   
-
 Lottery winners: future > past
 
-    Because in contrast to their big winner's life, their past seems unhappy in comparison.
+Because in contrast to their big winner's life, their past seems unhappy in comparison.
 
 Control: past > future
 
   
 
 Adaptation theory and social comparison (Brickman & Campbell, 1971;  Thibaut & Kelley, 1959) predicted that the lottery context should cause people to attach less importance to mundane pleasures than the every-life context.
-
-    aka. changed the reference point.
+aka. changed the reference point.
