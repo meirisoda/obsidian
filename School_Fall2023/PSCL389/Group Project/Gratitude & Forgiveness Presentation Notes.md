@@ -11,6 +11,7 @@ Lottery winners and accident victims were asked several open-ended questions suc
 "Has your lifestyle changed in any way wince you won? How?"
 "Do you feel you in any way deserved what happened?"
 "Do you ask yourself, 'Why me?' How do you answer?"
+
 General happiness measure:
 - How happy are you in your current stage of life?
 - How happy were you before winning (lottery)
