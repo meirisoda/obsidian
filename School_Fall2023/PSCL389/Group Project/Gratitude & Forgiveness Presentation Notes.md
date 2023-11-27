@@ -68,6 +68,7 @@ Accident victims seem less supportive of adaptation level theory; they do not ta
 Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happier than the controls. 
 ## Alternative Explanations
 Not found in this specific study but is important to note the strain that supposedly-positive experiences can cause. 
+Sudden changes or extreme outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; Rahe, 1972; Vinokur & Selzer, 1975). 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved.
 
 Not found in this specific study as lottery winners did not mention anything negative about winning. Negative features of the win should have been mentioned if they were attempting to minimize the experience.
