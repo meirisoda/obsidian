@@ -59,8 +59,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9b06f020e94001c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md"
               }
             }
           }
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,13 +211,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a95bf07f31203de9",
+  "active": "b9b06f020e94001c",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf",
     "School_Fall2023/PSCL389/EXAM2",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
