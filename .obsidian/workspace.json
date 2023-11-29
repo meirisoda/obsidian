@@ -93,21 +93,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9563787931e84a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md"
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
               }
             }
           }
@@ -191,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,10 +233,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9563787931e84a6d",
+  "active": "ac0e11fcab05303a",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
     "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
