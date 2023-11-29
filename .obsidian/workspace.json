@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79186a01f3fffeec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "cdef8f1076e38a66",
@@ -76,8 +86,24 @@
             "id": "ac0e11fcab05303a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9563787931e84a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -140,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
+              }
             }
           }
         ]
@@ -163,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,23 +247,24 @@
   },
   "active": "ac0e11fcab05303a",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf",
+    "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
+    "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
     "School_Fall2023/PSCL389/Exam -2.pdf",
     "School_Fall2023/Exam -2.pdf",
     "Exam -2.pdf",
-    "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
-    "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf",
     "School_Fall2023/PSCL389/EXAM2",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
-    "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/NTRN 201 MIDTERM STUDY GUIDE.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 2_Tools for a Healthy Diet Fall 2023.pdf",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 9_Energy Balance Full.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
@@ -242,7 +273,6 @@
     "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
-    "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
     "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
@@ -259,7 +289,6 @@
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews/Fad Diet Presentation Reviews.md",
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Blue Zone Quiz.md",
-    "School_Fall2023/NTRN201/My Notes/Module 5 - Lipids.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "Fall2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled.png",
