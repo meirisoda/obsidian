@@ -50,9 +50,19 @@
                 "file": "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf"
               }
             }
+          },
+          {
+            "id": "bb3827bd67c0e364",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "cdef8f1076e38a66",
@@ -155,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
+                "file": "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf"
               }
             }
           }
@@ -179,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,10 +243,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac0e11fcab05303a",
+  "active": "bb3827bd67c0e364",
   "lastOpenFiles": [
     "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf",
     "School_Fall2023/PSCL389/EXAM1/10-5-2016.pdf",
     "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
@@ -252,7 +263,6 @@
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
-    "School_Fall2023/NTRN201/Exam 1_Midterm/NTRN 201 MIDTERM STUDY GUIDE.pdf",
     "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
