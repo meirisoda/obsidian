@@ -57,7 +57,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/How do emotions affect cognitive processes?.pdf"
+                "file": "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf"
               }
             }
           },
@@ -70,19 +70,9 @@
                 "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
               }
             }
-          },
-          {
-            "id": "7258aa1b93794f17",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness 1.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "cdef8f1076e38a66",
@@ -173,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness 1.pdf"
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
               }
             }
           }
@@ -197,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness 1.pdf",
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness 1.pdf",
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,12 +243,12 @@
   },
   "active": "4b9202fd502981f0",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/EXAM2/Working Memory and Emotion Regulation.pdf",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness 1.pdf",
+    "School_Fall2023/PSCL389/EXAM2/Working Memory and Emotion Regulation.pdf",
     "School_Fall2023/PSCL389/EXAM2/Cohen+2005.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
-    "School_Fall2023/PSCL389/EXAM2/How do emotions affect cognitive processes?.pdf",
+    "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
     "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM1/10-5-2016.pdf",
