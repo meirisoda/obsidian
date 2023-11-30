@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
               }
             }
           }
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,8 +253,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dbb77824d419dcd7",
+  "active": "ac0e11fcab05303a",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
     "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
