@@ -60,9 +60,19 @@
                 "file": "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf"
               }
             }
+          },
+          {
+            "id": "dbb77824d419dcd7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "cdef8f1076e38a66",
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf"
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
               }
             }
           }
@@ -189,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf",
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf",
+                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,11 +253,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bb3827bd67c0e364",
+  "active": "dbb77824d419dcd7",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam -2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
-    "School_Fall2023/PSCL389/EXAM2/Week 7 emotion cognition interaction_WEB.pdf",
     "School_Fall2023/PSCL389/EXAM1/10-5-2016.pdf",
     "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
