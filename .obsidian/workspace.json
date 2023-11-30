@@ -8,40 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ece0583b91ce038",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
-              }
-            }
-          },
-          {
-            "id": "7afa48dccd4922a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47fdf37149b7f0d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79186a01f3fffeec",
             "type": "leaf",
             "state": {
@@ -71,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "cdef8f1076e38a66",
@@ -163,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf"
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf"
               }
             }
           }
@@ -187,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,27 +206,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "79186a01f3fffeec",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
+    "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
+    "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+    "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
+    "School_Fall2023/PSCL389/EXAM2/12 Sheldon-et-al.-1999-JPSP.pdf",
+    "School_Fall2023/PSCL389/EXAM2/12 Layous-et-al.-2018-JPP.pdf",
+    "School_Fall2023/PSCL389/EXAM2/12 King-et-al.-2006-JPSP.pdf",
+    "School_Fall2023/PSCL389/EXAM2/12 Dube-et-al.-2007-ERAP.pdf",
+    "School_Fall2023/PSCL389/EXAM2/12 Bryant-et-al.-2005-JHS.pdf",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness 1.pdf",
     "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf",
     "School_Fall2023/PSCL389/EXAM2/10 Cohen+2005.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
-    "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
-    "School_Fall2023/PSCL389/EmotionSyllabus2023.pdf",
-    "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
-    "School_Fall2023/PSCL389/EXAM1/10-5-2016.pdf",
     "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
-    "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
     "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
-    "School_Fall2023/PSCL389/Exam -2.pdf",
-    "School_Fall2023/Exam -2.pdf",
-    "Exam -2.pdf",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
-    "School_Fall2023/PSCL389/EXAM2",
-    "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
