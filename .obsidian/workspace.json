@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
+                "file": "School_Fall2023/PSCL389/EXAM2/Reading Notes.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Reading Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,15 +221,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac0e11fcab05303a",
+  "active": "7c3a2ecd02e16aac",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM2/Reading Notes.md",
     "School_Fall2023/PSCL389/EXAM2/Reading%Notes.md",
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "School_Fall2023/PSCL389/EXAM2/12 Sheldon-et-al.-1999-JPSP.pdf",
     "Pasted image 20231201202214.png",
     "Pasted image 20231201201345.png",
-    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/12 Layous-et-al.-2018-JPP.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
