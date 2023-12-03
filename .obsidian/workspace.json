@@ -26,8 +26,19 @@
                 "file": "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf"
               }
             }
+          },
+          {
+            "id": "a09192dc3effcee7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/13 Gratitude & Forgiveness.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -222,9 +233,10 @@
   },
   "active": "ac0e11fcab05303a",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
-    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "School_Fall2023/PSCL389/EXAM2/13 Gratitude & Forgiveness.pdf",
     "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Reading Notes.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/PSCL389/EXAM2/12 Readings/12 Sheldon-et-al.-1999-JPSP.pdf",
