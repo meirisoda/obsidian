@@ -37,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
+                "file": "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf"
               }
             }
           }
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,12 +231,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac0e11fcab05303a",
+  "active": "29876042dcf706bd",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/EXAM2/13 Gratitude & Forgiveness.pdf",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
-    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
-    "School_Fall2023/PSCL389/EXAM2/13 Gratitude & Forgiveness.pdf",
     "School_Fall2023/PSCL389/EXAM2/Reading Notes.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/PSCL389/EXAM2/12 Readings/12 Sheldon-et-al.-1999-JPSP.pdf",
