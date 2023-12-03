@@ -46,9 +46,19 @@
                 "file": "School_Fall2023/PSCL389/EXAM2/13 Gratitude & Forgiveness.pdf"
               }
             }
+          },
+          {
+            "id": "ee8f10626ddce501",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "cdef8f1076e38a66",
@@ -102,8 +112,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/10 Cohen+2005.pdf"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
               }
             }
           }
@@ -187,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/10 Cohen+2005.pdf",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/10 Cohen+2005.pdf",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,15 +250,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d99b271b6cb0deda",
+  "active": "a95bf07f31203de9",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/PSCL389/EXAM2/10 Cohen+2005.pdf",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
     "School_Fall2023/PSCL389/EXAM2/13 Gratitude & Forgiveness.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Reading Notes.md",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/PSCL389/EXAM2/12 Readings/12 Sheldon-et-al.-1999-JPSP.pdf",
     "School_Fall2023/PSCL389/EXAM2/12 Readings/12 Layous-et-al.-2018-JPP.pdf",
     "School_Fall2023/PSCL389/EXAM2/12 Readings/12 King-et-al.-2006-JPSP.pdf",
