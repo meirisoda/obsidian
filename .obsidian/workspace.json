@@ -53,6 +53,16 @@
             }
           },
           {
+            "id": "364c3d68f530286c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
+              }
+            }
+          },
+          {
             "id": "b2e2e6f3f6479f33",
             "type": "leaf",
             "state": {
@@ -63,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "cdef8f1076e38a66",
@@ -168,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
               }
             }
           }
@@ -192,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +257,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d939a453a14dbea",
+  "active": "364c3d68f530286c",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 6_Proteins Fall 2023.pdf",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
@@ -259,7 +271,6 @@
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "Untitled 1.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "Untitled.md",
     "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
