@@ -92,8 +92,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM1/EXAM 1.md"
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
               }
             }
           }
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +231,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cac2bbe619fd0225",
+  "active": "74f630b096d6372a",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
     "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
@@ -276,7 +276,6 @@
     "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
     "School_Fall2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
