@@ -11,11 +11,46 @@
             "id": "b2e2e6f3f6479f33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf"
+              }
+            }
+          },
+          {
+            "id": "36e95ee026551063",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf"
+              }
+            }
+          },
+          {
+            "id": "5c6d3f2d2f746ff3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf"
+              }
+            }
+          },
+          {
+            "id": "ce3ecb6cc87e78cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "cdef8f1076e38a66",
@@ -25,11 +60,38 @@
             "id": "81d67030ad6be2b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+              }
+            }
+          },
+          {
+            "id": "23fcda0efaf8d4b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74f630b096d6372a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
+              }
             }
           }
         ]
@@ -111,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +230,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81d67030ad6be2b3",
+  "active": "23fcda0efaf8d4b7",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+    "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf",
+    "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Spring2024/Spring 2024 Plan.md",
     "School_Spring2024/NURS380_Practicum",
     "School_Spring2024/NURS343_Ethics",
@@ -175,11 +247,6 @@
     "School_Spring2024",
     "s_f2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Sheldon et al. 1999 JPSP.pdf",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Layous et al. 2018 JPP.pdf",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
-    "School_Fall2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf",
-    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
-    "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
     "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
     "School_Fall2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled.png",
@@ -207,7 +274,6 @@
     "School_Fall2023/NURS339/Notes/9.5 Preop Notes.md",
     "School_Fall2023/NURS339/Notes/8.29 Asepsis and Aseptic Technique.md",
     "School_Fall2023/NTRN201/My Notes/Module 4 - Carbohydrates.md",
-    "School_Fall2023/NTRN201/My Notes/Module 5 - Lipids.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
