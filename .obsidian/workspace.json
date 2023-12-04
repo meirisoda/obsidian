@@ -28,12 +28,12 @@
             }
           },
           {
-            "id": "2d8d0f83e81d2b64",
+            "id": "8dc385f5f174d26d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf"
               }
             }
           },
@@ -89,8 +89,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
                 "viewState": {
-                  "x": 290.5,
-                  "y": 430,
+                  "x": 848.8594822706375,
+                  "y": 113.9473274607974,
                   "zoom": -1.2336316141617436
                 }
               }
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf"
               }
             }
           }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,8 +260,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3ff0d0046dc1b82",
+  "active": "8dc385f5f174d26d",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+    "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
@@ -272,7 +274,6 @@
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/My Notes/필기.pdf",
     "School_Fall2023/NTRN201/필기.pdf",
     "School_Fall2023/필기.pdf",
@@ -304,7 +305,6 @@
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
-    "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "s_f2023/NURS339/Notes/9.5 PreOp/image.png",
