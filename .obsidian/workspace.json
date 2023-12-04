@@ -28,16 +28,6 @@
             }
           },
           {
-            "id": "d99c1594a50fabed",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf"
-              }
-            }
-          },
-          {
             "id": "ad2ef2c2bfc3dee9",
             "type": "leaf",
             "state": {
@@ -60,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -74,8 +64,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": 109.23053238855186,
-                  "y": -17.49762874078978,
+                  "x": 374.4820608708535,
+                  "y": 4.189594142244886,
                   "zoom": -1.382188619704837
                 }
               }
@@ -165,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
               }
             }
           }
@@ -189,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,10 +234,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd23d33e4f13c7fc",
+  "active": "07ba5e15dd02fca3",
   "lastOpenFiles": [
-    "Untitled.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "Untitled.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
