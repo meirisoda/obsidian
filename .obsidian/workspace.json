@@ -71,6 +71,18 @@
             }
           },
           {
+            "id": "dd23d33e4f13c7fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "74f630b096d6372a",
             "type": "leaf",
             "state": {
@@ -82,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md"
               }
             }
           }
@@ -166,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,11 +234,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81d67030ad6be2b3",
+  "active": "dd23d33e4f13c7fc",
   "lastOpenFiles": [
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf",
     "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
