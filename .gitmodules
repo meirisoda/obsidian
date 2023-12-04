@@ -4,3 +4,6 @@
 [submodule "School_Fall2023"]
 	path = School_Fall2023
 	url = git@github.com:meirisoda/school_fall2023.git
+[submodule "school_spring2024"]
+	path = school_spring2024
+	url = git@github.com:meirisoda/school_spring2024.git
