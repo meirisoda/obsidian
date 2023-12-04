@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NURS360/Final Assignment.md"
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
               }
             }
           }
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NURS360/Final Assignment.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NURS360/Final Assignment.md",
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,10 +207,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57ac2794ff400690",
+  "active": "74f630b096d6372a",
   "lastOpenFiles": [
-    "School_Fall2023/NURS360/Effects of Word of Mouth.pdf",
     "School_Fall2023/NURS360/Final Assignment.md",
+    "School_Fall2023/NURS360/Effects of Word of Mouth.pdf",
     "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
