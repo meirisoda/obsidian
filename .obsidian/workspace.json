@@ -82,18 +82,6 @@
             }
           },
           {
-            "id": "173e8d67a7e011b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23fcda0efaf8d4b7",
             "type": "leaf",
             "state": {
@@ -117,8 +105,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
               }
             }
           }
@@ -202,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,10 +244,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "173e8d67a7e011b8",
+  "active": "dd23d33e4f13c7fc",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "Untitled.md",
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
