@@ -8,132 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee8f10626ddce501",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
-              }
-            }
-          },
-          {
-            "id": "79186a01f3fffeec",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf"
-              }
-            }
-          },
-          {
-            "id": "29876042dcf706bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf"
-              }
-            }
-          },
-          {
-            "id": "2323443c2751cf0d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/10 Cohen-2005.pdf"
-              }
-            }
-          },
-          {
-            "id": "3d8db3f4837c664b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/10 Clore--26-Huntsinger-2C-2007.pdf"
-              }
-            }
-          },
-          {
-            "id": "793e9ffbc5ec48fa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf"
-              }
-            }
-          },
-          {
             "id": "7c3a2ecd02e16aac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a09192dc3effcee7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/13 Gratitude & Forgiveness.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cdef8f1076e38a66",
         "type": "tabs",
         "children": [
           {
-            "id": "a95bf07f31203de9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac0e11fcab05303a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9ebfd90d1d925eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/NURS360/Final Assignment.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -217,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,53 +166,56 @@
   },
   "active": "ac0e11fcab05303a",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/EXAM2/9 How do emotions affect cognitive processes?.pdf",
+    "s_s2024/Spring 2024 Plan.md",
+    "s_s2024/NURS380_Practicum",
+    "s_s2024/NURS343_Ethics",
+    "s_s2024/NURS341_Leadership",
+    "s_s2024/ARTS286_Game Design",
+    "s_s2024/ACEMAPP Practicum Survey.pdf",
+    "s_s2024",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
-    "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
-    "School_Fall2023/PSCL389/EXAM2/10 Cohen-2005.pdf",
-    "School_Fall2023/PSCL389/EXAM2/10 Clore--26-Huntsinger-2C-2007.pdf",
-    "School_Fall2023/PSCL389/EXAM2/Clore--26-Huntsinger-2C-2007.pdf",
-    "School_Fall2023/PSCL389/Clore--26-Huntsinger-2C-2007.pdf",
-    "School_Fall2023/Clore--26-Huntsinger-2C-2007.pdf",
-    "Clore--26-Huntsinger-2C-2007.pdf",
-    "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
-    "School_Fall2023/PSCL389/EXAM2/Cohen-2005.pdf",
-    "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
-    "School_Fall2023/PSCL389/EXAM2/Reading%Notes.md",
-    "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
+    "s_f2023/PSCL389/Writing Assignments/Readings/Week 10/Sheldon et al. 1999 JPSP.pdf",
+    "s_f2023/PSCL389/Writing Assignments/Readings/Week 10/Layous et al. 2018 JPP.pdf",
+    "s_f2023/PSCL389/Writing Assignments/Readings/Week 10/King et al. 2006 JPSP.pdf",
+    "s_f2023/PSCL389/Writing Assignments/Readings/Week 10/Dube et al. 2007 ERAP.pdf",
+    "s_f2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
+    "s_f2023/NURS339/Notes/9.5 PreOp/image.png",
+    "s_f2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled.png",
+    "s_f2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled 1.png",
+    "s_f2023/NTRN201/Files/PDE/PDE Assignment Part 1.md",
+    "s_f2023/NTRN201/Files/Fad Diet Presentation Reviews/Fad Diet Presentation Reviews.md",
+    "s_f2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
+    "s_f2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Blue Zone Quiz.md",
+    "s_f2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
+    "s_f2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
+    "s_f2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
+    "s_f2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
+    "s_f2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
+    "s_f2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
+    "s_f2023/PSCL389/Group Project/Reading Notes.md",
+    "s_f2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
+    "s_f2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "s_f2023/PSCL389/EXAM2/12 Reading Notes.md",
+    "s_f2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
+    "s_f2023/PSCL389/EXAM1/Exam 1 Planning.md",
+    "s_f2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
+    "s_f2023/PSCL389/EXAM1/EXAM 1.md",
+    "s_f2023/NURS339/Quiz Discussion Board Questions/Quiz 3 Discussion Board Questions.md",
+    "s_f2023/NURS339/Quiz Discussion Board Questions/Quiz 2 Discussion Board Questions.md",
+    "s_f2023/NURS339/Quiz Discussion Board Questions/Quiz 1 Discussion Board Questions.md",
+    "s_f2023/NURS339/Notes/Intraop.md",
+    "s_f2023/NURS339/Notes/9.5 Preop Notes.md",
+    "s_f2023/NURS339/Notes/8.29 Asepsis and Aseptic Technique.md",
+    "s_f2023/NTRN201/My Notes/Module 5 - Lipids.md",
+    "s_f2023/NTRN201/My Notes/Module 4 - Carbohydrates.md",
+    "s_f2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+    "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "Pasted image 20231201202214.png",
     "Pasted image 20231201201345.png",
-    "School_Fall2023/NURS360/Final Assignment.md",
-    "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews/Fad Diet Presentation Reviews.md",
-    "School_Spring2024/Spring 2024 Plan.md",
-    "School_Fall2023/NTRN201/Exam 1_Midterm/Exam1_Midterm Study Guide.md",
-    "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
-    "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
-    "School_Fall2023/NTRN201/Alkaline Diet Presentation Notes.md",
-    "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 6 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 4 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 3 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 2 Writing Assignment.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 10 Writing Assignment.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
-    "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
-    "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
-    "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
-    "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 3 Discussion Board Questions.md",
-    "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 2 Discussion Board Questions.md",
-    "School_Fall2023/NURS339/Quiz Discussion Board Questions/Quiz 1 Discussion Board Questions.md",
-    "School_Fall2023/NURS339/Notes/Intraop.md",
-    "School_Fall2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled 1.png",
-    "School_Fall2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled.png",
-    "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
-    "Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
-    "Fall2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled.png",
     "Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "School/Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
