@@ -44,8 +44,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0452c99619476fa8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "viewState": {
+                  "x": -232.93747850923967,
+                  "y": 103.58005885671673,
+                  "zoom": -1.3635808017734052
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
               }
             }
           }
@@ -129,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +200,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74f630b096d6372a",
+  "active": "0452c99619476fa8",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
