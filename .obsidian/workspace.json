@@ -26,9 +26,21 @@
                 "file": "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf"
               }
             }
+          },
+          {
+            "id": "57ac2794ff400690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/NURS360/Final Assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
+                "file": "School_Fall2023/NURS360/Final Assignment.md"
               }
             }
           }
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/NURS360/Final Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/NURS360/Final Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74f630b096d6372a",
+  "active": "57ac2794ff400690",
   "lastOpenFiles": [
     "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
