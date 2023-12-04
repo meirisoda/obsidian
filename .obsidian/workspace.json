@@ -28,26 +28,6 @@
             }
           },
           {
-            "id": "8dc385f5f174d26d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf"
-              }
-            }
-          },
-          {
-            "id": "d8b57f32653db708",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf"
-              }
-            }
-          },
-          {
             "id": "f75dc31981fc2646",
             "type": "leaf",
             "state": {
@@ -68,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -82,8 +62,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": -927.3895823695843,
-                  "y": -665.4110993996194,
+                  "x": -215.70965072895933,
+                  "y": -780.6109895363381,
                   "zoom": -1
                 }
               }
@@ -188,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf"
               }
             }
           }
@@ -212,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,10 +247,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd23d33e4f13c7fc",
+  "active": "f75dc31981fc2646",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
     "Untitled 1.md",
