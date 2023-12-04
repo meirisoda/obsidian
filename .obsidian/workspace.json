@@ -94,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
               }
             }
           }
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,8 +233,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd23d33e4f13c7fc",
+  "active": "23fcda0efaf8d4b7",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
