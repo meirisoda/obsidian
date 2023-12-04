@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "0dbeeb1e9655fa53",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf"
+              }
+            }
+          },
+          {
             "id": "b2e2e6f3f6479f33",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -41,8 +52,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": -835.2296702602093,
-                  "y": -209.7309541359475,
+                  "x": 1832.2898609897907,
+                  "y": 267.70912459940405,
                   "zoom": -1
                 }
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf"
               }
             }
           }
@@ -171,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +237,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81d67030ad6be2b3",
+  "active": "0dbeeb1e9655fa53",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
@@ -240,7 +252,6 @@
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 8_Energy Metabolism 2023.pdf",
     "Untitled.md",
-    "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
     "School_Fall2023/NTRN201/My Notes/필기.pdf",
