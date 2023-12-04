@@ -28,6 +28,21 @@
             }
           },
           {
+            "id": "c3ff0d0046dc1b82",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "viewState": {
+                  "x": -34.58271621894846,
+                  "y": 353.24425868601145,
+                  "zoom": -1.2336316141617436
+                }
+              }
+            }
+          },
+          {
             "id": "b2e2e6f3f6479f33",
             "type": "leaf",
             "state": {
@@ -38,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cdef8f1076e38a66",
@@ -55,21 +70,6 @@
                   "x": 1324.1297047397907,
                   "y": 268.98915389627905,
                   "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "c3ff0d0046dc1b82",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
-                "viewState": {
-                  "x": 848.8594822706375,
-                  "y": 113.9473274607974,
-                  "zoom": -1.2336316141617436
                 }
               }
             }
