@@ -74,10 +74,22 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": 679.5548696183333,
-                  "y": -285.03044125234373,
+                  "x": -975.4846811629167,
+                  "y": -89.19050594960936,
                   "zoom": -1
                 }
+              }
+            }
+          },
+          {
+            "id": "173e8d67a7e011b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -105,7 +117,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
+                "file": "Untitled.md"
               }
             }
           }
@@ -189,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,10 +257,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd23d33e4f13c7fc",
+  "active": "173e8d67a7e011b8",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "Untitled.md",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
@@ -287,7 +301,6 @@
     "School_Fall2023/PSCL389/Group Project/Reading Notes.md",
     "School_Fall2023/PSCL389/Group Project/Gratitude & Forgiveness Presentation Notes.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
-    "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
