@@ -4,55 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "cdb73a742ac60273",
-        "type": "split",
+        "id": "7604acfa19e67354",
+        "type": "tabs",
         "children": [
           {
-            "id": "7604acfa19e67354",
-            "type": "tabs",
-            "dimension": 33.29718004338395,
-            "children": [
-              {
-                "id": "81d67030ad6be2b3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
-                  }
-                }
-              },
-              {
-                "id": "b2e2e6f3f6479f33",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf"
-                  }
-                }
+            "id": "81d67030ad6be2b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
               }
-            ]
+            }
           },
           {
-            "id": "b70ceed3c08375b4",
-            "type": "tabs",
-            "dimension": 66.70281995661605,
-            "children": [
-              {
-                "id": "07ba5e15dd02fca3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
-                  }
-                }
+            "id": "07ba5e15dd02fca3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
               }
-            ]
+            }
+          },
+          {
+            "id": "b2e2e6f3f6479f33",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf"
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -235,8 +221,9 @@
   },
   "active": "23fcda0efaf8d4b7",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
+    "School_Fall2023/NTRN201/My Notes/필기.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+    "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
@@ -276,7 +263,6 @@
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
     "School_Fall2023/PSCL389/EXAM1/Exam 1 Planning.md",
-    "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
