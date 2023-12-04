@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "07ba5e15dd02fca3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
+              }
+            }
+          },
+          {
             "id": "b2e2e6f3f6479f33",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdef8f1076e38a66",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
               }
             }
           }
@@ -141,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +207,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81d67030ad6be2b3",
+  "active": "07ba5e15dd02fca3",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf",
@@ -213,7 +225,6 @@
     "School_Spring2024",
     "school/Spring 2024 Plan.md",
     "school/README.md",
-    "school/NURS380_Practicum",
     "dd/Spring 2024 Plan.md",
     "dd/README.md",
     "school_spring2024/README.md",
