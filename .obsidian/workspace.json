@@ -69,6 +69,18 @@
             }
           },
           {
+            "id": "cac2bbe619fd0225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "57ac2794ff400690",
             "type": "leaf",
             "state": {
@@ -80,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md"
+                "file": "School_Fall2023/PSCL389/EXAM1/EXAM 1.md"
               }
             }
           }
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+                "file": "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,10 +232,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74f630b096d6372a",
+  "active": "cac2bbe619fd0225",
   "lastOpenFiles": [
-    "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
+    "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
     "School_Fall2023/NURS360/Final Assignment.md",
     "School_Fall2023/NURS360/Effects of Word of Mouth.pdf",
     "School_Fall2023/PSCL389/EXAM2/11 Working Memory and Emotion Regulation.pdf",
