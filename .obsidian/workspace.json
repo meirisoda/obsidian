@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "cdef8f1076e38a66",
-        "type": "tabs",
-        "dimension": 20.781758957654723,
-        "children": [
-          {
-            "id": "74f630b096d6372a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac2bbe619fd0225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "11b26cf2cc6877be",
         "type": "tabs",
-        "dimension": 79.21824104234527,
         "children": [
           {
             "id": "047690125a1b15c4",
