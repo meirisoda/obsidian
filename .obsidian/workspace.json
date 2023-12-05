@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11b26cf2cc6877be",
+        "id": "34d0c065750902d3",
         "type": "tabs",
         "children": [
           {
-            "id": "047690125a1b15c4",
+            "id": "4e456bd038dd9500",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +150,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "047690125a1b15c4",
+  "active": "4e456bd038dd9500",
   "lastOpenFiles": [
+    "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
-    "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "School_Fall2023/PSCL389/Notes/Week 5 Emotion communication and measurement_WEB.pdf",
     "School_Fall2023/NURS360/Effects of Word of Mouth.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2.pdf",
@@ -174,7 +166,6 @@
     "School_Fall2023/PSCL389/EXAM2/Prep/10 Clore--26-Huntsinger-2C-2007.pdf",
     "School_Fall2023/PSCL389/EXAM2/Prep/9 How do emotions affect cognitive processes?.pdf",
     "School_Fall2023/PSCL389/EXAM2/Prep/12 Readings/12 Sheldon-et-al.-1999-JPSP.pdf",
-    "School_Fall2023/PSCL389/EXAM2/Prep/12 Readings/12 Layous-et-al.-2018-JPP.pdf",
     "School_Fall2023/NURS360/Final Assignment.md",
     "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
     "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
