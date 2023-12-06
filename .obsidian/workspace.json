@@ -105,8 +105,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": 515.0865077742621,
-                  "y": 869.6990025243417,
+                  "x": 76.03708495426727,
+                  "y": 663.2413480029286,
                   "zoom": -1.0297780445855644
                 }
               }
@@ -132,8 +132,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
                 "viewState": {
-                  "x": -352.99485039476633,
-                  "y": 565.2477814389799,
+                  "x": 1099.1388952943566,
+                  "y": 34.22230312132808,
                   "zoom": -1.1534612654777603
                 }
               }
@@ -151,8 +151,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
               }
             }
           }
@@ -236,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,8 +290,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d06feae9898612dc",
+  "active": "1c72573802d5ea43",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
@@ -320,7 +320,6 @@
     "School_Fall2023/NURS360/Final Assignment.md",
     "School_Fall2023/PSCL389/EXAM1/Jamie Lee - Exam 1.md",
     "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
-    "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Spring2024/Spring 2024 Plan.md",
     "School_Spring2024/README.md",
