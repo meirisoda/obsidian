@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "e3b906847e3db38c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf"
-              }
-            }
-          },
-          {
             "id": "3b0a43003f117f43",
             "type": "leaf",
             "state": {
@@ -54,8 +44,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": -1813.7679737397361,
-                  "y": -417.9088192363975,
+                  "x": -904.3088644940617,
+                  "y": 861.3448783230115,
                   "zoom": -1.0297780445855644
                 }
               }
@@ -133,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
               }
             }
           }
@@ -157,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,12 +202,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c72573802d5ea43",
+  "active": "3b0a43003f117f43",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf",
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "Learning/JS AGAIN/I wanna scream.md",
     "Learning/CS/JavaScript.md",
     "Learning/JS AGAIN",
