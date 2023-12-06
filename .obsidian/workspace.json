@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "e3b906847e3db38c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf"
+              }
+            }
+          },
+          {
             "id": "3b0a43003f117f43",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c9eb1e1d780f47f8",
@@ -43,8 +54,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": -2196.6292450937667,
-                  "y": -281.91066302000195,
+                  "x": -1886.9427944656709,
+                  "y": -741.8670528598825,
                   "zoom": -1.0297780445855644
                 }
               }
@@ -62,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/JS AGAIN/I wanna scream.md"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf"
               }
             }
           }
@@ -147,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/JS AGAIN/I wanna scream.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/JS AGAIN/I wanna scream.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,14 +212,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5eb5f3ea61c78010",
+  "active": "e3b906847e3db38c",
   "lastOpenFiles": [
-    "Learning/CS/JavaScript.md",
-    "Learning/JS AGAIN/I wanna scream.md",
-    "Learning/JS AGAIN",
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "Learning/JS AGAIN/I wanna scream.md",
+    "Learning/CS/JavaScript.md",
+    "Learning/JS AGAIN",
     "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
@@ -246,7 +256,6 @@
     "School_Fall2023/NTRN201/Files/Fad Diet Presentation Reviews/Fad Diet Presentation Reviews.md",
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Blue Zone Quiz.md",
-    "School_Fall2023/PSCL389/Writing Assignments/Week 8 Writing Assignment.md",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
