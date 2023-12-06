@@ -6,6 +6,7 @@
       {
         "id": "34d0c065750902d3",
         "type": "tabs",
+        "dimension": 34.661654135338345,
         "children": [
           {
             "id": "ef67b5f14b9d76d9",
@@ -14,16 +15,6 @@
               "type": "pdf",
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
-              }
-            }
-          },
-          {
-            "id": "ee26cc220d84be97",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf"
               }
             }
           },
@@ -37,12 +28,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c9eb1e1d780f47f8",
         "type": "tabs",
+        "dimension": 65.33834586466165,
         "children": [
           {
             "id": "1c72573802d5ea43",
@@ -52,8 +43,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": -360.9298782876766,
-                  "y": 1163.7050721174037,
+                  "x": 143.45389435452125,
+                  "y": 787.3771734375455,
                   "zoom": -1.0297780445855644
                 }
               }
@@ -131,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf"
               }
             }
           }
@@ -155,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,11 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c72573802d5ea43",
+  "active": "ef67b5f14b9d76d9",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 12_Nutrients-That-Support-Blood-Health--281-29.pdf",
