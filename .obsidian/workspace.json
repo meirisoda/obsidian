@@ -29,6 +29,16 @@
             }
           },
           {
+            "id": "aa8654f69e5cac47",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf"
+              }
+            }
+          },
+          {
             "id": "ff5db806574e9500",
             "type": "leaf",
             "state": {
@@ -81,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c9eb1e1d780f47f8",
@@ -175,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf"
               }
             }
           }
@@ -199,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,15 +264,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c72573802d5ea43",
+  "active": "aa8654f69e5cac47",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "Web View.md",
     "School_Fall2023/PSCL389/EXAM2/Pasted image 20231201202214.png",
     "Untitled.md",
@@ -278,7 +288,6 @@
     "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.pdf",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/PSCL389/Notes/Week 5 Emotion communication and measurement_WEB.pdf",
-    "School_Fall2023/NURS360/Effects of Word of Mouth.pdf",
     "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
     "School_Fall2023/PSCL389/EXAM2/Prep/12 Reading Notes.md",
     "School_Fall2023/NURS360/Final Assignment.md",
