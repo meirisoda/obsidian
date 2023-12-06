@@ -54,8 +54,8 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": -1886.9427944656709,
-                  "y": -741.8670528598825,
+                  "x": -1854.2754326304262,
+                  "y": -654.3185131721381,
                   "zoom": -1.0297780445855644
                 }
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
               }
             }
           }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3b906847e3db38c",
+  "active": "1c72573802d5ea43",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Lecture Slides/Module 12_Fluid and Electrolyte Balance (1).pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
