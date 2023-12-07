@@ -78,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web View.md"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf"
               }
             }
           }
@@ -162,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web View.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web View.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,8 +218,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c72573802d5ea43",
+  "active": "7ec1f7bb456001eb",
   "lastOpenFiles": [
+    "Web View.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
@@ -232,7 +234,6 @@
     "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
-    "Web View.md",
     "School_Fall2023/PSCL389/EXAM2/Pasted image 20231201202214.png",
     "Untitled.md",
     "Untitled 1.md",
