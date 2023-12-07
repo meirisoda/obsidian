@@ -78,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf"
+                "file": "Web View.md"
               }
             }
           }
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
+                "file": "Web View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
+                "file": "Web View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +217,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ec1f7bb456001eb",
+  "active": "1c72573802d5ea43",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
     "Web View.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
@@ -227,7 +227,6 @@
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
     "Learning/JS AGAIN/I wanna scream.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
