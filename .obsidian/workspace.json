@@ -45,20 +45,10 @@
               "state": {
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "viewState": {
-                  "x": -805.9810615168697,
-                  "y": 837.6337856643311,
+                  "x": -1742.8810089209856,
+                  "y": 409.0379086623268,
                   "zoom": -1.0297780445855644
                 }
-              }
-            }
-          },
-          {
-            "id": "f2fd8a46ee4c10c4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
               }
             }
           },
@@ -109,7 +99,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf"
               }
             }
           }
@@ -193,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,11 +239,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d0bf9ecb98ba3fd",
+  "active": "7ec1f7bb456001eb",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
