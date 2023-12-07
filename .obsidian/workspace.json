@@ -63,6 +63,16 @@
             }
           },
           {
+            "id": "f2fd8a46ee4c10c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
+              }
+            }
+          },
+          {
             "id": "f35cb2d86bfa49ba",
             "type": "leaf",
             "state": {
@@ -99,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
               }
             }
           }
@@ -183,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,10 +249,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c72573802d5ea43",
+  "active": "6d0bf9ecb98ba3fd",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
