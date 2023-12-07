@@ -11,14 +11,11 @@
             "id": "1c72573802d5ea43",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
-                "viewState": {
-                  "x": -1815.123466304922,
-                  "y": -394.2391992857698,
-                  "zoom": -1.0297780445855644
-                }
+                "file": "Web View.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
+                "file": "Web View.md"
               }
             }
           }
@@ -165,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "Web View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "file": "Web View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +219,9 @@
   },
   "active": "1c72573802d5ea43",
   "lastOpenFiles": [
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "Web View.md",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
