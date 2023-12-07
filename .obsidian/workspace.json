@@ -29,16 +29,6 @@
                 "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf"
               }
             }
-          },
-          {
-            "id": "7ec1f7bb456001eb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf"
-              }
-            }
           }
         ]
       },
@@ -69,6 +59,16 @@
               "type": "pdf",
               "state": {
                 "file": "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf"
+              }
+            }
+          },
+          {
+            "id": "7ec1f7bb456001eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf"
               }
             }
           },
@@ -109,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md"
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf"
               }
             }
           }
@@ -193,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+                "file": "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,14 +249,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d0bf9ecb98ba3fd",
+  "active": "f35cb2d86bfa49ba",
   "lastOpenFiles": [
-    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+    "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
+    "School_Fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
     "School_Fall2023/NTRN201/Lecture Slides/Module 14_Lifecycle Nutrition Part 1.pdf",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
