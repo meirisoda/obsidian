@@ -1,1 +1,2 @@
-<iframe src='https://my.clevelandclinic.org/health/articles/22330-calcitonin' style="height: 1500px; width: 100%;"></iframe>
+<iframe src='https://google.com
+	' style="height: 1500px; width: 100%;"></iframe>
