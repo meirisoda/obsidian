@@ -16,8 +16,29 @@
                 "file": "School_Fall2023/ARTS365B/DESIGN ESSAY DESCRIPTION.docx.pdf"
               }
             }
+          },
+          {
+            "id": "1bddb854ab6ddaf5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/ARTS365B/Defining Digital Space Through a Visual Language.pdf"
+              }
+            }
+          },
+          {
+            "id": "85386cdd4fc5e6ac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School_Fall2023/ARTS365B/Heterotopias 002.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ab5af0523d0cedb5",
@@ -33,6 +54,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e9c6390db9901ab1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -163,37 +192,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "publish:Publish changes...": false
     }
   },
   "active": "5eb5f3ea61c78010",
   "lastOpenFiles": [
+    "Pasted image 20231212163430.png",
+    "School_Fall2023/ARTS365B/Defining Digital Space Through a Visual Language.pdf",
     "School_Fall2023/ARTS365B/DESIGN ESSAY DESCRIPTION.docx.pdf",
-    "School_Fall2023/NURS360/Effects of Word of Mouth.pdf",
     "School_Fall2023/ARTS365B/Design Essay.md",
+    "Pasted image 20231212155742.png",
+    "School_Fall2023/ARTS365B/Heterotopias 002.pdf",
+    "Pasted image 20231212151201.png",
+    "School_Fall2023/ARTS365B/The intelligent use of space.pdf",
+    "School_Fall2023/ARTS365B/The Art of Structures_\nAurelio Mu�ni.pdf",
+    "School_Fall2023/ARTS365B/Structure as Space\nEngineering and Architecture in the Works of Jurg Conzett and His Partners.pdf",
+    "School_Fall2023/ARTS365B/Architectonics of Game Spaces The Spatial Logic of the Virtual and Its Meaning for the Real.pdf",
+    "School_Fall2023/ARTS365B/Abstract Space Beneath the Media Surface.pdf",
+    "notebook/Lists/People.md",
+    "notebook/Thoughts/그림이란.md",
+    "notebook/What do I want to do?.md",
+    "School_Fall2023/NURS360/Effects of Word of Mouth.pdf",
     "School_Fall2023/NURS360/Final Assignment.md",
     "School_Fall2023/NURS360/Jamie Lee_Final Assignment.pdf",
-    "School_Fall2023/ARTS365B",
     "Learning/JS AGAIN/I wanna scream.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 11_Amino-Acid-and-Energy-Metabolism.pdf",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 11_Micronutrients in Immunity.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "Web View.md",
-    "School_Fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 13_Chapter-11-Nutrients-Involved-in-Bone-Health-Revised--282-29.pdf",
-    "School_Fall2023/NTRN201/Lecture Slides/Module 10_Overview-of-the-Vitamins-and-Minerals.pdf",
     "School_Fall2023/NTRN201/My Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
     "School_Fall2023/PSCL389/EXAM2/Pasted image 20231201202214.png",
     "Untitled.md",
@@ -212,9 +247,6 @@
     "school/Spring 2024 Plan.md",
     "school/README.md",
     "dd/Spring 2024 Plan.md",
-    "dd/README.md",
-    "school_spring2024/README.md",
-    "s_f2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
     "School_Fall2023/NURS339/Notes/9.5 PreOp/image.png",
     "School_Fall2023/NTRN201/My Notes/Human Digestion and Absorption - Module 3/Untitled.png",
@@ -222,8 +254,6 @@
     "School_Fall2023/NTRN201/Files/Blue Zone Quiz 10796 Blue Zone Quiz/Untitled.png",
     "School_Fall2023/PSCL389/EXAM1/Pasted image 20231015185019.png",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
-    "s_f2023/NURS339/Notes/Quiz 3 Discussion Board/Untitled.png",
-    "s_f2023/NURS339/Notes/9.5 PreOp/image.png",
     "s_f2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
