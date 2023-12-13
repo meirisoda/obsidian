@@ -2,5 +2,8 @@
   "accentColor": "#8694ac",
   "theme": "obsidian",
   "cssTheme": "soda",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "image-align"
+  ]
 }
