@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ab5af0523d0cedb5",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md"
+                "file": "School_Fall2023/ARTS365B/Defining Digital Space Through a Visual Language.pdf"
               }
             }
           }
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md",
+                "file": "School_Fall2023/ARTS365B/Defining Digital Space Through a Visual Language.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md",
+                "file": "School_Fall2023/ARTS365B/Defining Digital Space Through a Visual Language.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +213,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5eb5f3ea61c78010",
+  "active": "1bddb854ab6ddaf5",
   "lastOpenFiles": [
     "School_Fall2023/ARTS365B/DESIGN ESSAY DESCRIPTION.docx.pdf",
     "School_Fall2023/ARTS365B/Design Essay.md",
