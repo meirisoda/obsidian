@@ -37,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ab5af0523d0cedb5",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md"
+                "file": "School_Fall2023/ARTS365B/Heterotopias 002.pdf"
               }
             }
           }
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md",
+                "file": "School_Fall2023/ARTS365B/Heterotopias 002.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md",
+                "file": "School_Fall2023/ARTS365B/Heterotopias 002.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +203,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5eb5f3ea61c78010",
+  "active": "85386cdd4fc5e6ac",
   "lastOpenFiles": [
+    "School_Fall2023/ARTS365B/Design Essay.md",
     "School_Fall2023/ARTS365B/Defining Digital Space Through a Visual Language.pdf",
     "School_Fall2023/ARTS365B/Architectonics of Game Spaces The Spatial Logic of the Virtual and Its Meaning for the Real.pdf",
-    "School_Fall2023/ARTS365B/Design Essay.md",
     "School_Fall2023/ARTS365B/DESIGN ESSAY DESCRIPTION.docx.pdf",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231212220408.png",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231212184459.png",
