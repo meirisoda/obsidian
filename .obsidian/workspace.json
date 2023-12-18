@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Heterotopias 002.pdf"
+                "file": "School_Fall2023/ARTS365B/Design Essay.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Heterotopias 002.pdf",
+                "file": "School_Fall2023/ARTS365B/Design Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Heterotopias 002.pdf",
+                "file": "School_Fall2023/ARTS365B/Design Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +205,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "85386cdd4fc5e6ac",
+  "active": "5eb5f3ea61c78010",
   "lastOpenFiles": [
-    "School_Fall2023/ARTS365B/Design Essay.md",
+    "Pasted image 20231218182819.png",
+    "Pasted image 20231218182803.png",
     "School_Fall2023/ARTS365B/Heterotopias 002.pdf",
+    "School_Fall2023/ARTS365B/Design Essay.md",
     "Pasted image 20231217222502.png",
     "School_Fall2023/ARTS365B/Defining Digital Space Through a Visual Language.pdf",
     "School_Fall2023/ARTS365B/Architectonics of Game Spaces The Spatial Logic of the Virtual and Its Meaning for the Real.pdf",
@@ -224,7 +226,6 @@
     "School_Fall2023/ARTS365B/The Art of Structures_\nAurelio Mu�ni.pdf",
     "School_Fall2023/ARTS365B/The intelligent use of space.pdf",
     "Pasted image 20231212184459.png",
-    "Pasted image 20231212184443.png",
     "School_Fall2023/ARTS365B/Structure as Space\nEngineering and Architecture in the Works of Jurg Conzett and His Partners.pdf",
     "School_Fall2023/ARTS365B/Abstract Space Beneath the Media Surface.pdf",
     "notebook/Lists/People.md",
