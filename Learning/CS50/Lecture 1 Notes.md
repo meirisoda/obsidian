@@ -59,7 +59,7 @@ while (i > 0) // counting down from 3
 }
 
 int i = 1;
-while (1 <= 3)
+while (1 <= 3) 
 {
 	printf("meow\n");
 	i++;
