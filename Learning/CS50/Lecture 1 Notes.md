@@ -75,5 +75,8 @@ while (i < 3)
 ```
 ### for loop
 ```c
-for (int i )
+for (int i = 0; i < 3; i++)
+{
+	printf("meow\n")
+}
 ```
