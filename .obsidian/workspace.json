@@ -12,8 +12,10 @@
             "id": "3858018ceb398ee0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Learning/CS50/lecture1.pdf"
+              }
             }
           }
         ]
@@ -24,11 +26,15 @@
         "dimension": 50,
         "children": [
           {
-            "id": "e9c6390db9901ab1",
+            "id": "3e81e3bbb57fa657",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning/CS50/Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/CS50/Notes.md"
+              }
             }
           }
         ]
@@ -113,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/CS50/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/CS50/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +176,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "3e81e3bbb57fa657",
   "lastOpenFiles": [
+    "Learning/CS50/Notes.md",
+    "Learning/CS50/lecture1.pdf",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231218182936.png",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231218182900.png",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231218182819.png",
@@ -182,14 +194,12 @@
     "School_Fall2023/ARTS365B/References/Abstract Space Beneath the Media Surface.pdf",
     "School_Fall2023/ARTS365B/The intelligent use of space.pdf",
     "School_Fall2023/ARTS365B/The Art of Structures_\nAurelio Mu�ni.pdf",
-    "School_Fall2023/ARTS365B/Structure as Space\nEngineering and Architecture in the Works of Jurg Conzett and His Partners.pdf",
     "School_Fall2023/ARTS365B/Pasted image 20231218182936.png",
     "School_Fall2023/ARTS365B/Pasted image 20231218182900.png",
     "School_Fall2023/ARTS365B/Pasted image 20231218182819.png",
     "School_Fall2023/ARTS365B/Pasted image 20231218182803.png",
     "School_Fall2023/ARTS365B/Pasted image 20231217222502.png",
     "School_Fall2023/ARTS365B/Design Essay.md",
-    "School_Fall2023/ARTS365B/References/Pasted image 20231218182936.png",
     "School_Fall2023/ARTS365B/References/Design Essay.md",
     "notebook/Lists/People.md",
     "notebook/Thoughts/그림이란.md",
