@@ -27,5 +27,6 @@ char c = get char("Do you agree? ")
 
 ## Operations
 ```c
-int
+int counter = 0 
+// set counter to 0
 ```
