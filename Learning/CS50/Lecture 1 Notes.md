@@ -73,3 +73,7 @@ while (i < 3)
 	i++;
 }
 ```
+### for loop
+```c
+for (int i )
+```
