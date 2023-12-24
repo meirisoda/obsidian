@@ -64,4 +64,7 @@ while (1 <= 3) // counting up to 3, but it starts at one, so you need to declare
 	printf("meow\n");
 	i++;
 }
+
+int i = 0
+while (i )
 ```
