@@ -125,5 +125,5 @@ for (int = 0; i < n; i++) // prints anew column
 do {
 	n = get_int("size: "); // ask for n value
 }
-while (n < 1);  // check if that value is greater than 1, 
+while (n < 1);  // check if that value is less than 1, and then while it is less than 1, keep doing 
 ```
