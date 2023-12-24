@@ -58,8 +58,8 @@ while (i > 0) // counting down from 3
 	i--;
 }
 
-int i = 1;
-while (1 <= 3) 
+int i = 1; // starting at 1 
+while (1 <= 3) // counting up to 3, but it starts at one, so you need to declare that it must equal 3
 {
 	printf("meow\n");
 	i++;
