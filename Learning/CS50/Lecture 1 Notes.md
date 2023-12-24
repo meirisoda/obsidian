@@ -77,6 +77,6 @@ while (i < 3)
 ```c
 for (int i = 0; i < 3; i++)
 {
-	printf("meow\n")
+	printf("meow\n");
 }
 ```
