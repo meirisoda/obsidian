@@ -121,3 +121,6 @@ for (int = 0; i < n; i++) // prints anew column
 }
 ```
 ## do while
+```c
+
+```
