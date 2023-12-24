@@ -75,8 +75,9 @@ while (i < 3)
 ```
 ### for loop
 ```c
-for (int i = 0; i < 3; i++) // first argument is only done once, and it keeps checking for i
+for (int i = 0; i < 3; i++) // first argument is only done once, and it keeps checking for i, and loops around 
 {
 	printf("meow\n");
 }
 ```
+## Mario
