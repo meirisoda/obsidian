@@ -38,5 +38,6 @@ counter++;
 ```
 ```c 
 counter--; 
-// decrease 
+// decrease counter by 1
 ```
+
