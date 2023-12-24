@@ -25,3 +25,4 @@ char c = get char("Do you agree? ")
 	}
 ```
 
+## Operations
