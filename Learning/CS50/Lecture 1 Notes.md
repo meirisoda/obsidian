@@ -111,12 +111,12 @@ Output:
 
 ```c
 int n = 3
-for (int = 0; i < n; i++)
+for (int = 0; i < n; i++) // prints anew column
 {
-	for (int j = 0; j < n; j++)
+	for (int j = 0; j < n; j++) // prints a row of 3
 	{
 		printf("#");
 	}
-	printf
+	printf("\n"); // then goes to next line
 }
 ```
