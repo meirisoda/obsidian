@@ -51,4 +51,10 @@ while (counter > 0)
 }
 // say meow 3 times
 
+int i = 3;
+while (i > 0) // counting down from 3
+{
+	printf("meow\n");
+	9
+}
 ```
