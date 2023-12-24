@@ -32,5 +32,11 @@ int counter = 0
 ```
 ```c
 counter = counter + 1 
-// increa
+counter += 1; 
+counter++;
+// increase counter by 1 (right to left)
+```
+```c 
+counter--; 
+// decrease 
 ```
