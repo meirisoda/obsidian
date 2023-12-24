@@ -30,3 +30,7 @@ char c = get char("Do you agree? ")
 int counter = 0 
 // set counter to 0
 ```
+```c
+counter = counter + 1 
+// increa
+```
