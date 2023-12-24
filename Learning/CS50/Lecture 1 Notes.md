@@ -81,7 +81,6 @@ for (int i = 0; i < 3; i++) // first argument is only done once, and it keeps ch
 }
 ```
 ## Mario
-???? 
 ```c
 for (int i = 0; i < 4; i++)
 {
@@ -89,8 +88,11 @@ for (int i = 0; i < 4; i++)
 }
 printf("\n");
 ```
-output:
+Output:
 ```
 ????
 ```
 
+```c
+
+```
