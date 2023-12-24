@@ -96,6 +96,11 @@ Output:
 ```c
 if (i = 0; i < 3; i++)
 {
-	printf
+	printf("#\n");
 }
+```
+Output:
+```
+# 
+# 
 ```
