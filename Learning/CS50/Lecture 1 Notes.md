@@ -120,3 +120,4 @@ for (int = 0; i < n; i++) // prints anew column
 	printf("\n"); // then goes to next line
 }
 ```
+## do while
