@@ -55,6 +55,12 @@ int i = 3;
 while (i > 0) // counting down from 3
 {
 	printf("meow\n");
-	9
+	i--;
+}
+
+int i = 1;
+while (1 <= 3)
+{
+	printf("meow\n")
 }
 ```
