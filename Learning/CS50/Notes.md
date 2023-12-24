@@ -17,7 +17,10 @@ else
 char c = get char("Do you agree? ")
 	if (c = 'y' || c = 'Y')
 	{
-		printf("")
+		printf("Agreed."\n);
 	}
-
+	if (c = 'n' || c = "N")
+	{
+		printf("Disagreed."\n);
+	}
 ```
