@@ -9,26 +9,6 @@
         "dimension": 50,
         "children": [
           {
-            "id": "bc3e5c6c18110fae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/ARTS365B/DESIGN ESSAY DESCRIPTION.docx.pdf"
-              }
-            }
-          },
-          {
-            "id": "85386cdd4fc5e6ac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School_Fall2023/ARTS365B/Heterotopias 002.pdf"
-              }
-            }
-          },
-          {
             "id": "3858018ceb398ee0",
             "type": "leaf",
             "state": {
@@ -38,26 +18,13 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ab5af0523d0cedb5",
         "type": "tabs",
         "dimension": 50,
         "children": [
-          {
-            "id": "5eb5f3ea61c78010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "e9c6390db9901ab1",
             "type": "leaf",
@@ -125,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Fall2023/ARTS365B/Design Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,11 +168,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5eb5f3ea61c78010",
+  "active": "4b9202fd502981f0",
   "lastOpenFiles": [
+    "School_Fall2023/Pasted image 20231218182936.png",
+    "School_Fall2023/Pasted image 20231218182900.png",
+    "School_Fall2023/Pasted image 20231218182819.png",
+    "School_Fall2023/Pasted image 20231218182803.png",
+    "School_Fall2023/Pasted image 20231217222502.png",
+    "School_Fall2023/ARTS365B/Design Essay.md",
     "School_Fall2023/ARTS365B/Design Essay.pdf",
     "School_Fall2023/ARTS365B/Heterotopias 002.pdf",
-    "School_Fall2023/ARTS365B/Design Essay.md",
     "Pasted image 20231218182936.png",
     "Pasted image 20231218182900.png",
     "Pasted image 20231218182819.png",
@@ -219,10 +187,6 @@
     "School_Fall2023/ARTS365B/Architectonics of Game Spaces The Spatial Logic of the Virtual and Its Meaning for the Real.pdf",
     "School_Fall2023/ARTS365B/DESIGN ESSAY DESCRIPTION.docx.pdf",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231212220408.png",
-    "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231212184459.png",
-    "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231212184443.png",
-    "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231212163430.png",
-    "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231212155742.png",
     "School_Fall2023/ARTS365B/Pasted Images",
     "School_Fall2023/ARTS365B/The Art of Structures_\nAurelio Mu�ni.pdf",
     "School_Fall2023/ARTS365B/The intelligent use of space.pdf",
@@ -231,7 +195,6 @@
     "notebook/Lists/People.md",
     "notebook/Thoughts/그림이란.md",
     "notebook/What do I want to do?.md",
-    "School_Fall2023/NURS360/Effects of Word of Mouth.pdf",
     "School_Fall2023/NURS360/Final Assignment.md",
     "Learning/JS AGAIN/I wanna scream.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
