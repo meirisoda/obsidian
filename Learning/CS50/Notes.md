@@ -15,5 +15,6 @@ else
 
 ```c
 char c = get char("Do you agree? ")
+	if (c='y')
 
 ```
