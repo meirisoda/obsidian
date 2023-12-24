@@ -41,3 +41,8 @@ counter--;
 // decrease counter by 1
 ```
 
+## Loops
+```c
+int counter = 3;
+while (counter > 0)
+```
