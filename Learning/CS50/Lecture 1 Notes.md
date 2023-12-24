@@ -42,6 +42,7 @@ counter--;
 ```
 
 ## Loops
+### while loop
 ```c
 int counter = 3;
 while (counter > 0)
@@ -65,6 +66,10 @@ while (1 <= 3) // counting up to 3, but it starts at one, so you need to declare
 	i++;
 }
 
-int i = 0
-while (i )
+int i = 0; // best practice to start at 0
+while (i < 3)
+{
+	printf("meow\n");
+	i++;
+}
 ```
