@@ -46,9 +46,17 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "8a8d7176373c367c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +195,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4fe32313118cd1f6",
+  "active": "8a8d7176373c367c",
   "lastOpenFiles": [
     "Learning/CS/JavaScript.md",
     "Learning/CS50/Lecture 1 Notes.md",
