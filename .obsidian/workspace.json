@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/CS50/Lecture 1 Notes.md"
+                "file": "Learning/CS50/lecture1-notes.pdf"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/CS50/Lecture 1 Notes.md",
+                "file": "Learning/CS50/lecture1-notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/CS50/Lecture 1 Notes.md",
+                "file": "Learning/CS50/lecture1-notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
