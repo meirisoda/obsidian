@@ -3,26 +3,21 @@ archinstall stuff
 [] pipewire
 [] NVDIA drivers
 ## Appearance 
-**Plasma Theme**
+### **Plasma Theme**
 - Breeze Dark or Light
 - Add Virtual Desktops 
 - Change animation speed 
 - Clicking files selects them 
 - Application Style: Fusion
-- Colors
-- Breeze Dark
-- Animation speed changes
-- clicking files selects them (double click) 
-- Application Style : Fusion
 - Colors: Bali10050's Grey (Download the Global Theme)
 - Splash Screen: WinConceptOS
 - SDDM: Breeze 
 - Autostart: Libinput Gestures
 
-[] Background Services
+### Background Services
 - Bluetooth
 
-[] Set up Virtual Desktops
+### Set up Virtual Desktops
 
 [] Window Management
 - Task Switcher: Thumbnail Grid 
