@@ -32,11 +32,11 @@ archinstall stuff
 	Window types -- all selected
 	No titlebar and frame -- Force
 
-[] YUBIKEY SETUP GOD NO GOD NO GOD NO GOD NO
+### YUBIKEY SETUP GOD NO GOD NO GOD NO GOD NO
 - yubico-pam 
 - https://www.reddit.com/r/kde/comments/y45v25/requiring_a_yubikey_to_unlock_the_lock_screen/ 
 
-[] Shortcuts
+### Shortcuts
 - Discord (alt-d)
 - Dolphin (alt-e)
 - kitty
@@ -46,7 +46,7 @@ archinstall stuff
 	Switch One Desktop to the Right: Meta+Ctrl+Right, Meta+Ctrl+1
 	Switch One Desktop Up: Meta+Ctrl+Up, Meta+Ctrl+!
 
-[] Set up kitty
+### Set up kitty
 - install kitty
 - set it as default terminal emulator
 - install zsh
