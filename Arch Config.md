@@ -4,8 +4,7 @@ archinstall stuff
 [] NVDIA drivers
 ## Appearance 
 **Plasma Theme**
-
-[] change Plasma theme
+- 
 - Breeze Dark
 - Animation speed changes
 - clicking files selects them (double click) 
