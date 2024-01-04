@@ -19,7 +19,7 @@ archinstall stuff
 
 ### Set up Virtual Desktops
 
-[] Window Management
+### Window Management
 - Task Switcher: Thumbnail Grid 
 - KWin Scripts: MinimizeAll
 - Window Rules: Firefox 
