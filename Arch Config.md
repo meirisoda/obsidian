@@ -1,13 +1,10 @@
 archinstall stuff
 
-configurations:
-[] network configuration (wctl) 
-- include vpns (mullvad) 
-- Case Wifi
-- Home Wifi 
-
 [] pipewire
 [] NVDIA drivers
+## Appearance 
+**Plasma Theme**
+
 [] change Plasma theme
 - Breeze Dark
 - Animation speed changes
