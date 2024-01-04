@@ -4,7 +4,12 @@ archinstall stuff
 [] NVDIA drivers
 ## Appearance 
 **Plasma Theme**
-- 
+- Breeze Dark or Light
+- Add Virtual Desktops 
+- Change animation speed 
+- Clicking files selects them 
+- Application Style: Fusion
+- Colors
 - Breeze Dark
 - Animation speed changes
 - clicking files selects them (double click) 
