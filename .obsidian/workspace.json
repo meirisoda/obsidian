@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c9eb1e1d780f47f8",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "3858018ceb398ee0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Learning/CS50/lecture1-notes.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ab5af0523d0cedb5",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "3e81e3bbb57fa657",
@@ -51,8 +33,12 @@
             "id": "8a8d7176373c367c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arch Config.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -116,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/CS50/lecture1-notes.pdf"
+                "file": "Arch Config.md"
               }
             }
           }
@@ -140,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/CS50/lecture1-notes.pdf",
+                "file": "Arch Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/CS50/lecture1-notes.pdf",
+                "file": "Arch Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,14 +181,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "8a8d7176373c367c",
   "lastOpenFiles": [
+    "Learning/CS50/lecture1-notes.pdf",
+    "Arch Config.md",
     "School_Spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "School_Spring2024/NURS343_Ethics/Nursing Ethics Across the Curriculum and Into Practice -- Janie B. Butts, Karen L. Rich -- Across the Curriculum and Into Practice, 6th, 2022 -- 9781284259247 -- de7354f18e518c4feb909cc1e65dcf931 -- Anna’s Archive.epub",
     "School_Spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "Learning/CS/JavaScript.md",
     "Learning/CS50/Lecture 1 Notes.md",
-    "Learning/CS50/lecture1-notes.pdf",
     "Learning/CS50/lecture1.pdf",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231218182936.png",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231218182900.png",
@@ -214,7 +201,6 @@
     "School_Fall2023/ARTS365B/References/Structure as Space\nEngineering and Architecture in the Works of Jurg Conzett and His Partners.pdf",
     "School_Fall2023/ARTS365B/References/Heterotopias 002.pdf",
     "School_Fall2023/ARTS365B/References/Defining Digital Space Through a Visual Language.pdf",
-    "School_Fall2023/ARTS365B/References/Architectonics of Game Spaces The Spatial Logic of the Virtual and Its Meaning for the Real.pdf",
     "School_Fall2023/ARTS365B/Pasted image 20231218182936.png",
     "School_Fall2023/ARTS365B/Pasted image 20231218182900.png",
     "School_Fall2023/ARTS365B/Pasted image 20231218182819.png",
@@ -233,7 +219,6 @@
     "Web View.md",
     "School_Fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "School_Fall2023/NTRN201/My Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
-    "Untitled.md",
     "Untitled 1.md",
     "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
