@@ -46,6 +46,9 @@ archinstall stuff
 	Switch One Desktop to the Right: Meta+Ctrl+Right, Meta+Ctrl+1
 	Switch One Desktop Up: Meta+Ctrl+Up, Meta+Ctrl+!
 
+
+## Packages
+
 ### Set up kitty
 - install kitty
 - set it as default terminal emulator
@@ -53,11 +56,9 @@ archinstall stuff
 - ohmyzsh
 - p10k
 - configure theme 
-
-[] configure git 
+### configure git 
 - configure ssh and public/private keys 
 - ssh-keygen
 https://stackoverflow.com/questions/5851966/moving-a-git-repo-to-a-second-computer
 https://stackoverflow.com/questions/26021582/moving-repo-to-another-computer/26029296#26029296
-
 ### macros -- macro.yaml
