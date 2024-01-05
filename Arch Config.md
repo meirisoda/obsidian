@@ -53,6 +53,18 @@ Bitwarden
 Blender
 btop
 Calibre
+dconf
+discord
+electron
+flameshot
+gimp
+glib
+chrome
+gtk
+ibus
+inkscape
+kitty
+kvantu
 ### Set up kitty
 - install kitty
 - set it as default terminal emulator
