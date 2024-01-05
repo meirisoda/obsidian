@@ -56,6 +56,7 @@ Calibre
 dconf
 discord
 electron
+firefox
 flameshot
 gimp
 glib
@@ -74,6 +75,13 @@ obsidian
 sonic pi 
 spotify
 syncthing
+tidal-hifi
+tixati
+VLC
+vscodium
+weylus
+yay
+yubico
 ### Set up kitty
 - install kitty
 - set it as default terminal emulator
