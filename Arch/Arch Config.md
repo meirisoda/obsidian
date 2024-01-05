@@ -73,6 +73,7 @@ kitty
 krita
 kvantum
 libreoffice
+localsend
 lutris
 mpv
 neofetch
@@ -80,6 +81,7 @@ obs
 obsidian
 okular
 sonic pi 
+sunvox
 spotify
 syncthing
 tidal-hifi
@@ -89,6 +91,7 @@ vscodium
 weylus
 yay
 yubico
+zoom
 ### Set up kitty
 - install kitty
 - set it as default terminal emulator
