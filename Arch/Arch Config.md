@@ -69,6 +69,7 @@ ibus
 ibus-hangul
 inkscape
 kitty
+krita
 kvantum
 libreoffice
 lutris
@@ -76,6 +77,7 @@ mpv
 neofetch
 obs
 obsidian
+okular
 sonic pi 
 spotify
 syncthing
