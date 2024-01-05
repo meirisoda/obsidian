@@ -60,10 +60,13 @@ electron
 firefox
 flameshot
 gimp
+git
 glib
+greetd
 chrome
 gtk
 ibus
+ibus-hangul
 inkscape
 kitty
 kvantum
