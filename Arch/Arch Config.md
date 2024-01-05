@@ -68,6 +68,7 @@ gtk
 ibus
 ibus-hangul
 inkscape
+kime
 kitty
 krita
 kvantum
