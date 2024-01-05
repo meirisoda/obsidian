@@ -64,7 +64,16 @@ gtk
 ibus
 inkscape
 kitty
-kvantu
+kvantum
+libreoffice
+lutris
+mpv
+neofetch
+obs
+obsidian
+sonic pi 
+spotify
+syncthing
 ### Set up kitty
 - install kitty
 - set it as default terminal emulator
