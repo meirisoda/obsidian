@@ -55,6 +55,7 @@ btop
 Calibre
 dconf
 discord
+dolphin
 electron
 firefox
 flameshot
