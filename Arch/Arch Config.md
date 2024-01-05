@@ -95,3 +95,4 @@ yubico
 https://stackoverflow.com/questions/5851966/moving-a-git-repo-to-a-second-computer
 https://stackoverflow.com/questions/26021582/moving-repo-to-another-computer/26029296#26029296
 ### macros -- macro.yaml
+ch57x-keyboard-tool

@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zshrc.md",
+                "file": "Arch/Arch Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zshrc.md"
+                "file": "Arch/Arch Config.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zshrc.md",
+                "file": "Arch/Arch Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zshrc.md",
+                "file": "Arch/Arch Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +207,8 @@
   },
   "active": "93cd540d6cb84a0b",
   "lastOpenFiles": [
-    "Arch/p10k.md",
     "zshrc.md",
+    "Arch/p10k.md",
     "Arch/Arch Config.md",
     "Arch",
     "Learning/CS50/lecture1-notes.pdf",
