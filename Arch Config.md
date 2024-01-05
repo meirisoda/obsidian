@@ -50,7 +50,9 @@ archinstall stuff
 ## Packages
 Audacity
 Bitwarden
-Blend
+Blender
+btop
+Calibre
 ### Set up kitty
 - install kitty
 - set it as default terminal emulator
