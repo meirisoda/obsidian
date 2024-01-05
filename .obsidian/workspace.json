@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p10k.md",
+                "file": "Arch/p10k.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93cd540d6cb84a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zshrc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p10k.md"
+                "file": "zshrc.md"
               }
             }
           }
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "p10k.md",
+                "file": "zshrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "p10k.md",
+                "file": "zshrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,10 +205,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ee25504f12847e29",
+  "active": "93cd540d6cb84a0b",
   "lastOpenFiles": [
+    "Arch/p10k.md",
+    "zshrc.md",
     "Arch/Arch Config.md",
-    "p10k.md",
     "Arch",
     "Learning/CS50/lecture1-notes.pdf",
     "School_Spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
@@ -242,7 +255,6 @@
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Spring2024/Spring 2024 Plan.md",
     "School_Spring2024/README.md",
-    "school/Spring 2024 Plan.md",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
