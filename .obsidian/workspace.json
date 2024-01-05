@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch/Arch Config.md"
+                "file": "Learning/CS50/Lecture 1 Notes.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch/Arch Config.md",
+                "file": "Learning/CS50/Lecture 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch/Arch Config.md",
+                "file": "Learning/CS50/Lecture 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
