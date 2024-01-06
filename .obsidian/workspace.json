@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/Arch Config.md",
+                "file": "Arch/Arch Config (nevermind).md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/Arch Config.md",
+                "file": "Arch/Arch Config (nevermind).md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/CS50/Lecture 1 Notes.md"
+                "file": "Arch/Arch Config (nevermind).md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/CS50/Lecture 1 Notes.md",
+                "file": "Arch/Arch Config (nevermind).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/CS50/Lecture 1 Notes.md",
+                "file": "Arch/Arch Config (nevermind).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,18 +205,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "93cd540d6cb84a0b",
   "lastOpenFiles": [
+    "Learning/CS50/Lecture 1 Notes.md",
     "Arch/zshrc.md",
     "Arch/p10k.md",
-    "Arch/Arch Config.md",
+    "Arch/Arch Config (nevermind).md",
     "Arch",
     "Learning/CS50/lecture1-notes.pdf",
     "School_Spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "School_Spring2024/NURS343_Ethics/Nursing Ethics Across the Curriculum and Into Practice -- Janie B. Butts, Karen L. Rich -- Across the Curriculum and Into Practice, 6th, 2022 -- 9781284259247 -- de7354f18e518c4feb909cc1e65dcf931 -- Anna’s Archive.epub",
     "School_Spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "Learning/CS/JavaScript.md",
-    "Learning/CS50/Lecture 1 Notes.md",
     "Learning/CS50/lecture1.pdf",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231218182936.png",
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231218182900.png",
