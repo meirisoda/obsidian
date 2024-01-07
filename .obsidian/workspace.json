@@ -52,21 +52,27 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "25403aa03c13add6",
+        "type": "tabs",
+        "children": [
           {
-            "id": "93cd540d6cb84a0b",
+            "id": "cc6b3b5c5a959882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Laptop/Untitled.md",
+                "file": "New Laptop/Nix.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Laptop/Untitled.md"
+                "file": "New Laptop/Nix.md"
               }
             }
           }
@@ -150,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Laptop/Untitled.md",
+                "file": "New Laptop/Nix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Laptop/Untitled.md",
+                "file": "New Laptop/Nix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +211,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "93cd540d6cb84a0b",
+  "active": "cc6b3b5c5a959882",
   "lastOpenFiles": [
     "New Laptop/Arch Config (nevermind).md",
-    "New Laptop/Untitled.md",
+    "New Laptop/Nix.md",
     "Learning/CS50/Lecture 1 Notes.md",
     "New Laptop/zshrc.md",
     "New Laptop/p10k.md",
