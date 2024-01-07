@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/Arch Config (nevermind).md",
+                "file": "New Laptop/Arch Config (nevermind).md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/p10k.md",
+                "file": "New Laptop/p10k.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/Arch Config (nevermind).md",
+                "file": "New Laptop/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch/Arch Config (nevermind).md"
+                "file": "New Laptop/Untitled.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch/Arch Config (nevermind).md",
+                "file": "New Laptop/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch/Arch Config (nevermind).md",
+                "file": "New Laptop/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,11 +207,12 @@
   },
   "active": "93cd540d6cb84a0b",
   "lastOpenFiles": [
+    "New Laptop/Arch Config (nevermind).md",
+    "New Laptop/Untitled.md",
     "Learning/CS50/Lecture 1 Notes.md",
-    "Arch/zshrc.md",
-    "Arch/p10k.md",
-    "Arch/Arch Config (nevermind).md",
-    "Arch",
+    "New Laptop/zshrc.md",
+    "New Laptop/p10k.md",
+    "New Laptop",
     "Learning/CS50/lecture1-notes.pdf",
     "School_Spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "School_Spring2024/NURS343_Ethics/Nursing Ethics Across the Curriculum and Into Practice -- Janie B. Butts, Karen L. Rich -- Across the Curriculum and Into Practice, 6th, 2022 -- 9781284259247 -- de7354f18e518c4feb909cc1e65dcf931 -- Anna’s Archive.epub",
@@ -254,7 +255,6 @@
     "School_Fall2023/PSCL389/EXAM2/12 Reading Notes.md",
     "School_Fall2023/NTRN201/My Notes/Module 10 - Vitamins and Minerals.md",
     "School_Spring2024/Spring 2024 Plan.md",
-    "School_Spring2024/README.md",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
