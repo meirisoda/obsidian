@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Laptop/Nix.md"
+                "file": "New Laptop/Arch Config (nevermind).md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Laptop/Nix.md",
+                "file": "New Laptop/Arch Config (nevermind).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Laptop/Nix.md",
+                "file": "New Laptop/Arch Config (nevermind).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,15 +202,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc6b3b5c5a959882",
+  "active": "8a8d7176373c367c",
   "lastOpenFiles": [
+    "New Laptop/Nix.md",
     "School_Spring2024/OCCP/OCCP Project Descriptions Booklet _Spring 2024.pdf",
     "School_Spring2024/OCCP",
     "New Laptop/Arch Config (nevermind).md",
-    "New Laptop/Nix.md",
     "Learning/CS50/Lecture 1 Notes.md",
     "New Laptop/zshrc.md",
     "New Laptop/p10k.md",
@@ -228,7 +230,6 @@
     "School_Fall2023/ARTS365B/Pasted Images/Pasted image 20231217222502.png",
     "School_Fall2023/ARTS365B/References/The intelligent use of space.pdf",
     "School_Fall2023/ARTS365B/References/The Art of Structures_\nAurelio Mu�ni.pdf",
-    "School_Fall2023/ARTS365B/References/Structure as Space\nEngineering and Architecture in the Works of Jurg Conzett and His Partners.pdf",
     "School_Fall2023/ARTS365B/Pasted image 20231218182936.png",
     "School_Fall2023/ARTS365B/Pasted image 20231218182900.png",
     "School_Fall2023/ARTS365B/Pasted image 20231218182819.png",
