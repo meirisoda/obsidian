@@ -70,7 +70,7 @@ body {
   
   .theme-light {
 	--background-primary: #ffffff;
-	--background-secondary: #e2e2e2;
+	--background-secondary: #f5f5f5;
   --h1-color:                      var(--red);
     --h2-color:                      var(--yellow);
     --h3-color:                      var(--green);
