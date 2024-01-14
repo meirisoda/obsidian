@@ -11,8 +11,10 @@
             "id": "ba4b50def9d3bf51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/OCCP/OCCP Project Descriptions Booklet _Spring 2024.pdf"
+              }
             }
           }
         ]
@@ -74,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school_spring2024/OCCP/OCCP Project Descriptions Booklet _Spring 2024.pdf"
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school_spring2024/OCCP/OCCP Project Descriptions Booklet _Spring 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school_spring2024/OCCP/OCCP Project Descriptions Booklet _Spring 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +158,9 @@
   },
   "active": "ba4b50def9d3bf51",
   "lastOpenFiles": [
+    "school_spring2024/Spring 2024 Plan.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
-    "school_spring2024/Spring 2024 Plan.md",
     "New Laptop/Nix.md",
     "school_spring2024/ACEMAPP Practicum Survey.pdf",
     "Learning/CS50/Lecture 1 Notes.md",
@@ -206,7 +212,6 @@
     "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
     "Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
-    "School/Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
-    "School/NTRN201/MIDTERM/Midterm Study Gu.canvas"
+    "School/Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas"
   ]
 }
