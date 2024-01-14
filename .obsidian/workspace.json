@@ -4,81 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ab5af0523d0cedb5",
+        "id": "7bd6ae53fe09f733",
         "type": "tabs",
         "children": [
           {
-            "id": "3e81e3bbb57fa657",
+            "id": "ba4b50def9d3bf51",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/ACEMAPP Practicum Survey.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "25403aa03c13add6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc6b3b5c5a959882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Laptop/Nix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2b2f58648016317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/Spring 2024 Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e722a21c4236ae80",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
-                "viewState": {
-                  "x": 1254.9530947134494,
-                  "y": 103.94007449704011,
-                  "zoom": -1.3476297777358952
-                }
-              }
-            }
-          },
-          {
-            "id": "f49fd808007117e2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
-                "viewState": {
-                  "x": 98.00282185753804,
-                  "y": 409.0170704567341,
-                  "zoom": -1.2727676583847916
-                }
-              }
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,9 +150,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f49fd808007117e2",
+  "active": "ba4b50def9d3bf51",
   "lastOpenFiles": [
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+    "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/Spring 2024 Plan.md",
     "New Laptop/Nix.md",
     "school_spring2024/ACEMAPP Practicum Survey.pdf",
