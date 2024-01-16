@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf"
+                "file": "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf"
               }
             }
           }
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +166,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba4b50def9d3bf51",
+  "active": "08c354630a8e1e36",
   "lastOpenFiles": [
-    "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
+    "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day6/Chapter_026-marketing.pdf",
     "school_spring2024/NURS341_Leadership/Day6/Chapter_019-measuring and managing outcomes - Tagged.pdf",
