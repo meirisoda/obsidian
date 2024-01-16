@@ -23,9 +23,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/Untitled.md",
+                "file": "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes sad.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b2001255d42913",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf"
               }
             }
           },
@@ -40,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/Untitled.md"
+                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf"
               }
             }
           }
@@ -124,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/Untitled.md",
+                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/Untitled.md",
+                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,12 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f008f5b0232ff8a",
+  "active": "c7b2001255d42913",
   "lastOpenFiles": [
-    "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
-    "school_spring2024/NURS341_Leadership/Day1/Untitled.md",
-    "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
+    "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes sad.md",
     "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
+    "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
+    "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day6/Chapter_026-marketing.pdf",
     "school_spring2024/NURS341_Leadership/Day6/Chapter_019-measuring and managing outcomes - Tagged.pdf",
@@ -192,7 +202,6 @@
     "school_spring2024/NURS341_Leadership/Day6/Chapter_015-professional practice model.pdf",
     "school_spring2024/NURS341_Leadership/Day6/Chapter_012-organizational structure.pdf",
     "school_spring2024/NURS341_Leadership/Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf",
-    "school_spring2024/NURS341_Leadership/Day6/4-Finkelman4e_ch04_lecture-2023.pdf",
     "school_spring2024/NURS341_Leadership/Leadership Reflection.md",
     "school_spring2024/Spring 2024 Plan.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
