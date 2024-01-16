@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d33010abc5147d46",
@@ -57,7 +58,7 @@
       {
         "id": "7e4bfa7879b3e6bf",
         "type": "tabs",
-        "dimension": 61.171875,
+        "dimension": 55.60307955517536,
         "children": [
           {
             "id": "4b9202fd502981f0",
@@ -97,7 +98,7 @@
       {
         "id": "554ce12d5fd45a5b",
         "type": "tabs",
-        "dimension": 38.828125,
+        "dimension": 44.39692044482464,
         "children": [
           {
             "id": "290fa00842b7a652",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341 Delegation & Supervision 2024.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes.md"
               }
             }
           }
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341 Delegation & Supervision 2024.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341 Delegation & Supervision 2024.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +185,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7684e2f757e1050a",
+  "active": "39856137d148731a",
   "lastOpenFiles": [
-    "school_spring2024/NURS341_Leadership/Day1/Chapter 15-Delegation-Finkle-1.pdf",
     "school_spring2024/NURS341_Leadership/Day1/NURS 341 Delegation & Supervision 2024.pdf",
+    "school_spring2024/NURS341_Leadership/Day1/Chapter 15-Delegation-Finkle-1.pdf",
     "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes.md",
     "school_spring2024/NURS341_Leadership/Day1/Chapter_002-change innovation.pdf",
     "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
