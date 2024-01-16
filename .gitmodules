@@ -2,8 +2,8 @@
 	path = notebook
 	url = git@github.com:meirisoda/notebook.git
 [submodule "School_Fall2023"]
-	path = School_Fall2023
+	path = school_fall2023
 	url = git@github.com:meirisoda/school_fall2023.git
 [submodule "School_Spring2024"]
-	path = School_Spring2024
+	path = school_spring2024
 	url = git@github.com:meirisoda/school_spring2024.git
