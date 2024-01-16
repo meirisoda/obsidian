@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "c7b2001255d42913",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf"
+              }
+            }
+          },
+          {
             "id": "5f008f5b0232ff8a",
             "type": "leaf",
             "state": {
@@ -26,16 +36,6 @@
                 "file": "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes sad.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c7b2001255d42913",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes sad.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes sad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes sad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,11 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7b2001255d42913",
+  "active": "5f008f5b0232ff8a",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
     "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes sad.md",
     "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
-    "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day6/Chapter_026-marketing.pdf",
