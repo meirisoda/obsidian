@@ -37,6 +37,7 @@
     --green:    rgb(var(--green_x));
     --purple_x: 180,142,173; /* #b48ead */
     --purple:   rgb(var(--purple_x));
+    
 }
 body {
 	--font-text-theme: Arial, sans-serif; 
