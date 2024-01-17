@@ -1,0 +1,4 @@
+system
+	core
+	har
+home 
