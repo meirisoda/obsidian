@@ -59,6 +59,16 @@
             }
           },
           {
+            "id": "ba8faa39cc148186",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf"
+              }
+            }
+          },
+          {
             "id": "33b29c41f6ebbc06",
             "type": "leaf",
             "state": {
@@ -70,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Poster Presentation.md"
+                "file": "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf"
               }
             }
           }
@@ -154,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Poster Presentation.md",
+                "file": "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Poster Presentation.md",
+                "file": "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +220,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39856137d148731a",
+  "active": "ba8faa39cc148186",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Poster Presentation.md",
     "school_spring2024/NURS341_Leadership/Day2/Chapter_010-power and conflict.pdf",
     "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
@@ -220,7 +232,6 @@
     "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf",
     "Nix structure.md",
-    "school_spring2024/NURS341_Leadership/Poster Presentation.md",
     "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes.md",
     "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day1/NURS 341 Delegation & Supervision 2024.pdf",
