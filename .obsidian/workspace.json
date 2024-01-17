@@ -28,16 +28,6 @@
             }
           },
           {
-            "id": "1e2677550b53b95b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf"
-              }
-            }
-          },
-          {
             "id": "5e442d4251464356",
             "type": "leaf",
             "state": {
@@ -50,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "d33010abc5147d46",
@@ -141,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nix structure.md"
+                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf"
               }
             }
           }
@@ -165,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nix structure.md",
+                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nix structure.md",
+                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +210,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e442d4251464356",
+  "active": "e1669d8134bceb87",
   "lastOpenFiles": [
     "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf",
     "Nix structure.md",
@@ -236,7 +226,6 @@
     "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
     "school_spring2024/NURS341_Leadership/Day1/Chapter_001-principles.pdf",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
-    "school_spring2024/NURS341_Leadership/Day6/Chapter_026-marketing.pdf",
     "school_spring2024/NURS341_Leadership/Leadership Reflection.md",
     "school_spring2024/Spring 2024 Plan.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
