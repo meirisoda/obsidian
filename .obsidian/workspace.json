@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "01b9c4ac13a63d42",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
+              }
+            }
+          },
+          {
             "id": "f69cd90a532c8f71",
             "type": "leaf",
             "state": {
@@ -68,19 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01b9c4ac13a63d42",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
