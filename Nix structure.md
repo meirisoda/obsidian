@@ -4,7 +4,9 @@ system
 		- security.nix
 		- boot.nix
 	hardware
-	network
+		bluetooth.nix
+		opengl.nix
+	network (include ssh and network manager options)
 	programs
 	nix
 home 
