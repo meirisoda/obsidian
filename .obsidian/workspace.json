@@ -26,8 +26,19 @@
                 "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf"
               }
             }
+          },
+          {
+            "id": "1e2677550b53b95b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d33010abc5147d46",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf"
               }
             }
           }
@@ -142,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,15 +208,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08c354630a8e1e36",
+  "active": "1e2677550b53b95b",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf",
+    "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day2/Day 2 Notes.md",
     "school_spring2024/NURS341_Leadership/Poster Presentation.md",
     "school_spring2024/NURS341_Leadership/Day1/Day 1 Notes.md",
-    "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day1/NURS 341 Delegation & Supervision 2024.pdf",
-    "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day1/Chapter 15-Delegation-Finkle-1.pdf",
     "school_spring2024/NURS341_Leadership/Day1/Chapter_002-change innovation.pdf",
     "school_spring2024/NURS341_Leadership/Day1/NURS 341-Intro slides-Day 1 2024.pdf",
@@ -248,7 +259,6 @@
     "Untitled 1.md",
     "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
-    "School_Fall2023/PSCL389/EXAM1/EXAM 1.md",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
