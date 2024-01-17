@@ -36,9 +36,21 @@
                 "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf"
               }
             }
+          },
+          {
+            "id": "5e442d4251464356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d33010abc5147d46",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf"
+                "file": "Untitled.md"
               }
             }
           }
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e2677550b53b95b",
+  "active": "5e442d4251464356",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Day2/Chapter_008-communication.pdf",
+    "Untitled.md",
     "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341-week one-daily schedule - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day2/Day 2 Notes.md",
@@ -258,7 +272,6 @@
     "School_Fall2023/NTRN201/My Notes/Module 11 - Micronutrients in Energy and Amino Acid Metabolism.md",
     "Untitled 1.md",
     "School_Fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
-    "School_Fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
