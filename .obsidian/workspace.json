@@ -6,6 +6,7 @@
       {
         "id": "7bd6ae53fe09f733",
         "type": "tabs",
+        "dimension": 17.756410256410255,
         "children": [
           {
             "id": "01b9c4ac13a63d42",
@@ -44,6 +45,7 @@
       {
         "id": "d33010abc5147d46",
         "type": "tabs",
+        "dimension": 82.24358974358974,
         "children": [
           {
             "id": "39856137d148731a",
@@ -79,13 +81,28 @@
                 "viewState": {
                   "x": 290.5,
                   "y": 430,
-                  "zoom": -2.5035118308006847
+                  "zoom": -1.0035118308006847
+                }
+              }
+            }
+          },
+          {
+            "id": "60d7fad4ef24c2ed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "viewState": {
+                  "x": -699.5,
+                  "y": 300,
+                  "zoom": -1.428649711449581
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas"
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
               }
             }
           }
@@ -169,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,8 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2ee5692119904da",
+  "active": "60d7fad4ef24c2ed",
   "lastOpenFiles": [
+    "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+    "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/Day2/Day 2 Notes.md",
     "school_spring2024/NURS341_Leadership/Poster Presentation.md",
     "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
@@ -242,8 +261,6 @@
     "school_spring2024/NURS341_Leadership/Day1/Chapter 15-Delegation-Finkle-1.pdf",
     "school_spring2024/NURS341_Leadership/Leadership Reflection.md",
     "school_spring2024/Spring 2024 Plan.md",
-    "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
-    "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "New Laptop/Nix.md",
     "Learning/CS50/Lecture 1 Notes.md",
     "New Laptop/Arch Config (nevermind).md",
