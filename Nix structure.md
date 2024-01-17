@@ -1,4 +1,10 @@
 system
 	core
-	har
+		default nix
+		- security.nix
+		- boot.nix
+	hardware
+	network
+	programs
+	nix
 home 
