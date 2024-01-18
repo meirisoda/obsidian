@@ -8,12 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01b9c4ac13a63d42",
+            "id": "a9eae1186a1e8b74",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
+              }
+            }
+          },
+          {
+            "id": "01b9c4ac13a63d42",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Day3/Chapter_006-role management.pdf"
               }
             }
           },
@@ -39,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Day3/Chapter_006-role management.pdf"
               }
             }
           }
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Day3/Chapter_006-role management.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Day3/Chapter_006-role management.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,11 +191,12 @@
   },
   "active": "01b9c4ac13a63d42",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
+    "school_spring2024/NURS341_Leadership/Day3/Chapter_006-role management.pdf",
     "school_spring2024/NURS341_Leadership/Poster Presentation.md",
     "school_spring2024/NURS341_Leadership/Day2/Day 2 Notes.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
-    "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Day2/Chapter_010-power and conflict.pdf",
     "school_spring2024/NURS341_Leadership/Day2/Chapter_004managerial decision making.pdf",
