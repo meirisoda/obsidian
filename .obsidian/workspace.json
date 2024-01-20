@@ -45,8 +45,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48f9cdd3268a62d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 2/Day 2 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09137d571c4d3e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 10_Power and Conflict.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md"
+                "file": "Chapter 10_Power and Conflict.md"
               }
             }
           }
@@ -130,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
+                "file": "Chapter 10_Power and Conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
+                "file": "Chapter 10_Power and Conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +210,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9eae1186a1e8b74",
+  "active": "09137d571c4d3e8c",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Week 1_Day 2/Day 2 Notes.md",
+    "Chapter 10_Power and Conflict.md",
+    "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 2/Chapter_010-power and conflict.pdf",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
-    "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
     "school_spring2024/NURS341_Leadership/Assignments/Leadership Reflection.md",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
     "school_spring2024/NURS341_Leadership/Leadership Reflection.pdf",
@@ -201,7 +228,6 @@
     "Nix structure.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_006-role management.pdf",
     "school_spring2024/NURS341_Leadership/Poster Presentation.md",
-    "school_spring2024/NURS341_Leadership/Week 1_Day 2/Day 2 Notes.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/NURS 341 - SYLLABUS - Spring 2024- V1 12.23-AMK - Tagged.pdf",
