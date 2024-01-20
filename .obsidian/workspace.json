@@ -57,8 +57,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54f8d7f55ce58044",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md"
+                "file": "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf"
               }
             }
           }
@@ -142,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
+                "file": "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
+                "file": "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +208,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9eae1186a1e8b74",
+  "active": "54f8d7f55ce58044",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
     "school_spring2024/NURS341_Leadership/_Pasted Image/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/_Pasted Image/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/_Pasted Image/Pasted image 20240119210324.png",
@@ -211,7 +223,6 @@
     "school_spring2024/NURS341_Leadership/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/Pasted image 20240119210324.png",
     "school_spring2024/Pasted image 20240119211226.png",
-    "school_spring2024/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/Assignments/PDFs/Mini Case Study 1.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/PDFs/Conflict Resolution Reflection.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/PDFs",
@@ -220,7 +231,6 @@
     "school_spring2024/NURS341_Leadership/Mini Case Study 1.pdf",
     "school_spring2024/NURS341_Leadership/Conflict Resolution Reflection.pdf",
     "school_spring2024/NURS341_Leadership/Week 1_Day 2/Chapter_010-power and conflict.pdf",
-    "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
     "school_spring2024/Spring 2024 Plan.md",
     "school_spring2024/README.md",
