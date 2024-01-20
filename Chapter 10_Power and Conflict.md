@@ -8,3 +8,6 @@ The consequence of either experienced or perceived variations in common goals, v
 ## Outcomes of Conflict
 Decreased attention to patient care, employee satisfaction and morale, and increased turnover rates. 
 **Dysfunctional organizational culture**, which stifles change, innovastion and organizational effectiveness. 
+## Types of Conflict
+### Organizational Conflict
+The struggle over scarce organizational resou
