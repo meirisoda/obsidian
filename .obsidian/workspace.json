@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd6ae53fe09f733",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea253e5d09bcc18a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "93388b109ff630b0",
         "type": "tabs",
         "children": [
