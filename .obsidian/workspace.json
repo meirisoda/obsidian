@@ -26,9 +26,21 @@
                 "file": "school_spring2024/NURS341_Leadership/Week 1_Day 2/Chapter_010-power and conflict.pdf"
               }
             }
+          },
+          {
+            "id": "2142243ef2fb5a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "93388b109ff630b0",
@@ -41,18 +53,6 @@
               "type": "markdown",
               "state": {
                 "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2142243ef2fb5a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md"
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9eae1186a1e8b74",
+  "active": "2142243ef2fb5a5d",
   "lastOpenFiles": [
+    "school_spring2024/Spring 2024 Plan.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
+    "school_spring2024/README.md",
     "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 2/Day 2 Notes.md",
     "Chapter 10_Power and Conflict.md",
@@ -222,7 +224,6 @@
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Day 1 Notes.md",
-    "school_spring2024/Spring 2024 Plan.md",
     "New Laptop/Nix.md",
     "Learning/CS50/Lecture 1 Notes.md",
     "New Laptop/Arch Config (nevermind).md",
@@ -246,7 +247,6 @@
     "notebook/What do I want to do?.md",
     "School_Fall2023/NURS360/Final Assignment.md",
     "Learning/JS AGAIN/I wanna scream.md",
-    "School_Fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
