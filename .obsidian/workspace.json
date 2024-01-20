@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md"
               }
             }
           }
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +207,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54f8d7f55ce58044",
+  "active": "a9eae1186a1e8b74",
   "lastOpenFiles": [
+    "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf",
     "school_spring2024/OCCP/Team Learning Inventory Summary Document.pdf",
     "school_spring2024/OCCP/Slides for Introduction to OCCP Teamwork Mindsets and Conceptual Frameworks.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
@@ -231,7 +231,6 @@
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.pdf",
     "school_spring2024/NURS341_Leadership/Mini Case Study 1.pdf",
-    "school_spring2024/NURS341_Leadership/Conflict Resolution Reflection.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
     "school_spring2024/Spring 2024 Plan.md",
     "school_spring2024/README.md",
