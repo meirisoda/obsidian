@@ -7,4 +7,4 @@ A process that begins when one party perceives that another party has negatively
 The consequence of either experienced or perceived variations in common goals, values, ideas, attitudes, beliefs, feelings or actions. 
 ## Outcomes of Conflict
 Decreased attention to patient care, employee satisfaction and morale, and increased turnover rates. 
-**Dysfunctional organizatio**
+**Dysfunctional organizational culture**, which stifles change, innovastion and organizational effectiveness. 
