@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "4c2268ab799d68fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "54f8d7f55ce58044",
             "type": "leaf",
             "state": {
@@ -45,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md"
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md"
               }
             }
           }
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9eae1186a1e8b74",
+  "active": "4c2268ab799d68fc",
   "lastOpenFiles": [
-    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 2/Chapter_010-power and conflict.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
