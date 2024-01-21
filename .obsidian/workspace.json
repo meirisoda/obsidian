@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "972b35e9b208184d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf"
+              }
+            }
+          },
+          {
             "id": "4c2268ab799d68fc",
             "type": "leaf",
             "state": {
@@ -55,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf"
+                "file": "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf"
               }
             }
           }
@@ -139,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +205,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "972b35e9b208184d",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf",
     "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS380_Practicum/McConnell",
@@ -219,7 +231,6 @@
     "school_spring2024/NURS341_Leadership/Pasted image 20240119210324.png",
     "school_spring2024/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/Assignments/PDFs/Mini Case Study 1.pdf",
-    "school_spring2024/NURS341_Leadership/Assignments/PDFs/Conflict Resolution Reflection.pdf",
     "school_spring2024/Spring 2024 Plan.md",
     "school_spring2024/README.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 2/Day 2 Notes.md",
