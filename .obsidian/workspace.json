@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +222,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0ae6ec344123827",
+  "active": "ac5bafbd5a2cd8ba",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation",
+    "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
     "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf",
     "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
     "school_spring2024/NURS380_Practicum/ACFrOgCMj4SeX6T_yDWVAvoOYvipY2r2Nibj0izxtM9iauveqSlfnnmEb88sSyPaI8NWyGvxw8DFOgiIUcCzSyNMB-FxhaCNTU3mbl8edLtx1iK0QSZUxDHcRbdD4iO7AwMBZ10k76Czl8T5nZET.pdf",
@@ -244,7 +242,6 @@
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119210324.png",
-    "school_spring2024/NURS341_Leadership/_Pasted Images",
     "school_spring2024/NURS341_Leadership/Pasted Image/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/Pasted Image/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/Pasted Image/Pasted image 20240119210324.png",
@@ -261,7 +258,6 @@
     "school_spring2024/NURS341_Leadership/Assignments/Leadership Reflection.md",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
     "Nix structure.md",
-    "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Day 1 Notes.md",
