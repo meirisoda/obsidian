@@ -16,8 +16,17 @@
                 "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf"
               }
             }
+          },
+          {
+            "id": "ac5bafbd5a2cd8ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "93388b109ff630b0",
@@ -30,6 +39,18 @@
               "type": "pdf",
               "state": {
                 "file": "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf"
+              }
+            }
+          },
+          {
+            "id": "c0ae6ec344123827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md"
               }
             }
           }
@@ -150,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,12 +226,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "972b35e9b208184d",
+  "active": "c0ae6ec344123827",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/ACFrOgCMj4SeX6T_yDWVAvoOYvipY2r2Nibj0izxtM9iauveqSlfnnmEb88sSyPaI8NWyGvxw8DFOgiIUcCzSyNMB-FxhaCNTU3mbl8edLtx1iK0QSZUxDHcRbdD4iO7AwMBZ10k76Czl8T5nZET.pdf",
-    "school_spring2024/ACFrOgCMj4SeX6T_yDWVAvoOYvipY2r2Nibj0izxtM9iauveqSlfnnmEb88sSyPaI8NWyGvxw8DFOgiIUcCzSyNMB-FxhaCNTU3mbl8edLtx1iK0QSZUxDHcRbdD4iO7AwMBZ10k76Czl8T5nZET.pdf",
     "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf",
     "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
+    "school_spring2024/NURS380_Practicum/ACFrOgCMj4SeX6T_yDWVAvoOYvipY2r2Nibj0izxtM9iauveqSlfnnmEb88sSyPaI8NWyGvxw8DFOgiIUcCzSyNMB-FxhaCNTU3mbl8edLtx1iK0QSZUxDHcRbdD4iO7AwMBZ10k76Czl8T5nZET.pdf",
+    "school_spring2024/ACFrOgCMj4SeX6T_yDWVAvoOYvipY2r2Nibj0izxtM9iauveqSlfnnmEb88sSyPaI8NWyGvxw8DFOgiIUcCzSyNMB-FxhaCNTU3mbl8edLtx1iK0QSZUxDHcRbdD4iO7AwMBZ10k76Czl8T5nZET.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS380_Practicum/McConnell",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
@@ -240,7 +261,7 @@
     "school_spring2024/NURS341_Leadership/Assignments/Leadership Reflection.md",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
     "Nix structure.md",
-    "school_spring2024/NURS341_Leadership/Poster Presentation.md",
+    "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Day 1 Notes.md",
