@@ -21,8 +21,10 @@
             "id": "ac5bafbd5a2cd8ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/196-Article Text-648-1-10-20220531.pdf"
+              }
             }
           }
         ],
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md"
+              }
             }
           }
         ]
@@ -169,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +228,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac5bafbd5a2cd8ba",
+  "active": "c0ae6ec344123827",
   "lastOpenFiles": [
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/196-Article Text-648-1-10-20220531.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation",
