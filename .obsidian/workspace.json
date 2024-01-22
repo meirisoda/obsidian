@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Article/NURS 341 - RELATIONSHIP TRANSFORM LEADERSHIP and NRS RESILIENCE-JOB INVOLMT - STTI 2021.pdf"
               }
             }
           },
@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "972b35e9b208184d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf"
-              }
-            }
-          },
-          {
             "id": "4c2268ab799d68fc",
             "type": "leaf",
             "state": {
@@ -87,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md"
               }
             }
           }
@@ -172,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,19 +216,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb09c6ea71f1a5b2",
+  "active": "c0ae6ec344123827",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
+    "school_spring2024/NURS341_Leadership/Assignments/Article/NURS 341 - RELATIONSHIP TRANSFORM LEADERSHIP and NRS RESILIENCE-JOB INVOLMT - STTI 2021.pdf",
+    "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Week 2_Day5/Leadership BSN Anne 2023 fall.pdf",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
-    "school_spring2024/NURS380_Practicum/Student Clinical Information Sheet: Spring 2024.pdf",
     "school_spring2024/NURS380_Practicum/Week2/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/Week2",
     "school_spring2024/NURS380_Practicum/Week 1",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
     "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/196-Article Text-648-1-10-20220531.pdf",
-    "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
-    "school_spring2024/NURS341_Leadership/Assignments/Article/NURS 341 - RELATIONSHIP TRANSFORM LEADERSHIP and NRS RESILIENCE-JOB INVOLMT - STTI 2021.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/NURS 341 - RELATIONSHIP TRANSFORM LEADERSHIP and NRS RESILIENCE-JOB INVOLMT - STTI 2021.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
