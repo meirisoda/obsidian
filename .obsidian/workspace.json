@@ -60,11 +60,14 @@
             "id": "7884ca4a59006bdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
-                "mode": "source",
-                "source": false
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md"
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Untitled.canvas"
               }
             }
           }
@@ -165,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +225,10 @@
   },
   "active": "7884ca4a59006bdc",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
+    "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Untitled.canvas",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
-    "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240122192010.png",
@@ -275,7 +279,6 @@
     "s_f2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
-    "Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
-    "School/Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas"
+    "Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas"
   ]
 }
