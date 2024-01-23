@@ -107,8 +107,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas"
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md"
               }
             }
           }
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,12 +246,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "281a17b1e86b77a4",
+  "active": "7884ca4a59006bdc",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
-    "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
