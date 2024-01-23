@@ -21,9 +21,11 @@
             "id": "7884ca4a59006bdc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Notes/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md"
+                "file": "school_spring2024/NURS341_Leadership/Notes/Untitled.md"
               }
             }
           }
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+                "file": "school_spring2024/NURS341_Leadership/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+                "file": "school_spring2024/NURS341_Leadership/Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,11 +210,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "7884ca4a59006bdc",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
+    "school_spring2024/NURS341_Leadership/Notes/Untitled.md",
+    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
+    "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240122192010.png",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
-    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
     "school_spring2024/OCCP/Online Community Collaborative Practice Syllabus SP24.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Article/Article Review.md",
@@ -224,7 +229,6 @@
     "school_spring2024/NURS380_Practicum/Week2",
     "school_spring2024/NURS380_Practicum/Week 1",
     "school_spring2024/NURS380_Practicum/NURS 380 SP 24.pdf",
-    "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119210550.png",
@@ -235,7 +239,6 @@
     "school_spring2024/NURS341_Leadership/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/Pasted image 20240119210324.png",
-    "school_spring2024/Pasted image 20240119211226.png",
     "school_spring2024/Spring 2024 Plan.md",
     "school_spring2024/README.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 2/Day 2 Notes.md",
@@ -257,7 +260,6 @@
     "School_Fall2023/ARTS365B/Design Essay.md",
     "School_Fall2023/ARTS365B/References/Design Essay.md",
     "notebook/Lists/People.md",
-    "notebook/Thoughts/그림이란.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
