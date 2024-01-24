@@ -36,20 +36,9 @@
                 "file": "school_spring2024/NURS341_Leadership/Week 2_Day5/Leadership BSN Anne 2023 fall.pdf"
               }
             }
-          },
-          {
-            "id": "c0ae6ec344123827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "93388b109ff630b0",
@@ -68,6 +57,18 @@
             }
           },
           {
+            "id": "c0ae6ec344123827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4c2268ab799d68fc",
             "type": "leaf",
             "state": {
@@ -79,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md"
               }
             }
           }
@@ -163,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,15 +220,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "173f9b578143afb0",
+  "active": "c0ae6ec344123827",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
-    "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240122192010.png",
