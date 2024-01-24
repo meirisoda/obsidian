@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "93388b109ff630b0",
@@ -65,33 +64,6 @@
                 "file": "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "09a5648f17ed68dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "281a17b1e86b77a4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
-                "viewState": {
-                  "x": -79.7988806152344,
-                  "y": 153.44288425543368,
-                  "zoom": -0.5145916688014626
-                }
               }
             }
           },
@@ -167,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md"
+                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
               }
             }
           }
@@ -191,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
+                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
+                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,11 +218,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7884ca4a59006bdc",
+  "active": "173f9b578143afb0",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
-    "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
