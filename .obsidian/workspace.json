@@ -48,6 +48,16 @@
             }
           },
           {
+            "id": "1e0eb44412ba8861",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf"
+              }
+            }
+          },
+          {
             "id": "cf5812c2f41a6ae3",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "93388b109ff630b0",
@@ -185,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf"
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf"
               }
             }
           }
@@ -209,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf",
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,10 +274,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "675109a323282da1",
+  "active": "1e0eb44412ba8861",
   "lastOpenFiles": [
-    "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_006-role management.pdf",
     "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf",
+    "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_006-role management.pdf",
     "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
     "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_015-professional practice model.pdf",
     "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_012-organizational structure.pdf",
