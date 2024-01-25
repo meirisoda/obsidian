@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "93388b109ff630b0",
@@ -202,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf"
+              }
             }
           }
         ]
@@ -225,6 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,6 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,12 +282,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bd5ae85a03995da",
+  "active": "1e0eb44412ba8861",
   "lastOpenFiles": [
-    "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
     "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf",
-    "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_006-role management.pdf",
     "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_015-professional practice model.pdf",
+    "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
+    "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_006-role management.pdf",
     "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_012-organizational structure.pdf",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
