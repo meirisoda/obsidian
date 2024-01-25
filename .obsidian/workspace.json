@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "6733a57dec61bc4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4373c1f3a2353118",
             "type": "leaf",
             "state": {
@@ -71,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md"
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md"
               }
             }
           }
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c2268ab799d68fc",
+  "active": "6733a57dec61bc4b",
   "lastOpenFiles": [
-    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.pptx.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation Script.md",
