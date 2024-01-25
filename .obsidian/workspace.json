@@ -46,6 +46,16 @@
             }
           },
           {
+            "id": "4373c1f3a2353118",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf"
+              }
+            }
+          },
+          {
             "id": "15f61b2dd27e1797",
             "type": "leaf",
             "state": {
@@ -62,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf"
+              }
             }
           }
         ]
@@ -144,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5d1587de4fde8bb",
+  "active": "4373c1f3a2353118",
   "lastOpenFiles": [
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
