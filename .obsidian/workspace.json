@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "93388b109ff630b0",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md"
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf"
               }
             }
           }
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
+                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,8 +224,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6733a57dec61bc4b",
+  "active": "1f9541b367d90443",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
@@ -235,7 +237,6 @@
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
-    "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240122192010.png",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
