@@ -18,8 +18,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3408bd3441c29b21",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "viewState": {
+                  "x": -699.5,
+                  "y": 300,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open Book.md"
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas"
               }
             }
           }
@@ -103,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Book.md",
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open Book.md",
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +174,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5d1587de4fde8bb",
+  "active": "3408bd3441c29b21",
   "lastOpenFiles": [
+    "school_fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
+    "school_fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
+    "school_fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
+    "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
+    "Open Book.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
@@ -171,8 +192,6 @@
     "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
     "school_spring2024/NURS380_Practicum/Files/ACFrOgCMj4SeX6T_yDWVAvoOYvipY2r2Nibj0izxtM9iauveqSlfnnmEb88sSyPaI8NWyGvxw8DFOgiIUcCzSyNMB-FxhaCNTU3mbl8edLtx1iK0QSZUxDHcRbdD4iO7AwMBZ10k76Czl8T5nZET.pdf",
     "school_spring2024/NURS380_Practicum/Files",
-    "school_spring2024/NURS380_Practicum/Senior Clinical Attendance Log Revised 1_10_2021 - Tagged-1.pdf",
-    "school_spring2024/NURS341_Leadership/Assignments/Group 8 Final Case Study and Short Answer.docx.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation Script.md",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
@@ -197,7 +216,6 @@
     "school_spring2024/NURS341_Leadership/Chapter 10_Power and Conflict.md",
     "school_spring2024/Chapter 10_Power and Conflict.md",
     "school_spring2024/NURS341_Leadership/Assignments/Leadership Reflection.md",
-    "Open Book.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Day 1 Notes.md",
@@ -207,8 +225,6 @@
     "New Laptop/zshrc.md",
     "New Laptop/p10k.md",
     "Learning/CS/JavaScript.md",
-    "School_Fall2023/ARTS365B/Design Essay.md",
-    "School_Fall2023/ARTS365B/References/Design Essay.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
