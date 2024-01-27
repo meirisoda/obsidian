@@ -5,4 +5,5 @@
 | side mount switches | x1/reader       | 0.71/unit | https://www.digikey.com/en/products/detail/c-k/JS102011SAQN/1640095                                 | 1.42                |
 | SD card reader      | x1/reader       | 1.98/unit | https://www.digikey.com/en/products/detail/gct/MEM2075-00-140-01-A/9859614                          | 3.96                |
 | GD25Q16C flash chip | x1/reader       | 0.78/unit | https://www.digikey.com/en/products/detail/gigadevice-semiconductor-hk-limited/GD25Q16CTIGR/9484675 | 1.56                |
-| Battery holder      |                 | 5.80/unit |                                                                                                     |                     |
+| Battery holder      | x1/reader       | 5.80/unit | https://www.digikey.com/en/products/detail/keystone-electronics/1022/2137859                        | 11.60               |
+| d                    |                 |           |                                                                                                     |                     |
