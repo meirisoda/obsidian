@@ -1,1 +1,3 @@
-| part | quan
+| part | quantity | price | link |
+| ---- | -------- | ----- | ---- |
+|      |          |       |      |
