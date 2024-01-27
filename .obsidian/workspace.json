@@ -4,146 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e3553f72a6f553cd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "173f9b578143afb0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf"
-              }
-            }
-          },
-          {
-            "id": "1f9541b367d90443",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_002-change innovation.pdf"
-              }
-            }
-          },
-          {
-            "id": "6d3160f56eb6f82a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_006-role management.pdf"
-              }
-            }
-          },
-          {
-            "id": "675109a323282da1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf"
-              }
-            }
-          },
-          {
-            "id": "1e0eb44412ba8861",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf"
-              }
-            }
-          },
-          {
-            "id": "692abb0c001d37f7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_015-professional practice model.pdf"
-              }
-            }
-          },
-          {
-            "id": "4b7dd71d821dcb09",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 2/Chapter_010-power and conflict.pdf"
-              }
-            }
-          },
-          {
-            "id": "d88098d829fc5064",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 2_Day6/4-Finkelman4e_ch04_lecture-2023.pdf"
-              }
-            }
-          },
-          {
-            "id": "8bd5ae85a03995da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
         "id": "93388b109ff630b0",
         "type": "tabs",
         "children": [
-          {
-            "id": "4c2268ab799d68fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6733a57dec61bc4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4373c1f3a2353118",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf"
-              }
-            }
-          },
-          {
-            "id": "15f61b2dd27e1797",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
           {
             "id": "a5d1587de4fde8bb",
             "type": "leaf",
@@ -152,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -237,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,8 +150,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e0eb44412ba8861",
+  "active": "a5d1587de4fde8bb",
   "lastOpenFiles": [
+    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
+    "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
+    "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
+    "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
+    "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf",
+    "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
     "school_spring2024/NURS380_Practicum/Files/Student Clinical Information Sheet: Spring 2024.pdf",
     "school_spring2024/NURS380_Practicum/Files/Senior Clinical Attendance Log Revised 1_10_2021 - Tagged-1.pdf",
     "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
@@ -301,13 +165,7 @@
     "school_spring2024/NURS380_Practicum/Files",
     "school_spring2024/NURS380_Practicum/Senior Clinical Attendance Log Revised 1_10_2021 - Tagged-1.pdf",
     "school_spring2024/NURS341_Leadership/Assignments/Group 8 Final Case Study and Short Answer.docx.pdf",
-    "school_spring2024/NURS341_Leadership/Week 2_Day6/4-Finkelman4e_ch04_lecture-2023.pdf",
-    "school_spring2024/NURS341_Leadership/Week 1_Day3/Chapter_011-workplace diversity and inclusion.pdf",
-    "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_015-professional practice model.pdf",
-    "school_spring2024/NURS341_Leadership/Week 1_Day 2/Chapter_010-power and conflict.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
-    "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
-    "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation Script.md",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
