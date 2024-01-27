@@ -11,8 +11,12 @@
             "id": "a5d1587de4fde8bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Open Book.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Open Book.md"
+              }
             }
           }
         ]
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Open Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Open Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +197,7 @@
     "school_spring2024/NURS341_Leadership/Chapter 10_Power and Conflict.md",
     "school_spring2024/Chapter 10_Power and Conflict.md",
     "school_spring2024/NURS341_Leadership/Assignments/Leadership Reflection.md",
-    "Nix structure.md",
+    "Open Book.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Day 1 Notes.md",
