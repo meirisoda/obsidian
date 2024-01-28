@@ -110,8 +110,7 @@ img {
   margin-right: auto !important;
 }
 
-.markdown-source-view.mod-cm6 .cm-content > * {
-  margin: auto auto !important;
+.markdown-source-view, .markdown-preview-view {
   max-width: 850px;
   margin: auto;
 }
