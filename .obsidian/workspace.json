@@ -11,11 +11,9 @@
             "id": "a5d1587de4fde8bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Open Book.md",
-                "mode": "source",
-                "source": false
+                "file": "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf"
               }
             }
           }
@@ -79,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open Book.md"
+                "file": "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Book.md",
+                "file": "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open Book.md",
+                "file": "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5d1587de4fde8bb",
+  "active": "4b9202fd502981f0",
   "lastOpenFiles": [
+    "Open Book.md",
     "school_fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "school_fall2023/PSCL389/EXAM2/Exam 2.pdf",
     "school_fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "school_fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
-    "Open Book.md",
     "school_fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "school_fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
