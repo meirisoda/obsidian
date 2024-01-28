@@ -4,6 +4,7 @@
   "cssTheme": "soda",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "image-align"
+    "image-align",
+    "margin"
   ]
 }
