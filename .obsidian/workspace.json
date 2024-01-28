@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf"
+                "file": "school_spring2024/NURS380_Practicum/Files/Student Clinical Information Sheet: Spring 2024.pdf"
               }
             }
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf"
+                "file": "school_spring2024/NURS380_Practicum/Files/Student Clinical Information Sheet: Spring 2024.pdf"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Files/Student Clinical Information Sheet: Spring 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Files/Student Clinical Information Sheet: Spring 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "a5d1587de4fde8bb",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf",
     "Open Book.md",
     "school_fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "school_fall2023/PSCL389/EXAM2/Exam 2.pdf",
@@ -206,7 +207,6 @@
     "Learning/CS50/Lecture 1 Notes.md",
     "New Laptop/Arch Config (nevermind).md",
     "New Laptop/zshrc.md",
-    "New Laptop/p10k.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
