@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
+                "file": "school_fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md"
+                "file": "school_fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
+                "file": "school_fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
+                "file": "school_fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +160,14 @@
   },
   "active": "a5d1587de4fde8bb",
   "lastOpenFiles": [
+    "school_fall2023/PSCL389/EXAM2/Exam 2.pdf",
+    "school_fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
+    "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "school_fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "Open Book.md",
-    "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "school_fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
-    "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
@@ -207,7 +209,6 @@
     "New Laptop/Arch Config (nevermind).md",
     "New Laptop/zshrc.md",
     "New Laptop/p10k.md",
-    "Learning/CS/JavaScript.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
