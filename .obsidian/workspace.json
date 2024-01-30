@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/README.md",
+                "file": "notebook/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "554ce12d5fd45a5b",
@@ -80,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/README.md"
+                "file": "notebook/Untitled.md"
               }
             }
           }
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/README.md",
+                "file": "notebook/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/README.md",
+                "file": "notebook/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +158,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "576b76747514f271",
+  "active": "a5d1587de4fde8bb",
   "lastOpenFiles": [
-    "Music.md",
+    "notebook/Gym.md",
+    "notebook/Untitled.md",
+    "notebook/Thoughts/What do I want to do?.md",
+    "notebook/Things to take note of.md",
+    "notebook/Lists/Things to bring back from home.md",
+    "notebook/README.md",
+    "notebook/Lists/Date to do.md",
+    "notebook/Music.md",
     "notebook/Lists/Movies and Films.md",
     "notebook/Lists/People.md",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
@@ -202,14 +208,7 @@
     "school_spring2024/NURS341_Leadership/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/Pasted image 20240119210324.png",
-    "school_spring2024/README.md",
-    "school_spring2024/NURS341_Leadership/Week 1_Day 2/Day 2 Notes.md",
-    "Chapter 10_Power and Conflict.md",
-    "school_spring2024/NURS341_Leadership/Chapter 10_Power and Conflict.md",
-    "school_spring2024/Chapter 10_Power and Conflict.md",
-    "school_spring2024/NURS341_Leadership/Assignments/Leadership Reflection.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
-    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Day 1 Notes.md",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
