@@ -12,7 +12,10 @@
   "spellcheck": false,
   "spellcheckDictionary": [
     "microg",
-    "microg"
+    "microg",
+    "GParted",
+    "Zorin",
+    "Ventoy"
   ],
   "showLineNumber": false
 }
