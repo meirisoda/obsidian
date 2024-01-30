@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/USB Drive.md",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/USB Drive.md"
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/USB Drive.md",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/USB Drive.md",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,8 @@
   },
   "active": "a5d1587de4fde8bb",
   "lastOpenFiles": [
-    "notebook/Gym.md",
     "notebook/USB Drive.md",
+    "notebook/Gym.md",
     "notebook/Thoughts/What do I want to do?.md",
     "notebook/Things to take note of.md",
     "notebook/Lists/Things to bring back from home.md",
