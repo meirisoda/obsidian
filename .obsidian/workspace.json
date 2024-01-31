@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md"
+                "file": "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md"
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
+                "file": "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
+                "file": "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,13 +210,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "13288c72c34f00de",
   "lastOpenFiles": [
+    "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
     "school_spring2024/NURS380_Practicum/Files/Clinical Information/Student Contact information.pdf",
     "school_spring2024/NURS380_Practicum/Files/Clinical Information/Student Clinical Information Sheet: Spring 2024.pdf",
     "school_spring2024/NURS380_Practicum/Files/Clinical Information",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
-    "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
     "school_spring2024/NURS343_Ethics/Assignments",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
@@ -239,7 +239,6 @@
     "school_spring2024/Files/Spring 2024 Plan.md",
     "school_spring2024/NURS380_Practicum/Assignments",
     "school_spring2024/NURS380_Practicum/Files/Student Clinical Information Sheet: Spring 2024.pdf",
-    "school_spring2024/NURS380_Practicum/Files/Student Contact information.pdf",
     "school_fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "school_fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
