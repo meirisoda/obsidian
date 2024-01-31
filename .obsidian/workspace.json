@@ -8,6 +8,32 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e34e1ad0a4020b04",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf"
+              }
+            }
+          },
+          {
+            "id": "912523ea3e6dc968",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "32d0b74fb3837c78",
+        "type": "tabs",
+        "children": [
+          {
             "id": "a5d1587de4fde8bb",
             "type": "leaf",
             "state": {
@@ -20,23 +46,6 @@
             }
           },
           {
-            "id": "e34e1ad0a4020b04",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "32d0b74fb3837c78",
-        "type": "tabs",
-        "children": [
-          {
             "id": "13288c72c34f00de",
             "type": "leaf",
             "state": {
@@ -45,16 +54,6 @@
                 "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "912523ea3e6dc968",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf"
               }
             }
           }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf"
+                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md"
               }
             }
           }
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,12 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "912523ea3e6dc968",
+  "active": "13288c72c34f00de",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
-    "school_spring2024/NURS343_Ethics/Notes",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
+    "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
+    "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
+    "school_spring2024/NURS343_Ethics/Notes",
     "notebook/USB Drive.md",
     "notebook/Gym.md",
     "notebook/Thoughts/What do I want to do?.md",
@@ -231,7 +231,6 @@
     "school_fall2023/NTRN201/Exam 2_Final/Exam2_Final Study Guide.md",
     "school_fall2023/NTRN201/Exam 2_Final/NTRN 201 Exam 2 Study Guide Fall 2023 - Tagged.pdf",
     "school_fall2023/NTRN201/Exam 2_Final/Exam 2 Review.pdf",
-    "school_spring2024/NURS341_Leadership/Week 1_Day 1/Chapter_001-principles.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
