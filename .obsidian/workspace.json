@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "13288c72c34f00de",
+            "id": "e34e1ad0a4020b04",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -31,6 +31,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "32d0b74fb3837c78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13288c72c34f00de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS343_Ethics/Morality vs Ethics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf"
+                "file": "school_spring2024/NURS343_Ethics/Morality vs Ethics.md"
               }
             }
           }
@@ -114,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
+                "file": "school_spring2024/NURS343_Ethics/Morality vs Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
+                "file": "school_spring2024/NURS343_Ethics/Morality vs Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +190,9 @@
   },
   "active": "13288c72c34f00de",
   "lastOpenFiles": [
+    "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
+    "school_spring2024/NURS343_Ethics/Morality vs Ethics.md",
     "notebook/USB Drive.md",
     "notebook/Gym.md",
     "notebook/Thoughts/What do I want to do?.md",
@@ -203,14 +223,11 @@
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/NURS 341-daily schedule-Spring 2024-final - Tagged.pdf",
-    "school_spring2024/NURS341_Leadership/Week 2_Day6/Chapter_003 -organizational climate and culture-1.pptx.pdf",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 1.md",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240122192010.png",
-    "school_spring2024/NURS341_Leadership/Assignments/Article/Article Review.md",
-    "school_spring2024/NURS341_Leadership/Assignments/Conflict Resolution Reflection.md",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119210324.png",
