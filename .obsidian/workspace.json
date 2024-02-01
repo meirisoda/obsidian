@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf"
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md"
               }
             }
           }
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,11 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "912523ea3e6dc968",
+  "active": "a5d1587de4fde8bb",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
-    "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
     "school_spring2024/NURS380_Practicum/Files/Clinical Information/Student Contact information.pdf",
     "school_spring2024/NURS380_Practicum/Files/Clinical Information/Student Clinical Information Sheet: Spring 2024.pdf",
