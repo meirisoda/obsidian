@@ -43,24 +43,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5d1587de4fde8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6ff31b6c8f960dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7c9afef1ed9759e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,11 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5d1587de4fde8bb",
+  "active": "d7c9afef1ed9759e",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
+    "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
     "school_spring2024/NURS380_Practicum/Files/Clinical Information/Student Contact information.pdf",
