@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "93388b109ff630b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e34e1ad0a4020b04",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf"
-              }
-            }
-          },
-          {
-            "id": "912523ea3e6dc968",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf"
-              }
-            }
-          },
-          {
-            "id": "6c11092371fe9262",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "32d0b74fb3837c78",
         "type": "tabs",
         "children": [
