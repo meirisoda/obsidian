@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ad2907a8c9365e2d",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Class Notes/Week 1 Notes.md"
+                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 1.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Class Notes/Week 1 Notes.md",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Class Notes/Week 1 Notes.md",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d493839cad5bc65d",
+  "active": "90264049ef083dc6",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Notes/Chapter 1.md",
     "school_spring2024/NURS343_Ethics/Class Notes/Week 1 Notes.md",
+    "school_spring2024/NURS343_Ethics/Notes/Chapter 1.md",
     "school_spring2024/NURS343_Ethics/Notes",
     "school_spring2024/NURS343_Ethics/Class Notes/Glossary and Terms/Morals.md",
     "school_spring2024/NURS343_Ethics/Class Notes/Glossary and Terms/Ethics.md",
