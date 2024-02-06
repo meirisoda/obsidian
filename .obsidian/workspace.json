@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "617887065454d1bb",
+            "id": "90264049ef083dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "617887065454d1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS343_Ethics/Notes/Glossary and Terms/Ethics.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,10 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "617887065454d1bb",
+  "active": "90264049ef083dc6",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Notes/Glossary and Terms/Eudaimonia.md",
+    "school_spring2024/NURS343_Ethics/Notes/Glossary and Terms/Ethics.md",
     "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
+    "school_spring2024/NURS343_Ethics/Notes/Glossary and Terms/Eudaimonia.md",
     "school_spring2024/NURS343_Ethics/Notes/Glossary and Terms",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
     "Pasted image 20240206140633.png",
@@ -211,7 +224,6 @@
     "school_spring2024/NURS341_Leadership/Notes/Chapter 2_Change and Innovation.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 1_Principles.md",
     "school_spring2024/NURS341_Leadership/Notes/Chapter 10_Power and Conflict.md",
-    "school_spring2024/NURS341_Leadership/Assignments/Mini Case Study 2.md",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240122192010.png",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240119211226.png",
