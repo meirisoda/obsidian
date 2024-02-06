@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "school_spring2024/NURS343_Ethics/Notes/Glossary and Terms/Eudaimonia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "617887065454d1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,13 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "617887065454d1bb",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Notes/Untitled",
+    "school_spring2024/NURS343_Ethics/Notes/Glossary and Terms/Eudaimonia.md",
+    "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
+    "school_spring2024/NURS343_Ethics/Notes/Glossary and Terms",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
     "Pasted image 20240206140633.png",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
-    "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.pdf",
     "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
     "school_spring2024/NURS343_Ethics/NURS 343 Spring 2024 syllabus - Tagged.pdf",
@@ -189,7 +203,6 @@
     "Web View.md",
     "school_spring2024/Files",
     "school_spring2024/Files/Spring 2024 Plan.md",
-    "school_spring2024/NURS380_Practicum/Assignments",
     "school_fall2023/PSCL389/EXAM2/Jamie Lee_Exam 2.md",
     "school_fall2023/PSCL389/EXAM2/Exam 2 Planning.md",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
