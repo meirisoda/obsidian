@@ -11,6 +11,18 @@
       "title": "Highlight",
       "injectColor": true,
       "noTitle": true
+    },
+    "Definition": {
+      "type": "Definition",
+      "color": "195, 162, 162",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-text"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
