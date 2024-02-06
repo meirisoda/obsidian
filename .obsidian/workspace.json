@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "13288c72c34f00de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md"
+                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md"
               }
             }
           }
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +159,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13288c72c34f00de",
+  "active": "f6ff31b6c8f960dc",
   "lastOpenFiles": [
+    "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
     "Pasted image 20240206140633.png",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.md",
-    "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
     "school_spring2024/NURS343_Ethics/Notes/Week 1 Notes.md",
     "school_spring2024/NURS380_Practicum/Assignments/Clinical Objectives.pdf",
     "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
@@ -221,7 +208,6 @@
     "school_spring2024/NURS341_Leadership/Pasted Image/Pasted image 20240119210324.png",
     "school_spring2024/NURS341_Leadership/Pasted image 20240119211226.png",
     "school_spring2024/NURS341_Leadership/Pasted image 20240119210550.png",
-    "school_spring2024/NURS341_Leadership/Pasted image 20240119210324.png",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
