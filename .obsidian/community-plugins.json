@@ -8,11 +8,11 @@
   "obsidian-git",
   "obsidian-languagetool-plugin",
   "obsidian-advanced-slides",
-  "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-latex-suite",
   "quick-latex",
   "obsidian-graphviz",
   "webpage-html-export",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-admonition"
 ]
