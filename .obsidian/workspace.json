@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Ethical Principles.md",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "ad2907a8c9365e2d",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Principlism.md"
+                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md"
               }
             }
           }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Principlism.md",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Principlism.md",
+                "file": "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,11 +239,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9dc905a6849f8a6",
+  "active": "3eac813b5b7a1905",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Ethical Principles.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Principlism.md",
+    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Ethical Theories and Approaches.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 1_Introduction to Ethics.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
