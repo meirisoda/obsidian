@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sunvox",
+                "query": "framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "554ce12d5fd45a5b",
@@ -239,7 +240,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3eac813b5b7a1905",
+  "active": "576b76747514f271",
   "lastOpenFiles": [
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
