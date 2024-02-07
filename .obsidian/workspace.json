@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "3eac813b5b7a1905",
+            "id": "cd362eeb5e564c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "framework",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "554ce12d5fd45a5b",
@@ -240,11 +239,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "576b76747514f271",
+  "active": "cd362eeb5e564c31",
   "lastOpenFiles": [
+    "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Eudaimonia.md",
+    "Untitled.canvas",
+    "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
-    "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Principlism.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Ethical Principles.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Ethical Theories and Approaches.md",
@@ -262,7 +263,6 @@
     "Morals.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Morals.md",
     "school_spring2024/NURS343_Ethics/Notes",
-    "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Eudaimonia.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 1",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 1.md",
     "Pasted image 20240206140633.png",
@@ -278,7 +278,6 @@
     "notebook/Gym.md",
     "notebook/Thoughts/What do I want to do?.md",
     "notebook/Things to take note of.md",
-    "notebook/Lists/Things to bring back from home.md",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240122192010.png",
@@ -296,7 +295,6 @@
     "School_Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "s_f2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "s_f2023/NURS360/Personal Improvement Plan Flowchart.canvas",
-    "Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas",
-    "Fall2023/NURS360/Personal Improvement Plan Flowchart.canvas"
+    "Fall2023/NTRN201/MIDTERM/Midterm Study Guide.canvas"
   ]
 }
