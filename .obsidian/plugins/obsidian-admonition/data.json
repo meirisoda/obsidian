@@ -2,7 +2,7 @@
   "userAdmonitions": {
     "highlight": {
       "type": "highlight",
-      "color": "150, 150, 150",
+      "color": "102, 163, 255",
       "icon": {
         "name": "sun",
         "type": "font-awesome"
@@ -10,7 +10,8 @@
       "command": false,
       "title": "Highlight",
       "injectColor": true,
-      "noTitle": true
+      "noTitle": true,
+      "copy": false
     },
     "Definition": {
       "type": "Definition",
