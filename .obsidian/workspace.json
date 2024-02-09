@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "32d0b74fb3837c78",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f6ff31b6c8f960dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ad2907a8c9365e2d",
         "type": "tabs",
         "children": [
@@ -128,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.51103591918945
+    "width": 282.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "b429bfae0941020b",
