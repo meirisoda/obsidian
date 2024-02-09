@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/DKA/Diabetic Ketoacidosis.md",
+                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetic Ketoacidosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/DKA/Diabetic Ketoacidosis.md"
+                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetic Ketoacidosis.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/DKA/Diabetic Ketoacidosis.md",
+                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetic Ketoacidosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/DKA/Diabetic Ketoacidosis.md",
+                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetic Ketoacidosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f4c2ef77f0d8ca3",
+  "active": "4b9202fd502981f0",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/HESI/Essential Packets/DKA/Diabetic Ketoacidosis.md",
+    "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetic Ketoacidosis.md",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
-    "school_spring2024/NURS380_Practicum/HESI/Essential Packets/DKA",
+    "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine",
     "school_spring2024/NURS380_Practicum/HESI/Essential Packets",
     "school_spring2024/NURS380_Practicum/HESI",
     "school_spring2024/NURS380_Practicum/Assignments/Copy of Fluid and Electrolyte Worksheet.pdf",
