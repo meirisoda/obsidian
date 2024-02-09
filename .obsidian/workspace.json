@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/SIADH.md",
+                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetes Insipidus.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/SIADH.md"
+                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetes Insipidus.md"
               }
             }
           }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.51103591918945,
-    "collapsed": true
+    "width": 282.51103591918945
   },
   "right": {
     "id": "b429bfae0941020b",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/SIADH.md",
+                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetes Insipidus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/SIADH.md",
+                "file": "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetes Insipidus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f4c2ef77f0d8ca3",
+  "active": "4b9202fd502981f0",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetes Insipidus.md",
+    "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Images",
+    "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Pasted image 20240209151228.png",
     "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/SIADH.md",
+    "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetes Insipidus.md",
     "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine/Diabetic Ketoacidosis.md",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Endocrine",
@@ -212,7 +213,6 @@
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Autonomy.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Note Template.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Values and Moral Reasoning.md",
-    "school_spring2024/NURS343_Ethics/Notes/Chapter 1/Ethical Perspectives.md",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "school_spring2024/NURS341_Leadership/_Pasted Images/Pasted image 20240122192010.png",
@@ -223,7 +223,6 @@
     "school_spring2024/NURS341_Leadership/Pasted Image/Pasted image 20240119210550.png",
     "school_spring2024/NURS341_Leadership/Pasted Image/Pasted image 20240119210324.png",
     "school_spring2024/NURS341_Leadership/Pasted image 20240119211226.png",
-    "school_spring2024/NURS341_Leadership/Pasted image 20240119210550.png",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "School_Fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
