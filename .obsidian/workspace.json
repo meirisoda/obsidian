@@ -38,9 +38,19 @@
                 "file": "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf"
               }
             }
+          },
+          {
+            "id": "7eea63a2b8bc052d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Copy of Fluid and Electrolyte Worksheet.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "364f152cbb03b9c6",
@@ -131,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md"
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Copy of Fluid and Electrolyte Worksheet.pdf"
               }
             }
           }
@@ -155,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Copy of Fluid and Electrolyte Worksheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Copy of Fluid and Electrolyte Worksheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,12 +221,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df5f677a864fa970",
+  "active": "7eea63a2b8bc052d",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
+    "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
-    "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
+    "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
     "school_spring2024/NURS380_Practicum/HESI/Case Studies/AUUGHHH.md",
     "school_spring2024/NURS380_Practicum/HESI/Essential Packets/Acid Base.md",
     "school_spring2024/NURS380_Practicum/HESI/Case Studies",
