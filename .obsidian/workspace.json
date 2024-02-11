@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "364f152cbb03b9c6",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf"
               }
             }
           }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,11 +221,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "433712a53c2b5317",
+  "active": "9f4c2ef77f0d8ca3",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
     "school_spring2024/NURS380_Practicum/Files/NURS 380 SP 24.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
-    "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
     "school_spring2024/NURS380_Practicum/HESI/Case Studies/AUUGHHH.md",
