@@ -26,17 +26,18 @@
       "noTitle": false,
       "copy": false
     },
-    "treatm": {
-      "type": "treatm",
-      "color": "193, 51, 51",
+    "tx": {
+      "type": "tx",
+      "color": "211, 105, 105",
       "icon": {
-        "name": "book-medical",
+        "name": "medkit",
         "type": "font-awesome"
       },
       "command": false,
       "title": "Treatment",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "values": {
       "type": "values",
@@ -47,6 +48,18 @@
       },
       "command": false,
       "title": "Values",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "sx": {
+      "type": "sx",
+      "color": "182, 196, 246",
+      "icon": {
+        "name": "book-medical",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Signs & Symptoms",
       "injectColor": true,
       "noTitle": false
     }
