@@ -11,8 +11,10 @@
             "id": "9f4c2ef77f0d8ca3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf"
+              }
             }
           },
           {
@@ -33,8 +35,12 @@
             "id": "225a6e3d2fd5a2fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md"
+              }
             }
           }
         ]
@@ -119,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +183,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f4c2ef77f0d8ca3",
+  "active": "225a6e3d2fd5a2fb",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
+    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/HESI/Pasted image 20240209153738.png",
     "school_spring2024/NURS380_Practicum/Pasted image 20240209153738.png",
     "school_spring2024/Pasted image 20240209153738.png",
@@ -207,12 +220,10 @@
     "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics/routing.md",
     "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics/project_blog_app.md",
     "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics/deployment.md",
-    "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics/controllers.md",
     "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/testing",
     "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/rails_sprinkles",
     "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/rails_basics",
     "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/mailers_advanced_topics",
-    "notebook/Learning/The Odin Project Curriculum/ruby_on_rails/introduction",
     "notebook/Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "notebook/Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
     "notebook/Learning/The Odin Project Curriculum/ruby/basic_ruby/debugging/imgs/01.png",
@@ -220,7 +231,6 @@
     "notebook/Learning/The Odin Project Curriculum/ruby/basic_ruby_projects/bubble_sort/imgs/00.gif",
     "notebook/Learning/The Odin Project Curriculum/ruby/automated_testing/test_driven_development/imgs/04.png",
     "notebook/Learning/The Odin Project Curriculum/ruby/automated_testing/test_driven_development/imgs/03.png",
-    "notebook/Learning/The Odin Project Curriculum/ruby/automated_testing/test_driven_development/imgs/02.png",
     "school_fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
