@@ -37,6 +37,18 @@
       "title": "Treatment",
       "injectColor": true,
       "noTitle": false
+    },
+    "values": {
+      "type": "values",
+      "color": "204, 204, 204",
+      "icon": {
+        "name": "sort-numeric-up",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Values",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
