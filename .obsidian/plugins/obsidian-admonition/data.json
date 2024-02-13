@@ -15,7 +15,7 @@
     },
     "Definition": {
       "type": "Definition",
-      "color": "195, 162, 162",
+      "color": "199, 255, 203",
       "icon": {
         "type": "obsidian",
         "name": "lucide-text"
@@ -23,7 +23,8 @@
       "command": false,
       "title": "Definition",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "treatm": {
       "type": "treatm",
