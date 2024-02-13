@@ -24,6 +24,18 @@
       "title": "Definition",
       "injectColor": true,
       "noTitle": false
+    },
+    "treatm": {
+      "type": "treatm",
+      "color": "193, 51, 51",
+      "icon": {
+        "name": "book-medical",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Treatment",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
