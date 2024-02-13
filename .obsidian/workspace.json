@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ddddcb8551a445a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9f4c2ef77f0d8ca3",
             "type": "leaf",
             "state": {
@@ -31,29 +23,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "364f152cbb03b9c6",
         "type": "tabs",
         "children": [
-          {
-            "id": "d87d659e7f124153",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "df5f677a864fa970",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
           {
             "id": "225a6e3d2fd5a2fb",
             "type": "leaf",
@@ -62,8 +37,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +173,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "9f4c2ef77f0d8ca3",
   "lastOpenFiles": [
     "school_spring2024/NURS380_Practicum/HESI/Pasted image 20240209153738.png",
     "school_spring2024/NURS380_Practicum/Pasted image 20240209153738.png",
