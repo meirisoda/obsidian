@@ -50,9 +50,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b596f5a8f1edc2d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "364f152cbb03b9c6",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
               }
             }
           }
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,13 +233,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aabcd91d0d8c663e",
+  "active": "7b596f5a8f1edc2d",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
+    "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+    "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
     "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
-    "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/HESI/Pasted image 20240209153738.png",
