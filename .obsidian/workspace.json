@@ -91,9 +91,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "544df22ade8e852f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,7 +183,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +199,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,10 +237,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7b596f5a8f1edc2d",
+  "active": "544df22ade8e852f",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+    "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
