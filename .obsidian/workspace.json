@@ -84,9 +84,11 @@
             "id": "544df22ade8e852f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240215161525.png"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -151,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240215161525.png"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md"
               }
             }
           }
@@ -175,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240215161525.png",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240215161525.png",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,10 +233,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "544df22ade8e852f",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Premature Atrial Contraction.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240215161604.png",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240215161525.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
