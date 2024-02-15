@@ -96,8 +96,12 @@
             "id": "544df22ade8e852f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -160,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/Untitled.md"
+              }
             }
           }
         ]
@@ -183,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,6 +247,7 @@
   },
   "active": "544df22ade8e852f",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/EKG/Untitled.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
