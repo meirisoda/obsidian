@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+                "file": "school_spring2024/OCCP/Psyhoc.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md"
+                "file": "school_spring2024/OCCP/Psyhoc.md"
               }
             }
           }
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.51103591918945
+    "width": 254.5110321044922
   },
   "right": {
     "id": "b429bfae0941020b",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+                "file": "school_spring2024/OCCP/Psyhoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+                "file": "school_spring2024/OCCP/Psyhoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +247,9 @@
   },
   "active": "701b06b9b866dabe",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+    "school_spring2024/OCCP/Psyhoc.md",
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "Pasted image 20240215162657.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Premature Atrial Contraction.png",
