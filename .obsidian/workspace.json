@@ -60,9 +60,21 @@
                 "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
               }
             }
+          },
+          {
+            "id": "2ca7502a3f44587a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "364f152cbb03b9c6",
@@ -245,7 +257,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "701b06b9b866dabe",
+  "active": "2ca7502a3f44587a",
   "lastOpenFiles": [
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
