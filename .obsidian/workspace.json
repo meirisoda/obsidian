@@ -117,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
+                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md"
               }
             }
           }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,10 +257,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7b596f5a8f1edc2d",
+  "active": "701b06b9b866dabe",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "Pasted image 20240215162657.png",
