@@ -5,6 +5,7 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "image-align",
-    "margin"
+    "margin",
+    "zoom"
   ]
 }
