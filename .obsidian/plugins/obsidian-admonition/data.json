@@ -74,6 +74,18 @@
       "title": "Pathophysiology",
       "injectColor": true,
       "noTitle": false
+    },
+    "cause": {
+      "type": "cause",
+      "color": "92, 119, 255",
+      "icon": {
+        "type": "obsidian",
+        "name": "arrowtab"
+      },
+      "command": false,
+      "title": "Causes",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
