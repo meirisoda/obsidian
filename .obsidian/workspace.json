@@ -118,24 +118,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d8091060f156b380",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "593cd530125caf46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -275,7 +257,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "593cd530125caf46",
+  "active": "544df22ade8e852f",
   "lastOpenFiles": [
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
