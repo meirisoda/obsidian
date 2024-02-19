@@ -77,7 +77,7 @@
     },
     "cause": {
       "type": "cause",
-      "color": "92, 119, 255",
+      "color": "163, 183, 255",
       "icon": {
         "type": "obsidian",
         "name": "arrowtab"
@@ -85,7 +85,8 @@
       "command": false,
       "title": "Causes",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
