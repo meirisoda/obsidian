@@ -62,6 +62,18 @@
       "title": "Signs & Symptoms",
       "injectColor": true,
       "noTitle": false
+    },
+    "path": {
+      "type": "path",
+      "color": "162, 251, 196",
+      "icon": {
+        "name": "heartbeat",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Pathophysiology",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
