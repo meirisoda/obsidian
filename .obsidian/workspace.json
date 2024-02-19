@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,8 +116,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Untitled.md"
               }
             }
           }
@@ -201,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,12 +256,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "544df22ade8e852f",
+  "active": "5e440aa320036536",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Untitled.md",
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology",
     "Pasted image 20240218224945.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240218224039.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240215162657.png",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
@@ -272,13 +274,11 @@
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
-    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/Six-step-framework-for-ethical-decision-making.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/Making Ethical Decisions - a six step process.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/4_box_model.revised_Fitzpatrick_2017.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Six-step-framework-for-ethical-decision-making.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Making Ethical Decisions - a six step process.pdf",
-    "school_spring2024/NURS343_Ethics/Notes/Chapter 2/4_box_model.revised_Fitzpatrick_2017.pdf",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
     "school_spring2024/NURS380_Practicum/HESI/Pasted image 20240209153738.png",
@@ -304,7 +304,6 @@
     "notebook/Learning/The Odin Project Curriculum/shared/the_back_end/introduction_to_frameworks.md",
     "notebook/Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/01.png",
     "notebook/Learning/The Odin Project Curriculum/ruby/computer_science/project_knights_travails/imgs/00.png",
-    "notebook/Learning/The Odin Project Curriculum/ruby/basic_ruby/debugging/imgs/01.png",
     "school_fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
