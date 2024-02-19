@@ -116,8 +116,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md"
               }
             }
           }
@@ -201,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,10 +256,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "544df22ade8e852f",
+  "active": "5e440aa320036536",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "Pasted image 20240219151550.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "Pasted image 20240219003148.png",
