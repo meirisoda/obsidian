@@ -116,7 +116,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md"
               }
             }
           }
@@ -200,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,8 +257,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5e440aa320036536",
+  "active": "544df22ade8e852f",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "Pasted image 20240219003148.png",
     "Pasted image 20240219003045.png",
@@ -268,7 +270,6 @@
     "Pasted image 20240219000913.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "Pasted image 20240219000413.png",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology",
     "Pasted image 20240218224945.png",
