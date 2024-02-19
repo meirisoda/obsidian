@@ -117,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md"
               }
             }
           }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,13 +257,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "701b06b9b866dabe",
+  "active": "544df22ade8e852f",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
-    "school_spring2024/OCCP/Psychological Safety Scenarios.md",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
-    "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "Pasted image 20240215162657.png",
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+    "school_spring2024/OCCP/Psychological Safety Scenarios.md",
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+    "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Premature Atrial Contraction.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240215161604.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images",
