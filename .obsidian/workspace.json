@@ -55,9 +55,11 @@
             "id": "7b596f5a8f1edc2d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
+                "file": "notebook/Everything I Own.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -177,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
+                "file": "notebook/Everything I Own.md"
               }
             }
           }
@@ -201,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+                "file": "notebook/Everything I Own.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+                "file": "notebook/Everything I Own.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,6 +261,8 @@
   },
   "active": "7b596f5a8f1edc2d",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+    "notebook/Everything I Own.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
@@ -272,7 +276,6 @@
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219002927.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219001339.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219001324.png",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology",
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
@@ -303,7 +306,6 @@
     "notebook/Learning/The Odin Project Curriculum/templates/project-example.md",
     "notebook/Learning/The Odin Project Curriculum/templates/lesson-template.md",
     "notebook/Learning/The Odin Project Curriculum/templates/lesson-example.md",
-    "notebook/Learning/The Odin Project Curriculum/shared/the_back_end/introduction_to_the_backend_lesson.md",
     "school_fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
