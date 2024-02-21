@@ -129,21 +129,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6690205c1eea57af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md"
               }
             }
           }
@@ -227,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,12 +271,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6690205c1eea57af",
+  "active": "a47d1f72333ad1d9",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Copy of Cardiac Med Review and Case Studies - Student.pdf",
     "Pasted image 20240221135442.png",
     "Pasted image 20240221135358.png",
     "Pasted image 20240221134956.png",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
@@ -306,7 +295,6 @@
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219151550.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219003148.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219003045.png",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219002927.png",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology",
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
@@ -316,7 +304,6 @@
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/Six-step-framework-for-ethical-decision-making.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/Making Ethical Decisions - a six step process.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/4_box_model.revised_Fitzpatrick_2017.pdf",
-    "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Six-step-framework-for-ethical-decision-making.pdf",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
     "notebook/USB Drive.md",
     "notebook/Thoughts/우울하다.md",
