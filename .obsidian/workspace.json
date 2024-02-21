@@ -74,9 +74,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aade9c33636934d8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Copy of Cardiac Med Review and Case Studies - Student.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "364f152cbb03b9c6",
@@ -191,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Copy of Cardiac Med Review and Case Studies - Student.pdf"
               }
             }
           }
@@ -215,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Copy of Cardiac Med Review and Case Studies - Student.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Copy of Cardiac Med Review and Case Studies - Student.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,15 +281,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a47d1f72333ad1d9",
+  "active": "aade9c33636934d8",
   "lastOpenFiles": [
+    "school_spring2024/OCCP/Psychological Safety Scenarios.md",
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Copy of Cardiac Med Review and Case Studies - Student.pdf",
     "Pasted image 20240221135442.png",
     "Pasted image 20240221135358.png",
     "Pasted image 20240221134956.png",
-    "school_spring2024/OCCP/Psychological Safety Scenarios.md",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
