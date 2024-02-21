@@ -52,18 +52,6 @@
             }
           },
           {
-            "id": "7b596f5a8f1edc2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notebook/Everything I Own.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ca7502a3f44587a",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "364f152cbb03b9c6",
@@ -178,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/Everything I Own.md"
+                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md"
               }
             }
           }
@@ -202,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/Everything I Own.md",
+                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/Everything I Own.md",
+                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,10 +246,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7b596f5a8f1edc2d",
+  "active": "e527dcdbd41024e4",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "notebook/Everything I Own.md",
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
