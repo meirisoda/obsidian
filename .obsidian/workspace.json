@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "88fe7d303cc8822c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2ca7502a3f44587a",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "364f152cbb03b9c6",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md"
               }
             }
           }
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,11 +258,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e527dcdbd41024e4",
+  "active": "5e440aa320036536",
   "lastOpenFiles": [
+    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
+    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "notebook/Everything I Own.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
-    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
@@ -270,7 +283,6 @@
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
-    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/Six-step-framework-for-ethical-decision-making.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/Making Ethical Decisions - a six step process.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Files/4_box_model.revised_Fitzpatrick_2017.pdf",
