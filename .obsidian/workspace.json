@@ -134,8 +134,12 @@
             "id": "6690205c1eea57af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Pharm Review Bingo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -198,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Pharm Review Bingo.md"
+              }
             }
           }
         ]
@@ -221,6 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Pharm Review Bingo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,6 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Pharm Review Bingo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,6 +285,7 @@
   },
   "active": "6690205c1eea57af",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Pharm Review Bingo.md",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiology Basics.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
