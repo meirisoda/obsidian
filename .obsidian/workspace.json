@@ -92,8 +92,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md"
               }
             }
           }
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,13 +232,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7fee1299b87b1af9",
+  "active": "5e440aa320036536",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
     "Pasted image 20240221135442.png",
     "Pasted image 20240221135358.png",
     "Pasted image 20240221134956.png",
