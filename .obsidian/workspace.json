@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+                "file": "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md"
+                "file": "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md"
               }
             }
           }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+                "file": "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+                "file": "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +232,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4b9202fd502981f0",
+  "active": "5e440aa320036536",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+    "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
+    "school_spring2024/OCCP/Module 3/Psychological Safety Scenarios.md",
+    "school_spring2024/OCCP/Module 3",
     "school_spring2024/OCCP/Module 1/Team Learning Inventory Summary Document.pdf",
     "school_spring2024/OCCP/Module 1/Slides for Introduction to OCCP Teamwork Mindsets and Conceptual Frameworks.pdf",
     "school_spring2024/OCCP/Module 1",
@@ -241,7 +245,6 @@
     "school_spring2024/OCCP/_Files/OCCP Project Descriptions Booklet _Spring 2024.pdf",
     "school_spring2024/OCCP/_Files",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
@@ -263,9 +266,7 @@
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219003148.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images/Pasted image 20240219003045.png",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology",
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/Pasted Images",
     "school_spring2024/NURS343_Ethics/Assignments/Discussion Post 2.md",
     "notebook/USB Drive.md",
     "notebook/Thoughts/우울하다.md",
@@ -279,7 +280,6 @@
     "notebook/Lists/People.md",
     "notebook/Lists/Movies and Films.md",
     "notebook/Lists/Date to do.md",
-    "notebook/Learning/The Odin Project Curriculum/templates/project-template.md",
     "school_fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
