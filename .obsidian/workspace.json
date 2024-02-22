@@ -4,43 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2907a8c9365e2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f4c2ef77f0d8ca3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf"
-              }
-            }
-          },
-          {
-            "id": "e3dae495e49e6101",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "aade9c33636934d8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "364f152cbb03b9c6",
         "type": "tabs",
         "children": [
@@ -234,8 +197,8 @@
   },
   "active": "5e440aa320036536",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/OCCP/Module 3/Psychological Safety Scenarios.md",
     "school_spring2024/OCCP/Module 3",
     "school_spring2024/OCCP/Module 1/Team Learning Inventory Summary Document.pdf",
