@@ -28,54 +28,6 @@
             }
           },
           {
-            "id": "84485588705c459b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e527dcdbd41024e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88fe7d303cc8822c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ca7502a3f44587a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aade9c33636934d8",
             "type": "leaf",
             "state": {
@@ -86,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "364f152cbb03b9c6",
@@ -117,18 +69,6 @@
             }
           },
           {
-            "id": "701b06b9b866dabe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/OCCP/Psychological Safety Scenarios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a47d1f72333ad1d9",
             "type": "leaf",
             "state": {
@@ -141,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
