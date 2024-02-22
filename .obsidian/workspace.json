@@ -57,6 +57,18 @@
             }
           },
           {
+            "id": "7fee1299b87b1af9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a53a2a50ec53ff9c",
             "type": "leaf",
             "state": {
@@ -80,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md"
               }
             }
           }
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +233,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5e440aa320036536",
+  "active": "7fee1299b87b1af9",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
