@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "ed8436e7adc143b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "a53a2a50ec53ff9c",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +194,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7fee1299b87b1af9",
+  "active": "ed8436e7adc143b6",
   "lastOpenFiles": [
     "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
