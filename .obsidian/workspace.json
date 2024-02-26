@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "6d5de55819b26acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b9e899986b39aa3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "364f152cbb03b9c6",
         "type": "tabs",
         "children": [
@@ -116,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
               }
             }
           }
@@ -140,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,12 +212,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a0297ea03a6cc4d",
+  "active": "8b9e899986b39aa3",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
     "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
