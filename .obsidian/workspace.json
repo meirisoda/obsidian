@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "0c45b96198d29c15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a53a2a50ec53ff9c",
             "type": "leaf",
             "state": {
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md"
               }
             }
           }
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,11 +184,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0c45b96198d29c15",
+  "active": "a53a2a50ec53ff9c",
   "lastOpenFiles": [
-    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
-    "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+    "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/OCCP/Module 3/Psychological Safety Scenarios.md",
