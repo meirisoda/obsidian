@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "ed8436e7adc143b6",
+            "id": "0c45b96198d29c15",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md"
+                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md"
               }
             }
           }
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
+                "file": "school_spring2024/NURS343_Ethics/Assignments/Healthcare Ethics in Current Events Discussion Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +196,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ed8436e7adc143b6",
+  "active": "0c45b96198d29c15",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
     "school_spring2024/OCCP/Module 3/Module 3 Discussion Board.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/OCCP/Module 3/Psychological Safety Scenarios.md",
@@ -206,7 +209,6 @@
     "school_spring2024/OCCP/_Files/Online Community Collaborative Practice Syllabus SP24.pdf",
     "school_spring2024/OCCP/_Files/OCCP Project Descriptions Booklet _Spring 2024.pdf",
     "school_spring2024/OCCP/_Files",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
