@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "6a0297ea03a6cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4148647e3d52e1e5",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md"
+                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md"
               }
             }
           }
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
+                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
+                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +196,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a53a2a50ec53ff9c",
+  "active": "6a0297ea03a6cc4d",
   "lastOpenFiles": [
+    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Review.md",
@@ -206,7 +219,6 @@
     "Pasted image 20240221135358.png",
     "Pasted image 20240221134956.png",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
-    "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
     "school_spring2024/NURS380_Practicum/Topics/dddd",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Ethical Principles.md",
     "notebook/Everything I Own.md",
