@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ffaec8797d1901b6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4f092336ed569b0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "364f152cbb03b9c6",
         "type": "tabs",
         "children": [
