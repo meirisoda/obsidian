@@ -116,6 +116,11 @@ img {
   margin-right: auto !important;
 }
 
+.callout-content {
+  margin:4px 0px 4px 0px !important;
+  padding: 4px 0px 4px 0px !important;
+}
+
 @media print {
   h1, h2, h3, h4, h5, h6, body {
     color: black !important;
