@@ -35,15 +35,42 @@
               "state": {
                 "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
                 "viewState": {
-                  "x": -956.1571099522827,
-                  "y": 89.47115285007987,
+                  "x": 857.5609128505107,
+                  "y": 197.6219455071361,
                   "zoom": -0.5474470632617865
                 }
               }
             }
+          },
+          {
+            "id": "f4c06c1cdf4c68fd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+                "viewState": {
+                  "x": -1465.4515887850469,
+                  "y": -24.6968691588786,
+                  "zoom": -1.4725849439106824
+                }
+              }
+            }
+          },
+          {
+            "id": "46e2ee675a123a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "364f152cbb03b9c6",
@@ -146,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf"
               }
             }
           }
@@ -170,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +253,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4f7ce885bd772a4f",
+  "active": "675a0ad5a1d53b4f",
   "lastOpenFiles": [
+    "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
+    "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
+    "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "Pasted image 20240227144405.png",
@@ -274,8 +304,6 @@
     "notebook/Lists/People.md",
     "notebook/Lists/Movies and Films.md",
     "school_fall2023/NURS360/Personal Improvement Plan Flowchart.canvas",
-    "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
-    "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
     "school_spring2024/NURS341_Leadership/Assignments/Poster Presentation/Poster Presentation.canvas",
     "Untitled.canvas",
     "School_Fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
