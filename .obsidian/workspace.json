@@ -26,9 +26,24 @@
                 "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf"
               }
             }
+          },
+          {
+            "id": "4f7ce885bd772a4f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
+                "viewState": {
+                  "x": -956.1571099522827,
+                  "y": 89.47115285007987,
+                  "zoom": -0.5474470632617865
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "364f152cbb03b9c6",
@@ -131,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md"
+                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas"
               }
             }
           }
@@ -155,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+                "file": "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,13 +226,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c253f51dba067943",
+  "active": "4f7ce885bd772a4f",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
+    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "Pasted image 20240227144405.png",
     "Pasted image 20240227144359.png",
     "Pasted image 20240227144337.png",
-    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
-    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "Pasted image 20240227144324.png",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
@@ -227,7 +242,6 @@
     "Pasted image 20240227135221.png",
     "Pasted image 20240227134923.png",
     "Pasted image 20240227134727.png",
-    "Pasted image 20240226180324.png",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 1 Notes.md",
     "school_spring2024/NURS343_Ethics/Aggregated Notes/Chapter 2 Notes.md",
