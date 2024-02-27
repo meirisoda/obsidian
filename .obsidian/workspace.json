@@ -134,8 +134,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md"
               }
             }
           }
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,11 +274,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "acd715de8097b29e",
+  "active": "6a0297ea03a6cc4d",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
