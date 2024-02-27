@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "aba9ab90744293c3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf"
+              }
+            }
+          },
+          {
             "id": "675a0ad5a1d53b4f",
             "type": "leaf",
             "state": {
@@ -101,6 +111,18 @@
             }
           },
           {
+            "id": "acd715de8097b29e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4148647e3d52e1e5",
             "type": "leaf",
             "state": {
@@ -113,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md"
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md"
               }
             }
           }
@@ -197,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,10 +275,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c253f51dba067943",
+  "active": "acd715de8097b29e",
   "lastOpenFiles": [
-    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluid, Electrolytes & Acid-Base Balance.md",
+    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+    "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_fall2023/NTRN201/Exam 2_Final/Exam 2_Final Notes.md",
     "school_fall2023/NTRN201/Exam 2_Final/Final Study.canvas",
     "school_fall2023/NTRN201/Exam 1_Midterm/Midterm Study Guide.canvas",
@@ -264,8 +289,6 @@
     "Pasted image 20240227144359.png",
     "Pasted image 20240227144337.png",
     "Pasted image 20240227144324.png",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "Pasted image 20240227135404.png",
     "Pasted image 20240227135355.png",
     "Pasted image 20240227135336.png",
@@ -286,7 +309,6 @@
     "school_spring2024/OCCP/_Files/Online Community Collaborative Practice Syllabus SP24.pdf",
     "school_spring2024/OCCP/_Files/OCCP Project Descriptions Booklet _Spring 2024.pdf",
     "school_spring2024/OCCP/_Files",
-    "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
     "school_spring2024/OCCP/Psychological Safety Scenarios.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2/Ethical Principles.md",
