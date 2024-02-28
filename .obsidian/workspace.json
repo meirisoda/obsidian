@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf"
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
               }
             }
           }
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +219,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aba9ab90744293c3",
+  "active": "8b9e899986b39aa3",
   "lastOpenFiles": [
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
