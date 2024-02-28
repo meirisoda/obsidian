@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "aafd54ad5bd4c500",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf"
+              }
+            }
+          },
+          {
             "id": "aba9ab90744293c3",
             "type": "leaf",
             "state": {
@@ -79,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf"
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf"
               }
             }
           }
@@ -163,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
+                "file": "school_spring2024/NURS380_Practicum/Assignments/Fluid and Electrolyte Worksheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,11 +230,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b9e899986b39aa3",
+  "active": "aafd54ad5bd4c500",
   "lastOpenFiles": [
+    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Fluid, Electrolytes & Acid Base Balance/Fluids and Electrolytes Review - Student.pdf",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Cardiac Med Review.pdf",
-    "school_spring2024/NURS380_Practicum/Topics/EKG/EKG Review.pdf",
     "school_spring2024/NURS343_Ethics/Notes/Chapter 2_Introduction to Bioethics and Ethical Decision Making.md",
     "school_spring2024/NURS380_Practicum/Topics/EKG/EKG and Rhythms.md",
     "school_spring2024/NURS380_Practicum/Topics/Pharmacology/Medications.md",
